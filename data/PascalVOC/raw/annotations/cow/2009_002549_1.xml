@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_002549</image>
+	<voc_id>1</voc_id>
+	<category>cow</category>
+	<visible_bounds height="128.00" width="161.00" xmin="306.00" ymin="100.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="314.30" y="190.62" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="312.97" y="198.42" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="319.81" y="177.69" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="354.01" y="190.15" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="356.86" y="128.25" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="380.99" y="178.64" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="438.18" y="158.29" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="418.42" y="165.90" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="375.48" y="222.19" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="443.88" y="219.53" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="422.98" y="216.68" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="366.36 384.60 407.40 434.00 453.00 456.04 453.00 443.12 441.22 434.76 433.62 431.34 418.04 412.34 396.00 381.56 375.48 362.18 364.08 350.02 334.44 313.16 308.98 312.78 308.60 314.68 318.10 322.66 331.02 345.46 " y="120.26 113.03 106.19 105.81 114.94 149.17 221.05 226.00 215.35 170.09 210.02 226.38 223.33 179.21 184.54 219.91 226.38 225.24 198.23 193.67 206.22 210.78 205.08 195.95 186.44 180.74 166.28 168.94 166.28 135.09 "/>
+	</polylinesegments>
+</annotation>

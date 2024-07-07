@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_002837</image>
+	<voc_id>1</voc_id>
+	<category>cat</category>
+	<visible_bounds height="360.00" width="432.00" xmin="68.00" ymin="1.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="253.29" y="97.78" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="154.52" y="103.12" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="211.17" y="145.49" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="275.95" y="22.15" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="130.58" y="49.43" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="228.49" y="254.17" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="346.50" y="298.13" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="119.36" y="307.23" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="77.14 173.34 220.37 314.43 304.81 330.46 328.32 352.91 410.63 494.00 499.35 71.79 95.31 72.86 67.52 78.20 77.14 " y="-1.92 10.92 3.43 1.29 46.22 79.38 159.61 203.46 246.25 262.30 355.36 360.71 329.69 286.90 166.02 138.21 82.59 "/>
+	</polylinesegments>
+</annotation>

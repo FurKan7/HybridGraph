@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_001216</image>
+	<voc_id>1</voc_id>
+	<category>motorbike</category>
+	<visible_bounds height="374.00" width="499.00" xmin="1.00" ymin="1.00"/>
+	<keypoints>
+		<keypoint name="SeatBase" visible="1" x="380.43" y="69.86" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="156.70" y="327.44" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="6.59" y="350.12" z="0.00"/>
+		<keypoint name="ExhaustPipeEnd" visible="1" x="50.99" y="370.88" z="0.00"/>
+		<keypoint name="TailLight" visible="1" x="9.47" y="152.32" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="469.62 429.25 366.98 311.62 113.26 48.68 46.38 4.86 0.25 6.01 497.29 497.29 " y="24.88 69.86 37.57 6.43 2.97 2.97 27.19 43.33 121.76 376.65 367.42 5.27 "/>
+	</polylinesegments>
+</annotation>

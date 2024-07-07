@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_000882</image>
+	<voc_id>2</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="71.00" width="104.00" xmin="386.00" ymin="163.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="419.97" y="166.12" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="431.75" y="169.24" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="417.33" y="166.48" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="451.46" y="174.44" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="398.58" y="206.92" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="467.08" y="209.50" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="408.86" y="187.66" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="456.35" y="188.44" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="391.61" y="191.00" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="487.99" y="210.84" z="0.00"/>
+		<keypoint name="CranksetCenter" visible="1" x="436.32" y="210.22" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="410.84 415.41 415.17 413.24 411.80 408.92 404.83 399.06 392.57 387.77 385.12 387.04 395.94 401.47 405.31 410.60 413.48 415.89 418.77 425.50 429.83 432.71 433.91 426.70 420.21 418.77 417.57 431.27 442.57 449.06 446.65 441.61 443.05 451.46 456.99 456.27 458.19 460.35 465.40 471.17 480.06 486.07 488.23 489.20 489.20 487.99 483.91 480.30 480.30 468.28 457.23 448.82 445.45 444.01 440.16 435.84 431.99 426.22 417.33 414.45 411.56 " y="188.44 194.44 202.36 209.08 218.68 223.96 227.80 227.80 222.28 213.16 204.52 194.20 185.80 184.60 184.60 181.00 174.76 167.56 163.96 163.48 164.92 166.36 169.48 169.24 168.04 172.12 172.60 172.60 173.80 171.40 168.76 167.80 164.92 164.20 166.84 172.36 177.64 181.00 183.16 185.08 190.12 193.72 200.92 208.60 214.84 222.28 227.56 229.00 229.00 234.76 231.64 224.68 218.68 212.68 214.36 212.20 208.12 200.68 189.88 185.32 182.92 "/>
+	</polylinesegments>
+</annotation>

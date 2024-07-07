@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_008075</image>
+	<voc_id>1</voc_id>
+	<category>horse</category>
+	<visible_bounds height="372.00" width="218.00" xmin="1.00" ymin="128.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="210.56" y="213.96" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="155.89" y="213.41" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="201.91" y="298.52" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="184.97" y="160.35" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="136.01" y="161.83" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="125.51" y="347.16" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="64.77" y="220.04" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="116.13" y="472.07" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="41.58" y="472.07" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="163.62 147.05 123.86 121.65 -2.05 1.26 16.73 16.73 149.26 153.68 180.18 214.42 219.94 208.90 222.15 189.02 189.02 170.24 169.14 " y="144.88 148.19 129.40 158.14 289.68 473.17 477.59 495.28 501.91 294.10 323.95 327.26 298.52 239.94 218.94 160.35 134.93 145.98 145.98 "/>
+	</polylinesegments>
+</annotation>

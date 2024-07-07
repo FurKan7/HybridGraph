@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_000959</image>
+	<voc_id>1</voc_id>
+	<category>car</category>
+	<visible_bounds height="260.00" width="470.00" xmin="26.00" ymin="78.00"/>
+	<keypoints>
+		<keypoint name="L_F_WheelCenter" visible="1" x="39.41" y="172.17" z="0.00"/>
+		<keypoint name="L_B_WheelCenter" visible="1" x="130.00" y="268.15" z="0.00"/>
+		<keypoint name="L_TailLight" visible="1" x="293.22" y="265.90" z="0.00"/>
+		<keypoint name="R_TailLight" visible="1" x="463.47" y="228.19" z="0.00"/>
+		<keypoint name="L_SideviewMirror" visible="1" x="92.42" y="124.40" z="0.00"/>
+		<keypoint name="R_SideviewMirror" visible="1" x="277.29" y="119.51" z="0.00"/>
+		<keypoint name="L_F_RoofTop" visible="1" x="141.52" y="88.57" z="0.00"/>
+		<keypoint name="R_F_RoofTop" visible="1" x="269.69" y="80.97" z="0.00"/>
+		<keypoint name="L_B_RoofTop" visible="1" x="175.62" y="101.82" z="0.00"/>
+		<keypoint name="R_B_RoofTop" visible="1" x="308.25" y="95.63" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="40.50 107.84 131.74 293.59 317.48 335.95 368.54 492.37 489.11 502.14 456.52 471.73 456.52 445.66 420.67 363.10 347.90 333.78 309.88 300.10 266.43 252.31 204.52 194.74 182.79 155.64 127.39 115.45 106.76 105.67 69.82 67.65 63.31 53.53 44.84 36.15 30.72 30.72 29.63 36.15 31.81 " y="112.46 111.37 84.23 82.06 99.43 125.49 134.17 196.06 231.89 247.09 263.37 270.97 280.74 280.74 287.26 303.54 319.83 317.66 320.91 327.43 336.11 327.43 308.97 305.71 324.17 332.86 326.34 294.86 255.77 243.83 198.23 205.83 209.09 213.43 206.91 198.23 183.03 162.40 147.20 134.17 118.97 "/>
+	</polylinesegments>
+</annotation>

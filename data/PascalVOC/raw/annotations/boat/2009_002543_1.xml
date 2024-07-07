@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_002543</image>
+	<voc_id>1</voc_id>
+	<category>boat</category>
+	<subcategory>SailboatNoSail</subcategory>
+	<visible_bounds height="210.00" width="64.00" xmin="54.00" ymin="58.00"/>
+	<keypoints>
+		<keypoint name="Hull_Front_Top" visible="1" x="71.14" y="241.62" z="0.00"/>
+		<keypoint name="Hull_Back_Top" visible="1" x="105.17" y="252.23" z="0.00"/>
+		<keypoint name="Hull_Back_Bot" visible="1" x="105.17" y="264.40" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Top" visible="1" x="68.33" y="252.23" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Bot" visible="1" x="67.70" y="264.09" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Top" visible="1" x="96.74" y="248.49" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Bot" visible="1" x="112.98" y="265.96" z="0.00"/>
+		<keypoint name="Mast_Top" visible="1" x="79.26" y="63.78" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="67.39 54.90 55.53 116.72 114.85 106.11 89.25 " y="59.42 159.26 266.58 264.71 242.87 236.63 61.29 "/>
+	</polylinesegments>
+</annotation>

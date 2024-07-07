@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_005685</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="294.00" width="499.00" xmin="1.00" ymin="39.00"/>
+	<keypoints>
+		<keypoint name="NoseTip" visible="1" x="381.28" y="185.77" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="301.24" y="42.87" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="300.09" y="284.11" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="37.15" y="243.71" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="480.00" y="304.31" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="1.40 130.56 198.60 295.48 340.45 399.27 410.80 398.12 501.91 497.29 417.72 407.34 413.11 398.12 365.82 328.92 304.70 272.41 252.81 248.19 222.82 211.29 149.01 132.87 -2.06 " y="117.90 99.43 57.87 37.10 45.18 147.91 191.77 229.86 231.02 331.44 331.44 314.13 289.89 272.57 273.73 291.04 333.75 332.59 316.43 333.75 329.13 310.66 314.13 327.98 327.98 "/>
+	</polylinesegments>
+</annotation>

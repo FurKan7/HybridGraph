@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_001660</image>
+	<voc_id>1</voc_id>
+	<category>bird</category>
+	<subcategory>Flying</subcategory>
+	<visible_bounds height="151.00" width="118.00" xmin="190.00" ymin="40.00"/>
+	<keypoints>
+		<keypoint name="Right_Eye" visible="1" x="269.65" y="140.85" z="0.00"/>
+		<keypoint name="Beak_Base" visible="1" x="269.80" y="145.41" z="0.00"/>
+		<keypoint name="Beak_Tip" visible="1" x="273.91" y="150.95" z="0.00"/>
+		<keypoint name="Lower_Neck_Base" visible="1" x="260.82" y="140.18" z="0.00"/>
+		<keypoint name="Upper_Neck_Base" visible="1" x="266.81" y="140.33" z="0.00"/>
+		<keypoint name="Leg_Center" visible="1" x="233.74" y="126.94" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="241.93" y="141.41" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="256.52" y="120.66" z="0.00"/>
+		<keypoint name="Left_Wing_Tip" visible="1" x="193.11" y="189.53" z="0.00"/>
+		<keypoint name="Right_Wing_Tip" visible="1" x="300.29" y="42.81" z="0.00"/>
+		<keypoint name="Tail_Tip" visible="1" x="210.06" y="112.25" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="284.91 278.18 271.44 269.20 271.00 273.24 275.48 271.44 266.51 258.88 253.04 249.45 246.76 238.68 231.49 224.31 216.23 206.80 193.34 191.09 191.99 196.93 201.87 205.91 207.25 210.40 214.44 219.37 226.56 206.80 206.80 208.15 209.95 211.74 217.58 222.07 237.33 240.47 244.96 253.04 257.98 264.71 271.44 276.83 276.83 279.52 284.46 285.36 288.50 291.20 293.89 298.83 304.21 306.46 307.80 305.11 301.07 294.79 292.09 " y="108.32 117.74 126.27 132.55 138.83 143.77 150.95 151.39 146.46 145.56 152.74 159.02 166.65 173.38 183.70 187.74 187.29 188.19 189.08 186.39 180.11 175.18 168.00 161.27 155.43 147.81 141.52 137.93 130.76 125.82 119.99 115.50 112.36 108.32 106.08 105.63 115.95 106.97 98.00 89.92 83.19 76.91 67.94 63.45 54.93 50.89 58.52 46.85 45.51 50.89 41.47 41.02 42.36 51.34 65.25 73.32 82.75 93.51 101.59 "/>
+	</polylinesegments>
+</annotation>

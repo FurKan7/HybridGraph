@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_001455</image>
+	<voc_id>2</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Propeller</subcategory>
+	<visible_bounds height="52.00" width="161.00" xmin="316.00" ymin="26.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="470.42" y="29.98" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="469.06" y="53.36" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="319.48" y="61.03" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="333.62" y="53.91" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="357.43" y="69.31" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="400.97" y="60.04" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="364.50" y="62.26" z="0.00"/>
+		<keypoint name="Left_Engine_Back" visible="1" x="414.73" y="65.97" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="442.27" y="47.42" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="322.45 316.50 319.85 340.31 357.06 361.52 370.45 387.20 415.85 437.06 445.99 454.17 459.76 476.13 475.75 470.55 467.57 454.17 443.76 426.27 413.62 402.45 381.99 363.01 347.38 327.29 " y="64.86 62.26 57.81 54.10 53.36 48.53 44.82 45.56 46.30 46.68 44.82 32.94 28.86 29.23 35.54 47.79 52.98 56.32 61.15 60.78 70.06 71.91 72.65 70.06 70.06 67.83 "/>
+	</polylinesegments>
+</annotation>

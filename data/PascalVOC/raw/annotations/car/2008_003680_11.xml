@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_003680</image>
+	<voc_id>11</voc_id>
+	<category>car</category>
+	<visible_bounds height="31.00" width="32.00" xmin="468.00" ymin="191.00"/>
+	<keypoints>
+		<keypoint name="R_B_WheelCenter" visible="1" x="481.02" y="217.28" z="0.00"/>
+		<keypoint name="L_B_RoofTop" visible="1" x="483.62" y="193.51" z="0.00"/>
+		<keypoint name="R_B_RoofTop" visible="1" x="487.87" y="195.69" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="468.28 483.86 499.35 499.35 487.69 486.32 475.30 472.75 468.56 " y="201.25 193.51 192.59 217.55 217.74 220.87 220.78 216.72 216.54 "/>
+	</polylinesegments>
+</annotation>

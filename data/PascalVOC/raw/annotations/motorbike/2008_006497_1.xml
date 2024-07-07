@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_006497</image>
+	<voc_id>1</voc_id>
+	<category>motorbike</category>
+	<visible_bounds height="50.00" width="67.00" xmin="270.00" ymin="137.00"/>
+	<keypoints>
+		<keypoint name="HandleCenter" visible="1" x="320.38" y="143.95" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="317.13" y="147.65" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="324.64" y="166.71" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="320.92" y="172.11" z="0.00"/>
+		<keypoint name="TailLight" visible="1" x="320.22" y="146.88" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="328.12 331.53 337.72 336.48 335.24 333.38 332.30 329.51 327.19 323.78 320.07 318.37 317.59 317.28 317.59 313.72 313.72 317.75 322.39 " y="136.85 146.42 147.19 156.29 165.86 171.57 178.05 180.21 179.13 182.52 182.67 176.66 167.40 155.06 151.51 148.73 143.18 140.55 139.94 "/>
+	</polylinesegments>
+</annotation>

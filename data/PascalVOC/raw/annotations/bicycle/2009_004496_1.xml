@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_004496</image>
+	<voc_id>1</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="340.00" width="466.00" xmin="1.00" ymin="35.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="13.58" y="280.54" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="459.81" y="48.96" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="217.85" y="103.17" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="234.00" y="242.12" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="200.61" y="151.64" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="186.61 151.07 138.15 100.45 9.99 0.30 17.53 107.99 127.38 318.00 467.70 467.70 362.16 360.01 253.39 360.01 305.08 245.85 215.69 " y="138.72 172.11 228.12 220.58 306.75 278.75 227.04 132.25 92.40 40.70 39.62 74.09 83.78 108.56 111.79 373.53 376.77 283.05 283.05 "/>
+	</polylinesegments>
+</annotation>

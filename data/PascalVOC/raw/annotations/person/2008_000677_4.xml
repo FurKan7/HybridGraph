@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation id="200">
+   <image>2008_000677</image>
+   <category>person</category>
+   <subcategory>Male</subcategory>
+   <visible_bounds height="229.00" width="96.00" xmin="298.00" ymin="57.00"/>
+   <keypoints>
+      <keypoint name="L_Ankle" visible="1" x="369.77" y="261.85" z="23.83" zorder="1"/>
+      <keypoint name="L_Ear" visible="1" x="343.52" y="84.05" z="0.00" zorder="1"/>
+      <keypoint name="L_Elbow" visible="1" x="368.46" y="144.54" z="38.21" zorder="0"/>
+      <keypoint name="L_Eye" visible="1" x="334.21" y="87.08" z="0.00" zorder="1"/>
+      <keypoint name="L_Hip" visible="1" x="375.69" y="146.04" z="-26.06" zorder="2"/>
+      <keypoint name="L_Knee" visible="1" x="369.64" y="197.14" z="23.83" zorder="0"/>
+      <keypoint name="L_Shoulder" visible="1" x="358.44" y="97.92" z="35.09" zorder="0"/>
+      <keypoint name="L_Toes" visible="1" x="361.41" y="278.51" z="36.26" zorder="0"/>
+      <keypoint name="L_Wrist" visible="1" x="364.28" y="180.18" z="56.03" zorder="0"/>
+      <keypoint name="Nose" visible="1" x="329.14" y="95.18" z="0.00" zorder="1"/>
+      <keypoint name="R_Ankle" visible="0" x="320.36" y="249.81" z="18.49" zorder="1"/>
+      <keypoint name="R_Elbow" visible="1" x="305.01" y="141.86" z="22.63" zorder="0"/>
+      <keypoint name="R_Eye" visible="1" x="324.49" y="88.10" z="0.00" zorder="1"/>
+      <keypoint name="R_Hip" visible="0" x="347.57" y="147.73" z="-43.92" zorder="2"/>
+      <keypoint name="R_Knee" visible="1" x="309.91" y="188.20" z="1.70" zorder="0"/>
+      <keypoint name="R_Shoulder" visible="1" x="310.15" y="100.09" z="0.00" zorder="0"/>
+      <keypoint name="R_Toes" visible="1" x="302.56" y="263.24" z="20.56" zorder="0"/>
+      <keypoint name="R_Wrist" visible="1" x="312.14" y="144.08" z="61.99" zorder="0"/>
+   </keypoints>
+   <polylinesegments>
+      <segment name="foreground" x="304 331 324 322 319 308 302 300 303 305 312 317 317 321 332 342 350 351 362 378 385 393 391 385 381 382 377 368 360 352 359 358 359 333 303 " y="183 143 132 148 156 157 155 146 128 105 94 88 77 64 59 62 69 78 88 113 129 137 154 185 202 228 267 285 285 274 267 200 172 198 190 "/>
+   </polylinesegments>
+</annotation>

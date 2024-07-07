@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_000361</image>
+	<voc_id>1</voc_id>
+	<category>bird</category>
+	<subcategory>Flying</subcategory>
+	<visible_bounds height="272.00" width="338.00" xmin="67.00" ymin="62.00"/>
+	<keypoints>
+		<keypoint name="Left_Eye" visible="1" x="213.67" y="72.40" z="0.00"/>
+		<keypoint name="Beak_Base" visible="1" x="204.45" y="74.34" z="0.00"/>
+		<keypoint name="Beak_Tip" visible="1" x="164.62" y="74.14" z="0.00"/>
+		<keypoint name="Lower_Neck_Base" visible="1" x="254.40" y="129.70" z="0.00"/>
+		<keypoint name="Upper_Neck_Base" visible="1" x="263.50" y="158.40" z="0.00"/>
+		<keypoint name="Leg_Center" visible="1" x="263.91" y="293.78" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="247.86" y="173.48" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="334.15" y="206.35" z="0.00"/>
+		<keypoint name="Left_Wing_Tip" visible="1" x="96.60" y="216.32" z="0.00"/>
+		<keypoint name="Right_Wing_Tip" visible="1" x="361.38" y="166.48" z="0.00"/>
+		<keypoint name="Tail_Tip" visible="1" x="360.84" y="309.27" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="157.54 186.66 208.50 236.00 246.52 250.56 241.66 202.84 156.73 162.39 167.24 140.55 83.93 66.94 87.97 66.13 68.56 87.97 73.41 93.64 87.97 100.92 117.09 131.65 135.70 155.11 185.85 202.84 228.72 269.16 250.56 251.37 266.74 287.77 324.98 329.02 337.92 336.30 357.33 377.56 378.36 365.42 341.96 375.13 384.03 405.06 408.29 382.41 363.80 347.63 343.58 343.58 317.70 291.81 268.36 277.25 275.64 257.84 228.72 200.41 193.94 " y="74.34 77.57 81.62 91.31 105.05 123.64 129.30 120.41 122.03 133.34 143.04 155.97 189.11 201.23 203.66 212.55 217.40 216.59 229.52 231.14 241.64 240.03 241.64 233.56 239.22 234.37 235.18 230.33 244.88 278.01 282.86 316.00 311.96 333.78 336.21 321.66 320.04 334.59 334.59 320.04 307.92 283.67 244.88 285.29 302.26 286.91 269.93 193.15 157.59 157.59 177.79 189.92 186.68 182.64 160.82 143.04 119.60 80.00 59.79 62.22 66.26 "/>
+	</polylinesegments>
+</annotation>

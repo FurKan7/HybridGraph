@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_006166</image>
+	<voc_id>1</voc_id>
+	<category>dog</category>
+	<visible_bounds height="162.00" width="315.00" xmin="41.00" ymin="90.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="274.39" y="239.62" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="262.93" y="198.64" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="227.62" y="241.99" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="323.53" y="225.41" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="293.87" y="165.19" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="231.62" y="192.08" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="285.62" y="142.11" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="202.50" y="207.20" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="179.75" y="164.58" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="150.82" y="150.74" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="158.10" y="115.58" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="113.08" y="239.99" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="72.56" y="218.31" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="61.88" y="164.46" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="86.39" y="145.27" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="75.47 103.86 161.37 195.59 178.12 206.51 234.90 269.12 295.32 328.08 313.52 322.99 358.66 322.99 297.51 262.56 240.72 224.71 212.33 214.52 109.68 97.31 103.13 112.60 139.53 151.91 191.95 186.85 162.10 142.44 122.06 105.32 74.01 61.64 67.46 100.22 136.62 162.10 121.33 96.58 57.27 48.53 49.99 62.36 78.38 " y="130.70 132.16 103.01 89.17 70.23 87.71 93.54 119.77 154.01 141.63 172.96 200.64 231.24 229.06 245.09 245.09 253.10 249.46 225.41 218.13 253.83 247.27 233.43 225.41 213.76 215.21 192.63 173.69 191.90 202.10 211.57 223.23 229.06 218.13 201.37 202.83 179.51 163.49 165.67 164.21 177.33 167.86 156.93 148.19 140.90 "/>
+	</polylinesegments>
+</annotation>

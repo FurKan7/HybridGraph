@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_005036</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Propeller</subcategory>
+	<visible_bounds height="116.00" width="321.00" xmin="67.00" ymin="83.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="87.04" y="95.93" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="95.08" y="155.49" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="78.38" y="164.77" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="76.41" y="163.53" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="382.80" y="86.28" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="348.42" y="134.02" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="336.06" y="126.64" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="338.29" y="149.67" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="225.65" y="125.77" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="279.43" y="115.00" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="126.85" y="138.03" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="246.79 250.50 106.58 96.93 79.13 73.93 73.93 93.22 93.96 67.26 88.03 131.06 148.12 290.56 376.62 387.74 385.52 323.94 315.78 339.52 350.65 352.88 346.20 351.39 345.46 337.30 335.81 335.81 330.62 318.75 325.43 332.10 330.62 322.46 316.52 316.52 318.75 312.81 306.14 303.17 277.95 284.62 294.27 297.98 300.20 300.94 296.49 288.33 284.62 284.62 266.82 258.66 251.98 253.47 251.24 243.82 240.11 237.14 238.63 243.82 " y="178.89 168.49 168.49 164.77 165.51 165.51 164.03 157.34 155.11 100.14 94.94 138.77 138.77 106.09 83.80 84.54 88.26 109.06 125.40 125.40 103.86 106.09 129.86 133.57 138.03 153.63 155.86 164.03 155.86 160.31 173.69 178.14 187.06 190.03 186.31 178.89 173.69 164.03 167.00 165.51 168.49 172.20 168.49 169.23 175.17 182.60 188.54 188.54 183.34 178.89 167.74 169.97 183.34 187.80 193.74 196.71 195.23 190.03 184.09 182.60 "/>
+	</polylinesegments>
+</annotation>

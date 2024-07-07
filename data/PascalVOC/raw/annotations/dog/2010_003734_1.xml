@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_003734</image>
+	<voc_id>1</voc_id>
+	<category>dog</category>
+	<visible_bounds height="206.00" width="97.00" xmin="229.00" ymin="105.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="288.01" y="131.98" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="265.03" y="130.87" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="279.33" y="152.76" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="294.81" y="119.04" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="252.85" y="121.90" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="272.81" y="177.39" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="297.06" y="218.00" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="251.22" y="204.94" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="292.66" y="301.41" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="265.28" y="294.31" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="250.20" y="287.98" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="267.11 271.39 289.72 281.17 304.39 305.61 324.56 319.06 311.11 303.78 298.28 292.78 300.11 295.83 273.22 248.78 243.89 251.83 237.17 246.94 251.22 256.11 256.72 267.72 " y="297.98 282.68 277.17 308.39 310.22 293.70 258.19 243.50 228.20 181.68 154.75 154.75 125.98 113.73 107.61 116.18 140.67 155.36 194.53 209.84 263.70 277.17 295.53 301.04 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_000465</image>
+	<voc_id>1</voc_id>
+	<category>cow</category>
+	<visible_bounds height="79.00" width="56.00" xmin="227.00" ymin="129.00"/>
+	<keypoints>
+		<keypoint name="TailBase" visible="1" x="256.77" y="138.45" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="240.75" y="182.70" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="250.41" y="189.51" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="262.18" y="185.05" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="243.22" y="200.66" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="257.59" y="198.31" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="250.21" y="203.16" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="266.70" y="201.60" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="229.56 238.04 246.99 253.35 261.60 268.43 271.96 275.26 281.15 281.15 279.03 271.72 267.72 266.78 267.01 270.55 269.60 262.07 260.89 257.83 254.76 248.64 245.11 242.04 240.87 239.69 237.33 229.32 226.73 227.44 " y="145.03 134.23 132.82 129.77 132.11 134.23 139.86 144.32 153.71 165.92 173.66 179.30 181.41 187.04 194.09 202.54 206.06 206.53 204.89 205.59 206.06 206.29 203.71 201.36 195.26 186.81 180.24 172.26 165.45 154.65 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_000412</image>
+	<voc_id>3</voc_id>
+	<category>horse</category>
+	<visible_bounds height="206.00" width="199.00" xmin="301.00" ymin="76.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="338.41" y="105.79" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="316.17" y="104.02" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="342.29" y="88.41" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="325.46" y="85.22" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="384.92" y="136.76" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="479.33" y="146.40" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="349.37" y="211.65" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="471.39" y="204.40" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="306.24" y="275.41" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="485.85" y="276.53" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="476.74" y="272.50" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="313.72 316.78 321.67 322.89 322.89 334.50 339.39 347.33 345.50 385.22 398.67 427.39 450.61 476.89 486.67 494.61 489.11 484.83 486.67 487.89 492.78 492.78 475.06 461.61 459.17 441.44 412.11 380.94 360.17 371.17 355.89 352.83 352.22 349.17 318.61 304.56 304.56 316.78 327.17 343.06 331.44 328.39 310.06 307.61 313.72 " y="115.34 106.16 92.69 90.86 77.39 78.00 81.06 76.78 87.18 129.42 139.21 141.05 135.54 141.66 148.39 174.72 212.67 223.68 235.31 256.13 268.98 278.16 276.94 262.86 231.64 207.77 218.79 213.89 223.07 270.21 272.04 265.31 245.11 241.44 278.16 272.04 272.04 261.64 239.60 215.11 197.98 141.05 145.95 137.99 118.40 "/>
+	</polylinesegments>
+</annotation>

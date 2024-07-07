@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_004590</image>
+	<voc_id>1</voc_id>
+	<category>dog</category>
+	<visible_bounds height="74.00" width="84.00" xmin="75.00" ymin="21.00"/>
+	<keypoints>
+		<keypoint name="R_Eye" visible="1" x="153.80" y="36.34" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="155.78" y="40.78" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="148.15" y="33.52" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="138.73" y="43.93" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="123.66" y="27.44" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="92.49" y="44.88" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="126.67" y="55.65" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="91.98" y="67.89" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="111.49" y="59.69" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="133.01" y="62.12" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="130.48" y="76.47" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="94.99" y="90.98" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="110.24" y="84.94" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="96.60 97.26 96.16 95.50 98.14 99.46 101.44 101.88 100.34 102.54 106.06 109.36 111.56 108.92 108.04 109.58 113.76 116.18 117.28 121.90 121.90 121.90 123.44 126.30 130.04 134.44 133.56 129.38 128.94 132.90 134.00 136.20 132.24 132.02 135.10 140.38 147.20 155.78 156.22 152.26 141.70 123.00 112.88 103.86 98.36 94.62 90.44 84.06 80.54 77.90 78.12 79.88 82.30 83.40 86.04 89.78 88.02 86.92 87.58 88.02 88.46 90.88 92.42 94.84 " y="93.40 89.00 78.89 72.95 67.46 64.38 63.72 66.36 69.87 80.43 83.73 85.49 84.83 78.89 74.05 70.09 65.26 59.76 57.34 56.46 59.32 68.11 73.39 77.79 78.23 78.01 74.27 71.63 64.82 63.06 63.06 61.52 58.88 54.70 46.35 47.23 46.35 43.27 35.57 27.22 23.04 23.92 28.98 33.37 37.77 39.31 36.01 34.03 36.01 40.85 48.11 48.76 47.23 41.29 38.21 41.73 47.23 56.02 62.84 71.85 80.87 91.86 93.40 91.20 "/>
+	</polylinesegments>
+</annotation>

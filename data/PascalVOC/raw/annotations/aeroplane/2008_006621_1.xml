@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_006621</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="148.00" width="498.00" xmin="1.00" ymin="84.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="18.95" y="90.43" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="23.27" y="170.17" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="42.26" y="144.83" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="39.76" y="163.26" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="232.35" y="118.35" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="491.70" y="164.41" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="451.41" y="135.62" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="453.14" y="173.33" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="274.94" y="163.26" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="325.96" y="202.41" z="0.00"/>
+		<keypoint name="Left_Engine_Back" visible="1" x="278.77" y="215.07" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="348.69" y="176.79" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="303.33" y="184.37" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="110.74" y="153.66" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="496.30 469.83 445.66 406.53 275.32 260.36 253.45 231.59 223.53 241.94 138.36 100.38 31.32 1.40 31.32 22.12 32.47 6.00 7.15 144.11 194.76 198.21 237.34 246.55 253.45 246.55 251.15 267.26 270.72 282.23 292.58 293.74 331.72 330.57 359.34 366.24 427.24 434.15 445.66 445.66 450.26 489.39 " y="159.80 137.93 126.41 127.56 140.23 129.87 129.87 109.14 109.14 144.83 152.89 144.83 83.81 84.96 155.20 157.50 170.17 175.92 186.29 204.71 204.71 209.31 209.31 203.56 205.86 220.83 232.34 228.89 220.83 211.62 210.47 215.07 210.47 196.65 192.04 188.59 186.29 209.31 208.16 188.59 180.53 173.62 "/>
+	</polylinesegments>
+</annotation>

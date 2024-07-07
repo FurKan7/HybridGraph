@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_000015</image>
+	<voc_id>2</voc_id>
+	<category>pottedplant</category>
+	<visible_bounds height="110.00" width="109.00" xmin="207.00" ymin="235.00"/>
+	<keypoints>
+		<keypoint name="Top_Left" visible="1" x="226.29" y="304.05" z="0.00"/>
+		<keypoint name="Top_Right" visible="1" x="280.94" y="304.71" z="0.00"/>
+		<keypoint name="Top_Front_Middle" visible="1" x="252.09" y="314.78" z="0.00"/>
+		<keypoint name="Top_Back_Middle" visible="1" x="251.70" y="292.40" z="0.00"/>
+		<keypoint name="Bottom_Left" visible="1" x="229.29" y="330.66" z="0.00"/>
+		<keypoint name="Bottom_Right" visible="1" x="274.68" y="330.31" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="225.57 231.45 255.62 273.59 277.51 281.75 285.02 293.84 305.27 305.60 300.37 302.01 314.09 315.40 302.33 296.45 288.61 285.67 278.81 275.22 257.58 250.07 249.41 247.45 237.33 229.16 225.24 219.69 219.36 215.11 208.58 207.27 208.25 211.85 219.69 223.93 " y="330.20 337.39 344.59 338.37 333.80 308.63 305.04 307.65 302.42 289.35 286.73 276.27 278.23 274.96 269.08 262.54 257.64 251.76 240.32 235.09 235.09 241.95 246.85 249.80 252.08 256.66 264.83 277.25 281.50 282.48 280.52 285.10 295.56 302.09 303.40 307.65 "/>
+	</polylinesegments>
+</annotation>

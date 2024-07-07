@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_000307</image>
+	<voc_id>1</voc_id>
+	<category>sheep</category>
+	<visible_bounds height="166.00" width="182.00" xmin="208.00" ymin="59.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="356.97" y="87.00" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="311.33" y="98.35" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="352.53" y="110.18" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="352.77" y="78.86" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="287.65" y="87.50" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="339.45" y="146.44" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="307.88" y="142.49" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="229.44" y="126.22" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="305.41 288.64 238.32 206.75 212.67 234.37 256.08 292.09 290.61 271.87 251.64 275.32 289.63 302.45 313.31 333.04 347.84 374.48 391.75 384.35 357.21 358.20 367.08 363.63 382.87 381.88 372.51 354.75 335.51 319.23 " y="167.65 172.09 157.78 143.48 121.78 104.02 120.79 116.35 107.97 109.45 91.19 76.89 80.84 65.05 58.15 61.60 67.52 59.13 64.07 77.38 92.67 100.57 115.36 130.16 178.50 215.50 227.33 211.55 178.01 165.68 "/>
+	</polylinesegments>
+</annotation>

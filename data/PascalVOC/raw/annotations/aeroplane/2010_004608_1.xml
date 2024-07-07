@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_004608</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="28.00" width="85.00" xmin="186.00" ymin="138.00"/>
+	<keypoints>
+		<keypoint name="Bot_Rudder" visible="1" x="233.21" y="158.91" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="218.15" y="163.54" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="247.85" y="153.88" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="191.96" y="163.15" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="267.85" y="139.75" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="229.09" y="143.92" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="228.79" y="144.81" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="227.32" y="154.87" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="234.79" y="152.70" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="220.54" y="152.99" z="0.00"/>
+		<keypoint name="Left_Engine_Back" visible="1" x="217.60" y="159.01" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="239.40" y="147.18" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="242.15" y="152.40" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="234.59" y="154.67" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="225.16 224.96 228.70 232.04 234.98 235.57 237.14 237.54 239.50 243.63 266.61 270.34 270.74 259.54 249.52 249.91 217.50 215.34 215.14 205.91 203.36 190.59 188.43 189.80 216.52 218.28 221.43 " y="153.49 145.40 143.23 143.23 146.78 149.94 149.94 145.40 144.02 147.18 137.91 138.11 140.28 146.98 151.71 155.26 165.91 164.53 162.55 164.53 163.93 165.91 163.15 161.17 156.25 151.32 150.92 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_002851</image>
+	<voc_id>2</voc_id>
+	<category>boat</category>
+	<subcategory>Ship</subcategory>
+	<visible_bounds height="15.00" width="74.00" xmin="238.00" ymin="339.00"/>
+	<keypoints>
+		<keypoint name="Hull_Front_Top" visible="1" x="240.03" y="348.97" z="0.00"/>
+		<keypoint name="Hull_Back_Top" visible="1" x="305.78" y="347.23" z="0.00"/>
+		<keypoint name="Hull_Back_Bot" visible="1" x="303.22" y="352.66" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Top" visible="1" x="268.76" y="349.66" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Bot" visible="1" x="269.27" y="353.26" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Top" visible="1" x="273.89" y="349.23" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="238.91 241.99 244.56 247.64 248.66 250.89 254.99 255.16 264.23 267.30 268.67 271.58 274.14 275.86 277.91 280.30 281.16 285.60 285.77 287.83 288.00 289.19 289.88 292.10 296.72 297.40 299.29 300.14 305.10 307.84 308.18 306.30 306.81 301.68 238.57 " y="347.17 343.40 340.83 340.83 341.86 340.49 340.83 346.49 346.49 342.89 343.06 346.49 346.14 344.43 345.46 345.63 346.31 346.14 344.26 345.11 346.14 346.31 344.77 345.63 345.46 341.69 341.69 345.29 343.23 343.74 347.86 349.23 351.29 352.83 353.00 "/>
+	</polylinesegments>
+</annotation>

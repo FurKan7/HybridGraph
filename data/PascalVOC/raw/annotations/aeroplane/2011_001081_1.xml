@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_001081</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="310.00" width="486.00" xmin="1.00" ymin="10.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="155.64" y="13.37" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="161.26" y="119.24" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="259.72" y="116.99" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="40.70" y="116.24" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="486.61" y="164.50" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="3.64" y="193.68" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="405.37" y="264.00" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="357.44" y="173.85" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="334.60" y="286.07" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="217.04" y="213.88" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="397.88" y="234.08" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="137.30" y="246.42" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="123.82" y="212.76" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="185.03" y="115.68" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="158.64 179.98 197.95 254.11 260.85 215.92 337.23 358.57 376.54 481.00 489.98 385.52 394.51 404.62 422.59 421.47 407.99 409.11 374.29 346.21 350.70 329.36 320.38 311.39 242.88 178.85 176.61 154.14 119.32 97.98 96.86 91.24 7.00 2.51 175.48 144.04 138.42 36.21 38.45 150.77 154.14 153.02 " y="10.76 105.02 125.22 112.88 121.86 127.47 153.28 167.87 175.72 163.38 171.23 195.92 204.90 206.02 226.22 241.93 255.40 268.87 295.80 291.31 313.76 320.49 313.76 276.72 244.18 227.34 254.28 268.87 269.99 247.54 221.73 212.76 203.78 186.94 200.41 160.01 137.57 122.98 112.88 125.22 115.12 15.24 "/>
+	</polylinesegments>
+</annotation>

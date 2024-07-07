@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_001422</image>
+	<voc_id>1</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="137.00" width="153.00" xmin="158.00" ymin="238.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="294.26" y="253.15" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="173.86" y="247.32" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="231.32" y="268.52" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="173.68" y="308.62" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="220.71" y="342.19" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="178.28" y="343.25" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="158.12 182.52 222.83 222.83 159.54 158.83 258.90 251.47 245.82 243.69 235.91 234.50 246.17 256.42 265.62 309.82 309.82 279.76 270.21 251.83 232.73 209.75 168.73 157.77 " y="252.79 251.38 260.92 304.38 331.59 374.34 374.69 362.68 358.09 341.48 331.59 282.12 267.28 266.22 257.39 252.79 244.67 247.49 243.61 257.03 257.03 242.55 241.49 246.08 "/>
+	</polylinesegments>
+</annotation>

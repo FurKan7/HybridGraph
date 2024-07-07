@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation id="500">
+   <image>2008_001631</image>
+   <category>person</category>
+   <subcategory>Female</subcategory>
+   <visible_bounds height="38.00" width="41.00" xmin="159.00" ymin="66.00"/>
+   <keypoints>
+      <keypoint name="L_Eye" visible="1" x="188.91" y="78.98" z="0.00" zorder="1"/>
+      <keypoint name="L_Hip" visible="0" x="191.74" y="137.83" z="-0.42" zorder="1"/>
+      <keypoint name="L_Shoulder" visible="1" x="192.88" y="102.91" z="0.00" zorder="1"/>
+      <keypoint name="Nose" visible="1" x="187.36" y="82.45" z="0.00" zorder="1"/>
+      <keypoint name="R_Ear" visible="1" x="175.70" y="82.30" z="0.00" zorder="1"/>
+      <keypoint name="R_Eye" visible="1" x="183.61" y="80.04" z="0.00" zorder="1"/>
+      <keypoint name="R_Hip" visible="0" x="176.66" y="139.92" z="0.42" zorder="0"/>
+      <keypoint name="R_Shoulder" visible="0" x="167.99" y="105.60" z="0.00" zorder="1"/>
+   </keypoints>
+   <polylinesegments>
+      <segment name="foreground" x="160 162 165 169 171 176 185 191 193 194 195 196 195 197 193 162 " y="101 93 87 76 72 68 68 73 78 85 90 94 96 100 103 104 "/>
+   </polylinesegments>
+</annotation>

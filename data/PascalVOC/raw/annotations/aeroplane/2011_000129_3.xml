@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_000129</image>
+	<voc_id>3</voc_id>
+	<category>aeroplane</category>
+	<subcategory>FighterJet</subcategory>
+	<visible_bounds height="27.00" width="107.00" xmin="366.00" ymin="129.00"/>
+	<keypoints>
+		<keypoint name="L_WingTip" visible="1" x="441.26" y="129.92" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="407.55" y="152.37" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="471.93" y="139.62" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="457.17" y="131.98" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="458.32" y="143.86" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="426.42" y="144.23" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="421.97" y="135.72" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="416.29" y="140.77" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="397.24" y="145.21" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="368.06 368.31 374.25 376.47 378.70 379.44 384.63 386.86 390.07 391.06 393.78 398.48 400.95 401.94 403.92 408.37 410.10 412.33 417.03 422.71 429.64 456.35 460.80 468.96 471.93 471.68 466.98 458.32 458.57 454.37 452.88 444.48 439.53 434.83 432.36 427.41 426.67 420.49 411.83 404.17 401.70 399.47 395.02 392.30 390.57 381.42 379.19 372.76 368.56 366.83 " y="148.17 137.81 137.32 140.28 144.23 132.39 132.39 132.39 138.31 134.11 131.65 131.65 133.87 134.85 132.88 133.13 134.36 133.87 132.14 131.40 129.67 129.18 133.37 135.84 137.07 140.03 141.27 143.24 145.21 147.43 143.98 144.72 146.20 149.65 152.61 152.61 151.87 152.37 154.09 154.83 152.37 149.90 150.15 153.11 155.57 155.57 152.61 152.61 151.38 148.67 "/>
+	</polylinesegments>
+</annotation>

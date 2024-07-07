@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation id="785">
+   <image>2008_002491</image>
+   <category>person</category>
+   <subcategory>Male</subcategory>
+   <visible_bounds height="250.00" width="158.00" xmin="320.00" ymin="150.00"/>
+   <keypoints>
+      <keypoint name="B_Head" visible="1" x="389.97" y="177.61" z="0.00" zorder="1"/>
+      <keypoint name="L_Ear" visible="1" x="373.22" y="186.62" z="0.00" zorder="1"/>
+      <keypoint name="L_Elbow" visible="1" x="337.35" y="303.20" z="1.25" zorder="0"/>
+      <keypoint name="L_Hip" visible="1" x="371.53" y="347.59" z="2.40" zorder="1"/>
+      <keypoint name="L_Shoulder" visible="1" x="337.56" y="222.87" z="0.00" zorder="1"/>
+      <keypoint name="L_Wrist" visible="0" x="333.24" y="366.89" z="-20.28" zorder="2"/>
+      <keypoint name="R_Ear" visible="1" x="406.84" y="183.13" z="0.00" zorder="1"/>
+      <keypoint name="R_Elbow" visible="1" x="461.12" y="292.79" z="31.49" zorder="0"/>
+      <keypoint name="R_Hip" visible="1" x="427.33" y="352.85" z="0.90" zorder="1"/>
+      <keypoint name="R_Shoulder" visible="1" x="437.97" y="222.60" z="0.00" zorder="1"/>
+      <keypoint name="R_Wrist" visible="1" x="462.38" y="342.69" z="-13.74" zorder="2"/>
+   </keypoints>
+   <polylinesegments>
+      <segment name="foreground" x="392 375 370 357 368 369 330 320 323 455 449 452 460 475 470 453 417 419 423 408 408 " y="147 149 167 174 184 199 217 380 398 397 341 335 352 347 231 206 200 184 174 169 150 "/>
+   </polylinesegments>
+</annotation>

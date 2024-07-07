@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_004779</image>
+	<voc_id>3</voc_id>
+	<category>train</category>
+	<visible_bounds height="240.00" width="375.00" xmin="33.00" ymin="87.00"/>
+	<keypoints>
+		<keypoint name="Base_Front_Left" visible="1" x="165.90" y="275.46" z="0.00"/>
+		<keypoint name="Base_Front_Right" visible="1" x="53.23" y="284.55" z="0.00"/>
+		<keypoint name="Roof_Front_Middle" visible="1" x="97.43" y="125.26" z="0.00"/>
+		<keypoint name="Base_Back_Left" visible="1" x="402.50" y="214.43" z="0.00"/>
+		<keypoint name="Roof_Back_Left" visible="1" x="397.30" y="165.37" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="135.57 171.97 209.23 239.57 282.03 310.63 342.70 384.30 402.50 401.63 394.70 367.83 335.77 295.90 256.03 254.30 273.37 254.30 164.17 139.03 127.77 129.50 118.23 115.63 103.50 99.17 101.77 101.77 82.70 76.63 77.50 94.83 105.23 106.10 81.83 61.90 65.37 82.70 79.23 54.10 37.63 38.50 62.77 " y="320.91 309.65 294.07 282.82 258.58 246.46 231.74 219.62 212.69 168.54 152.09 147.77 152.96 141.71 139.11 131.32 126.99 119.20 101.88 106.21 109.67 100.15 94.09 90.63 88.90 99.29 113.14 120.93 120.06 146.03 161.62 165.95 172.87 179.80 186.72 210.96 229.14 250.79 258.58 261.17 266.37 311.39 322.64 "/>
+	</polylinesegments>
+</annotation>

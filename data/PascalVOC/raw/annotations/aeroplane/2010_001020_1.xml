@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_001020</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="184.00" width="264.00" xmin="150.00" ymin="91.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="372.30" y="94.04" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="364.16" y="146.93" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="408.30" y="158.54" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="313.57" y="153.04" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="152.86" y="168.94" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="254.39" y="234.51" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="274.07" y="186.97" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="260.04" y="245.37" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="241.32" y="192.78" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="228.61" y="219.38" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="361.52" y="146.52" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="150.82 239.29 227.70 217.94 213.67 219.16 225.87 239.29 245.39 250.88 260.65 271.63 280.17 280.17 274.68 272.24 280.17 288.71 293.59 291.76 289.32 288.71 289.32 316.17 380.23 394.87 415.01 415.62 380.23 375.96 372.91 369.86 376.57 366.20 358.88 339.35 308.24 305.80 326.54 269.80 259.43 256.37 155.70 160.58 153.87 " y="170.77 197.06 205.01 214.18 223.35 236.19 239.25 240.47 237.42 246.59 249.65 249.65 250.26 255.15 261.87 271.05 272.88 272.88 267.99 260.65 255.15 253.31 245.37 232.53 167.10 164.05 162.82 153.65 159.77 153.65 150.59 147.54 90.67 91.90 149.37 155.49 149.98 153.65 158.54 176.27 183.61 187.89 168.94 160.99 160.38 "/>
+	</polylinesegments>
+</annotation>

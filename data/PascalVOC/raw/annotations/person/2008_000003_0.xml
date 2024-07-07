@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation id="1">
+   <image>2008_000003</image>
+   <category>person</category>
+   <subcategory>Female</subcategory>
+   <visible_bounds height="53.00" width="21.00" xmin="62.00" ymin="190.00"/>
+   <keypoints>
+      <keypoint name="L_Ankle" visible="1" x="67.28" y="236.84" z="1.86" zorder="1"/>
+      <keypoint name="L_Hip" visible="1" x="69.64" y="210.70" z="-2.54" zorder="1"/>
+      <keypoint name="L_Knee" visible="1" x="69.77" y="224.32" z="1.28" zorder="1"/>
+      <keypoint name="L_Shoulder" visible="1" x="76.59" y="198.72" z="-10.44" zorder="2"/>
+      <keypoint name="R_Ankle" visible="1" x="79.82" y="236.03" z="-4.78" zorder="1"/>
+      <keypoint name="R_Hip" visible="1" x="73.73" y="212.75" z="2.19" zorder="0"/>
+      <keypoint name="R_Knee" visible="1" x="80.15" y="223.26" z="-4.78" zorder="2"/>
+      <keypoint name="R_Shoulder" visible="1" x="79.35" y="199.33" z="0.00" zorder="1"/>
+   </keypoints>
+   <polylinesegments>
+      <segment name="foreground" x="76 79 82 82 82 80 82 82 82 80 80 77 78 79 79 77 76 72 69 68 66 63 63 65 67 67 67 67 67 66 66 69 71 72 72 73 " y="190 190 191 198 206 213 217 226 238 239 241 241 240 235 228 223 222 231 236 240 242 242 240 238 235 232 226 222 219 216 212 208 203 199 193 191 "/>
+   </polylinesegments>
+</annotation>

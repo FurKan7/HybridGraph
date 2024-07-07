@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_007246</image>
+	<category>chair</category>
+	<visible_bounds height="114.00" width="75.00" xmin="397.00" ymin="182.00"/>
+	<keypoints>
+		<keypoint name="Seat_Left_Front" visible="1" x="401.79" y="229.29" z="0.00"/>
+		<keypoint name="Seat_Left_Back" visible="1" x="424.87" y="235.27" z="0.00"/>
+		<keypoint name="Leg_Left_Back" visible="1" x="448.17" y="286.25" z="0.00"/>
+		<keypoint name="Leg_Right_Back" visible="1" x="462.70" y="276.43" z="0.00"/>
+		<keypoint name="BackRest_Top_Left" visible="1" x="437.25" y="195.08" z="0.00"/>
+		<keypoint name="BackRest_Top_Right" visible="1" x="462.28" y="187.68" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="466.08 450.20 398.52 399.20 436.69 453.24 468.44 470.47 " y="278.29 291.84 236.97 223.08 191.91 184.46 187.85 230.53 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_006235</image>
+	<voc_id>2</voc_id>
+	<category>horse</category>
+	<visible_bounds height="209.00" width="167.00" xmin="208.00" ymin="213.00"/>
+	<keypoints>
+		<keypoint name="Withers" visible="1" x="353.19" y="243.60" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="326.59" y="304.71" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="267.32" y="329.18" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="245.31" y="327.44" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="324.98" y="413.76" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="363.42" y="414.38" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="230.43" y="399.79" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="257.40 262.98 250.58 252.44 240.66 245.62 238.80 240.66 176.80 276.62 308.86 329.32 333.04 349.16 360.32 351.02 351.02 324.36 328.70 338.62 325.60 315.68 295.22 294.60 308.24 292.74 " y="422.45 411.90 400.10 362.21 333.65 316.88 314.39 297.01 209.44 209.44 254.16 296.39 306.94 314.39 337.99 354.14 368.42 360.35 344.83 330.54 312.53 346.07 356.00 373.39 401.34 424.94 "/>
+	</polylinesegments>
+</annotation>

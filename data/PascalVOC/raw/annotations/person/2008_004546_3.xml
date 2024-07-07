@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation id="1520">
+   <image>2008_004546</image>
+   <category>person</category>
+   <subcategory>Unknown</subcategory>
+   <visible_bounds height="50.00" width="38.00" xmin="198.00" ymin="90.00"/>
+   <keypoints>
+      <keypoint name="B_Head" visible="1" x="221.43" y="95.64" z="0.00" zorder="1"/>
+      <keypoint name="L_Ankle" visible="1" x="202.50" y="137.67" z="6.63" zorder="0"/>
+      <keypoint name="L_Ear" visible="0" x="219.19" y="97.80" z="0.00" zorder="1"/>
+      <keypoint name="L_Hip" visible="1" x="207.57" y="113.21" z="10.90" zorder="0"/>
+      <keypoint name="L_Knee" visible="1" x="208.26" y="125.01" z="-10.13" zorder="2"/>
+      <keypoint name="L_Shoulder" visible="1" x="212.83" y="102.15" z="-13.89" zorder="2"/>
+      <keypoint name="R_Ankle" visible="1" x="227.00" y="148.86" z="-1.28" zorder="0"/>
+      <keypoint name="R_Ear" visible="0" x="226.52" y="98.39" z="0.00" zorder="1"/>
+      <keypoint name="R_Elbow" visible="1" x="228.32" y="116.32" z="-6.86" zorder="2"/>
+      <keypoint name="R_Hip" visible="1" x="215.96" y="112.85" z="18.34" zorder="0"/>
+      <keypoint name="R_Knee" visible="1" x="222.97" y="125.00" z="-1.28" zorder="2"/>
+      <keypoint name="R_Shoulder" visible="1" x="227.35" y="101.81" z="0.00" zorder="2"/>
+      <keypoint name="R_Toes" visible="1" x="230.20" y="149.23" z="-8.09" zorder="2"/>
+   </keypoints>
+   <polylinesegments>
+      <segment name="foreground" x="203 206 203 204 206 209 214 217 218 221 226 229 226 229 226 224 225 226 228 232 233 229 229 227 225 203 " y="131 125 120 115 108 102 100 100 96 94 95 98 102 107 114 114 119 120 118 118 121 126 130 132 136 132 "/>
+   </polylinesegments>
+</annotation>

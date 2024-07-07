@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_001047</image>
+	<voc_id>3</voc_id>
+	<category>cow</category>
+	<visible_bounds height="144.00" width="43.00" xmin="453.00" ymin="124.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="403.00" y="149.08" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="471.33" y="138.76" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="475.00" y="266.89" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="482.33" y="261.23" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="481.33 486.33 486.00 489.67 491.33 494.67 494.67 493.00 479.00 464.67 457.33 455.67 457.33 454.33 456.67 454.67 464.00 467.33 468.67 471.00 471.33 474.00 475.00 " y="263.23 265.22 247.25 232.94 217.30 205.65 143.42 136.10 130.77 135.10 146.41 165.72 188.68 217.96 224.95 246.25 250.58 241.26 226.95 237.27 244.92 250.58 263.56 "/>
+	</polylinesegments>
+</annotation>

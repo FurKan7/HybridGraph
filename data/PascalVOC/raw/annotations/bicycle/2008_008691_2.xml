@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_008691</image>
+	<voc_id>2</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="117.00" width="241.00" xmin="141.00" ymin="258.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="304.67" y="255.49" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="326.67" y="271.09" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="302.16" y="271.93" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="218.33" y="261.62" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="334.88" y="350.35" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="186.45" y="360.93" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="323.14" y="313.16" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="223.35" y="334.33" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="377.17" y="338.23" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="146.58" y="345.29" z="0.00"/>
+		<keypoint name="CranksetCenter" visible="1" x="249.80" y="359.26" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="211.93 219.17 222.51 230.31 233.09 222.51 206.92 187.42 157.90 145.65 140.64 141.19 150.10 172.38 211.93 230.31 235.88 235.88 247.02 261.50 261.50 261.50 270.41 286.56 296.03 304.94 308.29 313.30 313.30 299.93 289.91 288.79 292.69 318.31 350.06 375.12 378.47 374.57 371.22 359.53 322.77 322.21 323.88 335.58 335.58 321.65 321.65 316.08 305.50 300.49 301.60 300.49 289.91 273.75 252.03 233.65 229.20 223.63 223.63 211.93 " y="265.24 273.04 293.10 308.70 320.96 324.30 314.27 311.49 313.16 324.86 350.49 368.31 373.33 374.44 374.44 372.77 367.76 366.64 373.33 366.09 353.27 348.26 339.34 318.73 308.70 297.00 294.21 303.13 312.04 324.30 341.01 359.40 373.33 373.89 374.44 372.77 361.07 339.90 321.51 313.71 307.03 303.13 296.44 292.54 278.06 263.57 263.57 258.56 258.00 262.46 269.70 276.94 279.17 283.63 293.10 298.11 279.73 268.59 261.34 261.34 "/>
+	</polylinesegments>
+</annotation>

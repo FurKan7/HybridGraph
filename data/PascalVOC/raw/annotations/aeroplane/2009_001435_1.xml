@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_001435</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="171.00" width="485.00" xmin="9.00" ymin="93.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="476.80" y="151.49" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="457.74" y="220.56" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="473.81" y="184.72" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="454.10" y="240.72" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="362.09" y="101.84" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="298.20" y="257.15" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="14.54" y="110.58" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="48.25" y="101.47" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="35.73" y="130.68" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="225.72" y="161.20" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="202.55" y="201.15" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="176.96" y="141.60" z="0.00"/>
+		<keypoint name="Left_Engine_Back" visible="1" x="303.62" y="138.80" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="160.15" y="205.44" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="205.54" y="212.72" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="380.40" y="181.36" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="9.39 60.95 178.64 210.03 232.44 236.93 270.56 334.45 380.40 361.35 318.75 318.75 306.42 292.97 270.56 375.92 466.71 495.85 475.68 486.89 465.59 466.71 454.38 458.86 436.45 415.15 321.00 275.04 249.26 301.94 315.39 271.68 248.14 252.62 234.69 201.06 205.54 214.51 197.70 201.06 160.71 142.77 149.50 164.07 150.62 111.39 45.26 " y="108.56 95.12 126.48 130.96 124.24 108.56 110.80 90.64 101.84 104.08 125.36 132.08 146.64 151.12 152.24 182.48 145.52 152.24 183.60 189.20 210.48 225.04 227.28 249.68 245.20 226.16 218.32 207.12 207.12 259.76 262.00 257.52 245.20 253.04 249.68 247.44 225.04 225.04 214.96 225.04 218.32 206.00 193.68 192.56 179.12 163.44 144.40 "/>
+	</polylinesegments>
+</annotation>

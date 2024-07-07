@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_001557</image>
+	<voc_id>2</voc_id>
+	<category>sheep</category>
+	<visible_bounds height="161.00" width="96.00" xmin="149.00" ymin="124.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="193.20" y="153.31" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="166.68" y="150.20" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="172.89" y="174.60" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="206.10" y="142.07" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="163.58" y="140.63" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="206.10 220.43 216.61 217.09 233.33 233.33 244.32 244.80 233.81 210.40 189.38 168.36 159.28 155.46 161.67 151.63 151.16 170.74 185.56 200.84 208.49 210.88 " y="282.48 279.13 263.34 243.73 224.11 208.33 191.58 168.62 142.79 124.61 125.09 136.09 130.35 134.18 144.22 172.93 177.71 175.32 190.63 221.72 230.81 249.47 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_008464</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>FighterJet</subcategory>
+	<visible_bounds height="147.00" width="403.00" xmin="33.00" ymin="43.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="87.11" y="43.58" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="96.66" y="78.28" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="37.75" y="102.73" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="122.73" y="62.44" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="93.16" y="187.25" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="346.50" y="69.66" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="434.05" y="169.32" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="369.55" y="132.77" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="382.59" y="167.23" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="206.56" y="155.12" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="283.40" y="129.97" z="0.00"/>
+		<keypoint name="Left_Engine_Back" visible="1" x="146.02" y="148.60" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="258.72" y="146.12" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="196.31" y="122.05" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="149.28" y="93.65" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="33.32 84.55 83.62 91.07 81.75 105.04 115.28 132.05 141.36 158.13 211.22 252.20 340.68 358.37 359.30 297.83 356.51 387.25 401.22 437.54 434.75 407.74 335.09 284.79 236.36 229.84 215.87 199.11 105.04 82.69 155.33 132.98 134.84 143.22 156.26 121.80 118.08 77.10 76.17 104.11 103.18 49.16 " y="96.44 84.33 77.81 77.81 40.55 48.01 58.25 62.91 84.33 92.71 108.55 115.07 61.98 68.50 75.02 126.25 128.11 136.49 147.67 166.30 174.68 176.54 165.37 158.85 158.85 166.30 170.95 170.02 193.31 186.79 159.78 149.53 143.01 137.42 133.70 126.25 126.25 113.21 104.82 99.23 95.51 104.82 "/>
+	</polylinesegments>
+</annotation>

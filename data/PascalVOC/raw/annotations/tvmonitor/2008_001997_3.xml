@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_001997</image>
+	<voc_id>3</voc_id>
+	<category>tvmonitor</category>
+	<visible_bounds height="132.00" width="77.00" xmin="8.00" ymin="127.00"/>
+	<keypoints>
+		<keypoint name="F_Top_Left" visible="1" x="54.96" y="132.40" z="0.00"/>
+		<keypoint name="F_Top_Right" visible="1" x="17.20" y="155.15" z="0.00"/>
+		<keypoint name="F_Bottom_Left" visible="1" x="81.90" y="208.49" z="0.00"/>
+		<keypoint name="F_Bottom_Right" visible="1" x="49.25" y="249.68" z="0.00"/>
+		<keypoint name="B_Top_Right" visible="1" x="10.71" y="163.39" z="0.00"/>
+		<keypoint name="B_Bottom_Right" visible="1" x="37.85" y="253.40" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="48.86 83.47 55.55 9.13 " y="253.40 209.08 129.85 159.66 "/>
+	</polylinesegments>
+</annotation>

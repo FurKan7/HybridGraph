@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_002229</image>
+	<voc_id>2</voc_id>
+	<category>aeroplane</category>
+	<subcategory>FighterJet</subcategory>
+	<visible_bounds height="31.00" width="24.00" xmin="205.00" ymin="59.00"/>
+	<keypoints>
+		<keypoint name="L_Stabilizer" visible="1" x="209.53" y="80.53" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="207.48" y="69.30" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="222.65" y="86.43" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="212.25" y="72.81" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="207.11 212.85 217.04 215.86 214.04 214.22 216.59 218.68 220.23 221.42 224.88 226.70 227.98 228.43 228.34 226.70 226.16 225.88 225.34 225.06 224.42 223.42 221.05 220.42 219.60 219.41 217.86 214.13 212.94 211.76 210.21 208.21 207.93 208.57 207.02 205.56 207.75 " y="68.24 72.11 71.83 66.67 62.16 60.22 61.70 64.09 68.05 70.45 69.80 69.62 70.63 72.93 75.61 77.63 77.72 79.66 83.25 85.19 87.30 88.13 87.49 83.90 78.74 75.14 75.14 75.42 75.61 78.74 81.13 81.32 78.18 75.14 71.00 68.42 68.14 "/>
+	</polylinesegments>
+</annotation>

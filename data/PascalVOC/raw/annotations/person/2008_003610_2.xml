@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation id="1234">
+   <image>2008_003610</image>
+   <category>person</category>
+   <subcategory>Male</subcategory>
+   <visible_bounds height="193.00" width="93.00" xmin="35.00" ymin="131.00"/>
+   <keypoints>
+      <keypoint name="B_Head" visible="1" x="101.56" y="147.54" z="0.00" zorder="1"/>
+      <keypoint name="L_Ankle" visible="1" x="75.06" y="313.41" z="2.94" zorder="1"/>
+      <keypoint name="L_Ear" visible="1" x="89.19" y="154.64" z="0.00" zorder="1"/>
+      <keypoint name="L_Elbow" visible="1" x="54.68" y="198.14" z="1.65" zorder="0"/>
+      <keypoint name="L_Hip" visible="1" x="82.70" y="228.91" z="-1.33" zorder="1"/>
+      <keypoint name="L_Knee" visible="1" x="77.42" y="273.21" z="0.86" zorder="1"/>
+      <keypoint name="L_Shoulder" visible="1" x="78.71" y="180.71" z="-0.64" zorder="2"/>
+      <keypoint name="L_Toes" visible="1" x="77.40" y="308.94" z="-10.08" zorder="2"/>
+      <keypoint name="L_Wrist" visible="1" x="40.79" y="218.07" z="7.44" zorder="0"/>
+      <keypoint name="R_Ankle" visible="1" x="101.99" y="303.27" z="-30.97" zorder="2"/>
+      <keypoint name="R_Ear" visible="1" x="114.18" y="160.02" z="0.00" zorder="1"/>
+      <keypoint name="R_Elbow" visible="1" x="122.03" y="214.30" z="1.33" zorder="0"/>
+      <keypoint name="R_Hip" visible="1" x="103.21" y="231.58" z="0.69" zorder="0"/>
+      <keypoint name="R_Knee" visible="1" x="108.39" y="275.85" z="-2.11" zorder="2"/>
+      <keypoint name="R_Shoulder" visible="1" x="115.64" y="185.24" z="0.00" zorder="1"/>
+      <keypoint name="R_Toes" visible="1" x="100.11" y="316.87" z="-33.51" zorder="2"/>
+      <keypoint name="R_Wrist" visible="1" x="107.04" y="214.78" z="-18.63" zorder="2"/>
+   </keypoints>
+   <polylinesegments>
+      <segment name="foreground" x="86 82 84 56 44 39 37 35 43 48 50 65 64 61 65 65 90 109 111 109 121 122 122 127 128 113 125 123 " y="132 150 161 184 199 210 217 230 236 230 220 212 269 277 282 323 321 325 323 307 283 264 226 224 182 170 149 132 "/>
+   </polylinesegments>
+</annotation>

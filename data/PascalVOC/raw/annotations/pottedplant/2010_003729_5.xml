@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_003729</image>
+	<voc_id>5</voc_id>
+	<category>pottedplant</category>
+	<visible_bounds height="124.00" width="53.00" xmin="438.00" ymin="251.00"/>
+	<keypoints>
+		<keypoint name="Top_Left" visible="1" x="443.05" y="310.42" z="0.00"/>
+		<keypoint name="Top_Right" visible="1" x="475.70" y="319.26" z="0.00"/>
+		<keypoint name="Top_Front_Middle" visible="1" x="457.87" y="315.58" z="0.00"/>
+		<keypoint name="Top_Back_Middle" visible="1" x="465.37" y="300.29" z="0.00"/>
+		<keypoint name="Bottom_Left" visible="1" x="443.73" y="370.85" z="0.00"/>
+		<keypoint name="Bottom_Right" visible="1" x="480.49" y="373.43" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="484.92 485.66 461.31 440.28 441.76 442.13 453.93 465.00 470.53 484.92 " y="318.53 374.53 373.80 371.95 310.42 303.79 289.42 268.42 254.42 251.10 "/>
+	</polylinesegments>
+</annotation>

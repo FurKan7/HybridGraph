@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_000883</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>FighterJet</subcategory>
+	<visible_bounds height="341.00" width="499.00" xmin="1.00" ymin="1.00"/>
+	<keypoints>
+		<keypoint name="L_WingTip" visible="1" x="415.41" y="241.99" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="361.21" y="271.42" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="287.40 433.87 499.60 499.60 500.75 431.56 420.03 351.99 324.31 315.08 7.17 6.01 " y="339.53 339.53 336.06 186.01 127.14 84.43 62.50 11.71 5.94 5.94 2.47 340.68 "/>
+	</polylinesegments>
+</annotation>

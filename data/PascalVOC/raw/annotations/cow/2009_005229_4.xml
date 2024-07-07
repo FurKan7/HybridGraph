@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_005229</image>
+	<voc_id>4</voc_id>
+	<category>cow</category>
+	<visible_bounds height="170.00" width="65.00" xmin="32.00" ymin="3.00"/>
+	<keypoints>
+		<keypoint name="TailBase" visible="1" x="37.60" y="18.80" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="58.45" y="107.20" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="71.06" y="77.90" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="57.94" y="153.67" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="86.53" y="165.79" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="92.24 86.70 80.14 77.62 80.14 95.27 85.18 75.60 65.51 61.47 54.41 50.38 44.32 43.31 38.27 34.23 37.26 32.22 33.22 47.35 81.15 82.66 73.08 70.55 73.58 80.14 78.62 " y="80.93 90.02 118.31 134.47 150.13 169.83 174.38 173.37 158.21 147.61 117.30 110.23 116.79 134.47 135.48 115.78 83.96 50.62 23.85 8.19 5.16 6.17 23.85 34.45 57.69 89.52 106.19 "/>
+	</polylinesegments>
+</annotation>

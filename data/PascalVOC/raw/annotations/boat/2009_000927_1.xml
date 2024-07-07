@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_000927</image>
+	<voc_id>1</voc_id>
+	<category>boat</category>
+	<subcategory>Sailboat</subcategory>
+	<visible_bounds height="111.00" width="33.00" xmin="275.00" ymin="159.00"/>
+	<keypoints>
+		<keypoint name="Hull_Front_Top" visible="1" x="304.39" y="254.74" z="0.00"/>
+		<keypoint name="Hull_Front_Bot" visible="1" x="303.84" y="264.08" z="0.00"/>
+		<keypoint name="Hull_Back_Top" visible="1" x="282.63" y="259.36" z="0.00"/>
+		<keypoint name="Hull_Back_Bot" visible="1" x="282.96" y="266.94" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Top" visible="1" x="277.20" y="257.05" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Top" visible="1" x="299.24" y="259.69" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Bot" visible="1" x="298.74" y="265.13" z="0.00"/>
+		<keypoint name="Mast_Top" visible="1" x="296.93" y="161.07" z="0.00"/>
+		<keypoint name="Sail_Left" visible="1" x="283.45" y="254.74" z="0.00"/>
+		<keypoint name="Sail_Right" visible="1" x="304.83" y="253.09" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="275.56 276.21 301.87 305.81 305.81 305.16 298.25 284.44 279.17 " y="258.04 266.61 266.28 261.34 255.40 206.58 160.41 247.48 253.75 "/>
+	</polylinesegments>
+</annotation>

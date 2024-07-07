@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_007666</image>
+	<voc_id>3</voc_id>
+	<category>cow</category>
+	<visible_bounds height="80.00" width="129.00" xmin="220.00" ymin="210.00"/>
+	<keypoints>
+		<keypoint name="R_Eye" visible="1" x="340.45" y="223.65" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="331.51" y="220.29" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="313.87" y="219.69" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="225.97" y="215.33" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="301.20" y="286.55" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="301.20" y="288.48" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="241.72" y="285.06" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="244.25 243.06 247.23 245.74 243.36 246.94 253.79 261.25 273.17 304.47 319.08 326.83 333.99 347.70 348.00 332.50 325.64 324.75 316.10 315.51 305.67 289.57 272.57 264.53 265.12 254.69 253.49 250.21 " y="286.85 278.53 275.55 252.08 243.76 234.25 231.58 233.36 235.74 234.55 235.14 233.95 238.11 236.63 263.97 284.17 284.17 288.33 288.63 280.31 278.82 281.79 275.26 281.20 287.44 288.33 284.77 289.82 "/>
+	</polylinesegments>
+</annotation>

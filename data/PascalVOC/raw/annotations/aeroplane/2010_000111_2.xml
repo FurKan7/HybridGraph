@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_000111</image>
+	<voc_id>2</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="18.00" width="81.00" xmin="403.00" ymin="181.00"/>
+	<keypoints>
+		<keypoint name="L_Stabilizer" visible="1" x="450.52" y="183.87" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="417.95" y="184.15" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="476.57" y="188.18" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="411.30" y="188.96" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="434.14" y="184.81" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="434.23" y="182.36" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="434.51" y="188.68" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="439.85" y="189.72" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="427.21" y="189.72" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="411.30 423.10 426.46 430.02 427.59 430.21 435.64 435.64 437.70 439.94 442.38 440.50 476.63 477.01 463.16 439.94 439.19 451.92 451.92 439.76 438.07 434.14 429.83 427.40 418.42 416.92 426.65 427.21 420.10 412.24 " y="189.81 192.26 192.45 194.71 196.60 198.11 198.30 196.03 195.85 197.17 198.30 193.96 189.43 188.11 187.55 189.06 187.55 185.10 183.21 184.34 184.53 182.65 183.21 183.97 182.27 184.53 186.61 189.06 189.06 187.36 "/>
+	</polylinesegments>
+</annotation>

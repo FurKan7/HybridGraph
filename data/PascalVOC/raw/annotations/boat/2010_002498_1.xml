@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_002498</image>
+	<voc_id>1</voc_id>
+	<category>boat</category>
+	<subcategory>Rowboat</subcategory>
+	<visible_bounds height="62.00" width="153.00" xmin="84.00" ymin="182.00"/>
+	<keypoints>
+		<keypoint name="Hull_Front_Top" visible="1" x="109.23" y="204.85" z="0.00"/>
+		<keypoint name="Hull_Front_Bot" visible="1" x="112.94" y="223.81" z="0.00"/>
+		<keypoint name="Hull_Back_Top" visible="1" x="212.48" y="186.78" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Top" visible="1" x="218.31" y="208.04" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Bot" visible="1" x="217.43" y="216.54" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="92.26 156.96 203.64 234.76 233.70 224.50 151.66 127.62 107.81 93.32 84.12 " y="224.34 232.84 238.86 206.98 196.35 190.33 182.89 186.43 193.51 195.29 208.04 "/>
+	</polylinesegments>
+</annotation>

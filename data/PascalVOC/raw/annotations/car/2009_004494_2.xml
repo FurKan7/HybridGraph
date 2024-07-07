@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_004494</image>
+	<voc_id>2</voc_id>
+	<category>car</category>
+	<visible_bounds height="31.00" width="79.00" xmin="395.00" ymin="6.00"/>
+	<keypoints>
+		<keypoint name="R_F_WheelCenter" visible="1" x="457.99" y="32.03" z="0.00"/>
+		<keypoint name="R_B_WheelCenter" visible="1" x="407.84" y="30.69" z="0.00"/>
+		<keypoint name="R_HeadLight" visible="1" x="468.89" y="24.35" z="0.00"/>
+		<keypoint name="R_TailLight" visible="1" x="399.63" y="19.35" z="0.00"/>
+		<keypoint name="R_SideviewMirror" visible="1" x="450.32" y="18.87" z="0.00"/>
+		<keypoint name="R_F_RoofTop" visible="1" x="436.51" y="8.57" z="0.00"/>
+		<keypoint name="L_B_RoofTop" visible="1" x="403.46" y="8.75" z="0.00"/>
+		<keypoint name="R_B_RoofTop" visible="1" x="406.87" y="9.48" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="404.37 412.04 414.78 436.87 448.74 451.48 472.29 472.11 466.09 456.41 442.53 426.10 408.03 401.64 398.71 395.98 396.34 401.82 " y="35.08 35.63 32.89 34.17 35.08 35.26 35.63 25.94 20.27 16.61 7.83 6.37 6.19 7.10 14.97 18.44 30.14 31.97 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_000661</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Propeller</subcategory>
+	<visible_bounds height="22.00" width="65.00" xmin="125.00" ymin="31.00"/>
+	<keypoints>
+		<keypoint name="L_WingTip" visible="1" x="185.37" y="49.39" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="127.16" y="33.11" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="155.77" y="43.33" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="157.05" y="34.58" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="155.40" y="43.48" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="164.03" y="44.35" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="148.19" y="40.43" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="126.85 152.24 153.14 160.20 160.20 182.29 187.54 184.39 162.76 163.21 165.46 161.26 158.85 154.80 152.39 147.89 152.69 151.19 130.31 " y="33.87 44.47 50.07 49.47 45.83 50.98 51.13 47.50 40.08 34.47 32.66 31.45 33.26 33.72 31.60 32.66 35.69 38.26 31.90 "/>
+	</polylinesegments>
+</annotation>

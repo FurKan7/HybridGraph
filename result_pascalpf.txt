@@ -1,0 +1,68 @@
+standart yöntem
+Epoch: 32, Loss: 1.3915, Acc: 0.87,  Time: 27.77
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+82.0  92.0  91.9  98.8  99.3  98.8  98.3  98.2  99.6  91.9  100.0 98.8  82.9  86.7  85.6  98.5  100.0 99.8  100.0 97.8  95.0 
+average inference time: 15.945472255759862
+
+HybridGraphModel Yontem 15-epoch L=10 num steps
+Epoch: 13, Loss: 2.6709, Acc: 0.81,  Time: 9.72
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+75.9  91.5  90.2  99.4  99.3  98.4  97.5  96.8  99.6  91.2  100.0 98.3  86.8  88.1  83.2  100.0 100.0 98.5  100.0 100.0 94.7 
+average inference time: 15.309975857746045
+
+
+GraphSAGE Yontem 15-epoch L=10 num steps
+Epoch: 32, Loss: 8.0432, Acc: 0.02,  Time: 3.08
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+7.9   9.1   12.6  16.9  13.9  17.3  11.8  14.0  12.1  11.0  19.8  13.1  9.5   10.8  6.8   17.8  17.6  12.6  20.1  23.9  13.9 
+average inference time: 13.816685738715046
+
+
+HybridGNN Yontem 15-epoch L=10 num steps
+Epoch: 32, Loss: 5.4891, Acc: 0.20,  Time: 9.95
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+20.8  27.2  14.4  20.5  19.2  22.4  16.9  19.3  22.5  25.0  24.5  18.0  22.5  19.7  27.0  17.8  23.5  25.1  24.5  33.1  22.2 
+average inference time: 16.41933970475256
+
+
+EdgeGNN Yontem 15-epoch L=10 num steps
+Epoch: 32, Loss: 8.0375, Acc: 0.02,  Time: 4.02
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+7.9   9.1   12.6  16.9  13.9  17.3  11.8  14.0  12.1  11.0  19.8  13.1  9.5   10.8  6.8   17.8  17.6  12.6  20.1  23.9  13.9 
+average inference time: 14.525371318278838
+
+--------------------------------------------------------------------
+
+HybridGraphModel Yontem 15-epoch L=20 num steps
+Epoch: 08, Loss: 3.2047, Acc: 0.81,  Time: 18.58
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+78.3  91.0  90.9  100.0 99.3  98.3  98.2  97.9  99.0  92.6  100.0 98.8  84.8  87.5  82.6  100.0 100.0 99.1  100.0 99.3  94.9 
+average inference time: 28.979251615508048
+
+
+GraphSAGE Yontem 15-epoch L=20 num steps
+Epoch: 32, Loss: 8.0374, Acc: 0.02,  Time: 5.22
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+7.9   9.1   12.6  16.9  13.9  17.3  11.8  14.0  12.1  11.0  19.8  13.1  9.5   10.8  6.8   17.8  17.6  12.6  20.1  23.9  13.9 
+average inference time: 27.282309071323375
+
+
+HybridGNN Yontem 15-epoch L=20 num steps
+Epoch: 32, Loss: 3.6677, Acc: 0.67,  Time: 18.88
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+69.2  87.7  79.6  91.6  96.4  97.3  94.2  93.5  95.5  86.0  100.0 91.2  81.7  81.5  73.1  99.0  85.3  86.0  94.3  98.2  89.1 
+average inference time: 30.645626039571095
+
+
+EdgeGNN Yontem 15-epoch L=20 num steps
+Epoch: 32, Loss: 8.0273, Acc: 0.02,  Time: 6.91
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+7.9   9.1   12.6  16.9  13.9  17.3  11.8  14.0  12.1  11.0  19.8  13.1  9.5   10.8  6.8   17.8  17.6  12.6  20.1  23.9  13.9 
+average inference time: 27.374710177689746
+
+standart yöntem
+Epoch: 29, Loss: 1.4247, Acc: 0.87,  Time: 43.25
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+82.8  91.8  93.5  100.0 99.3  99.1  98.5  98.2  100.0 97.1  100.0 99.3  83.4  85.9  85.5  98.5  100.0 99.1  100.0 99.3  95.6 
+average inference time: 30.60411281113931
+

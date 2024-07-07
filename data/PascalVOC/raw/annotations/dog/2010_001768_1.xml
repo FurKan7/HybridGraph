@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_001768</image>
+	<voc_id>1</voc_id>
+	<category>dog</category>
+	<visible_bounds height="44.00" width="49.00" xmin="132.00" ymin="161.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="142.13" y="168.17" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="136.44" y="167.44" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="136.05" y="171.47" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="147.62" y="165.55" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="137.18" y="166.09" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="142.51" y="176.81" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="151.91" y="169.47" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="153.09" y="184.31" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="141.16" y="180.06" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="168.26" y="180.12" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="159.69" y="183.48" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="139.13" y="198.33" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="136.47" y="189.83" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="177.18" y="199.54" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="168.30" y="199.28" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="133.69 139.06 144.57 147.58 149.55 152.44 153.09 161.88 168.56 171.84 174.20 178.79 179.84 178.79 176.30 173.54 165.15 162.92 170.79 172.23 169.74 167.51 161.74 157.55 158.20 153.62 140.77 137.88 136.70 143.65 142.73 140.77 139.19 139.19 136.57 134.21 135.00 135.65 137.62 138.93 139.98 134.47 135.39 " y="164.30 162.87 163.26 161.95 163.39 166.40 168.36 169.93 172.93 178.82 188.88 196.99 199.87 200.78 201.30 196.21 186.01 188.75 196.99 199.74 200.52 199.08 193.85 190.45 184.57 187.97 199.87 200.65 198.56 191.89 188.75 187.31 188.62 191.63 191.63 189.54 186.27 183.13 181.82 181.95 175.42 173.33 168.62 "/>
+	</polylinesegments>
+</annotation>

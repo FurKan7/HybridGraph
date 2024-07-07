@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_002993</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="45.00" width="57.00" xmin="55.00" ymin="189.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="109.12" y="199.77" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="105.57" y="205.60" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="102.69" y="199.09" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="108.35" y="214.65" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="82.01" y="191.53" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="95.66" y="230.21" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="57.29" y="219.41" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="60.84" y="216.22" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="63.94" y="220.35" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="79.02" y="212.02" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="80.47" y="217.01" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="70.59" y="209.66" z="0.00"/>
+		<keypoint name="Left_Engine_Back" visible="1" x="77.18" y="208.22" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="75.60" y="223.56" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="82.58" y="220.81" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="99.44" y="206.12" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="83.24 83.10 98.39 101.68 103.00 104.18 106.42 109.06 106.69 109.19 110.90 108.92 100.49 86.27 85.21 96.81 96.54 94.70 81.66 77.70 75.20 75.60 78.23 75.60 60.97 58.08 56.89 58.60 73.22 73.22 69.40 70.59 74.15 80.60 " y="190.92 210.06 205.99 198.78 198.26 204.03 201.27 201.54 206.65 212.68 215.56 217.01 210.45 215.56 215.83 229.20 230.90 231.17 222.78 224.87 224.09 221.20 219.63 218.45 221.33 221.07 219.10 216.61 212.68 210.98 210.71 207.17 206.78 190.78 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_003275</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>FighterJet</subcategory>
+	<visible_bounds height="232.00" width="406.00" xmin="42.00" ymin="50.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="398.57" y="127.24" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="433.13" y="188.04" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="436.73" y="154.43" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="347.28" y="244.77" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="282.22" y="55.65" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="115.83" y="278.85" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="52.33" y="180.07" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="99.56" y="158.81" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="102.06" y="201.95" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="201.84" y="183.35" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="158.68" y="236.33" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="137.56" y="137.40" z="0.00"/>
+		<keypoint name="Left_Engine_Back" visible="1" x="214.04" y="147.71" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="73.29" y="220.86" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="153.98" y="231.64" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="352.91" y="170.22" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="287.22 305.99 305.99 277.84 281.59 267.52 341.65 366.98 376.36 384.81 393.25 399.82 416.71 423.28 426.09 436.42 444.86 444.86 427.03 439.23 449.55 441.11 395.13 364.17 346.34 336.95 342.58 263.77 259.07 247.81 241.25 236.56 234.68 228.11 229.99 182.13 172.75 140.85 119.27 96.75 96.75 108.94 84.55 78.92 77.04 69.54 71.41 68.60 67.66 69.54 75.17 73.29 77.98 52.65 56.40 49.83 49.83 68.60 83.61 97.69 109.88 114.57 123.02 119.27 137.09 139.91 132.40 136.16 145.54 152.11 151.17 185.89 252.51 264.70 276.90 " y="50.65 60.03 73.16 134.12 138.80 172.56 171.63 159.44 146.31 133.18 126.61 126.61 135.99 148.18 151.93 153.81 153.81 161.31 191.32 197.88 207.26 222.27 222.27 246.65 247.59 241.02 217.58 218.52 225.08 229.77 226.96 222.27 219.45 219.45 231.64 264.47 261.65 280.41 280.41 277.60 274.78 248.52 247.59 241.96 252.28 251.34 237.27 234.46 233.52 226.96 216.64 211.95 204.45 205.39 195.07 190.38 166.94 161.31 160.37 160.37 156.62 129.43 139.74 154.75 151.00 142.56 138.80 129.43 99.42 105.98 120.99 123.80 54.40 50.65 49.72 "/>
+	</polylinesegments>
+</annotation>

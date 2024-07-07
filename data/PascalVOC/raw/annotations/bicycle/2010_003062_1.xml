@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_003062</image>
+	<voc_id>1</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="188.00" width="322.00" xmin="79.00" ymin="149.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="259.72" y="158.13" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="259.84" y="191.25" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="313.97" y="177.93" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="201.45" y="216.85" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="343.59" y="287.72" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="142.22" y="283.41" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="320.67" y="240.92" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="191.13" y="247.21" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="394.54" y="282.62" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="86.14" y="275.13" z="0.00"/>
+		<keypoint name="CranksetCenter" visible="1" x="227.35" y="298.12" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="85.21 103.07 129.12 159.63 187.16 194.61 205.77 199.81 187.16 176.00 176.74 193.86 219.16 229.58 217.67 203.54 213.95 260.09 298.05 295.07 260.09 252.65 286.88 300.28 289.12 278.70 251.91 248.19 281.67 306.98 321.12 314.42 308.46 318.88 345.67 368.00 388.84 398.51 399.25 391.81 368.00 347.91 313.67 298.05 283.91 282.42 299.53 292.84 258.60 245.95 244.47 233.30 211.72 196.09 173.02 142.51 112.75 94.89 85.21 79.26 " y="251.17 232.60 220.71 222.20 238.54 242.26 238.54 223.69 224.43 209.57 198.43 195.46 197.69 202.89 217.74 219.97 243.74 231.11 206.60 186.54 198.43 188.03 176.89 176.14 165.00 156.09 166.49 151.63 148.66 163.51 179.11 190.26 195.46 234.09 223.69 231.11 243.74 259.34 288.31 310.60 335.11 336.60 336.60 327.69 303.17 280.14 249.69 245.97 281.63 291.29 304.66 312.09 313.57 309.86 330.66 335.86 332.14 315.80 303.91 279.40 "/>
+	</polylinesegments>
+</annotation>

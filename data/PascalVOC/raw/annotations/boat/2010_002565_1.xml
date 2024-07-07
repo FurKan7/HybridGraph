@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_002565</image>
+	<voc_id>1</voc_id>
+	<category>boat</category>
+	<subcategory>SailboatNoSail</subcategory>
+	<visible_bounds height="287.00" width="369.00" xmin="39.00" ymin="1.00"/>
+	<keypoints>
+		<keypoint name="Hull_Front_Top" visible="1" x="268.41" y="227.72" z="0.00"/>
+		<keypoint name="Hull_Front_Bot" visible="1" x="266.42" y="278.81" z="0.00"/>
+		<keypoint name="Hull_Back_Top" visible="1" x="50.67" y="233.12" z="0.00"/>
+		<keypoint name="Hull_Back_Bot" visible="1" x="45.55" y="266.04" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Top" visible="1" x="230.32" y="209.56" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Top" visible="1" x="141.63" y="225.45" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Bot" visible="1" x="141.06" y="273.13" z="0.00"/>
+		<keypoint name="Sail_Left" visible="1" x="142.48" y="175.50" z="0.00"/>
+		<keypoint name="Sail_Right" visible="1" x="226.48" y="174.23" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="45.26 48.68 270.40 278.93 361.65 403.44 407.70 388.09 332.66 280.64 158.69 109.22 87.90 83.64 53.79 39.30 38.44 " y="265.75 273.42 282.78 265.75 279.38 278.53 211.26 201.05 178.91 3.51 2.66 192.53 192.53 218.07 212.97 241.91 268.31 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_001212</image>
+	<voc_id>4</voc_id>
+	<category>boat</category>
+	<subcategory>Sailboat</subcategory>
+	<visible_bounds height="90.00" width="43.00" xmin="131.00" ymin="193.00"/>
+	<keypoints>
+		<keypoint name="Hull_Front_Top" visible="1" x="133.13" y="276.38" z="0.00"/>
+		<keypoint name="Hull_Front_Bot" visible="1" x="134.78" y="281.59" z="0.00"/>
+		<keypoint name="Hull_Back_Top" visible="1" x="172.38" y="277.40" z="0.00"/>
+		<keypoint name="Hull_Back_Bot" visible="1" x="169.00" y="281.06" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Top" visible="1" x="156.60" y="277.31" z="0.00"/>
+		<keypoint name="Mast_Top" visible="1" x="152.20" y="195.28" z="0.00"/>
+		<keypoint name="Sail_Left" visible="1" x="130.60" y="273.03" z="0.00"/>
+		<keypoint name="Sail_Right" visible="1" x="154.60" y="269.82" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="131.67 132.20 148.20 151.67 154.07 154.60 171.93 171.67 134.60 " y="275.71 269.82 220.62 195.48 222.22 268.75 275.97 280.79 281.06 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_002307</image>
+	<voc_id>1</voc_id>
+	<category>cat</category>
+	<visible_bounds height="448.00" width="340.00" xmin="1.00" ymin="1.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="289.41" y="105.64" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="164.73" y="110.96" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="234.73" y="171.42" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="310.93" y="22.66" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="90.63" y="27.98" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="212.21" y="272.48" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="335.56 326.24 310.27 253.03 185.14 122.58 109.27 4.11 2.78 340.88 " y="232.99 279.58 316.85 379.42 407.37 420.69 449.97 451.30 4.02 0.03 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_001987</image>
+	<voc_id>1</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="82.00" width="132.00" xmin="220.00" ymin="194.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="320.47" y="204.45" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="314.98" y="224.24" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="323.83" y="212.97" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="266.78" y="209.32" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="325.05" y="252.24" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="249.39" y="251.64" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="315.29" y="232.76" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="265.26" y="235.80" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="348.84" y="253.46" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="224.99" y="249.20" z="0.00"/>
+		<keypoint name="CranksetCenter" visible="1" x="280.20" y="255.90" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="233.53 225.90 223.46 225.60 232.31 243.90 258.24 266.17 270.14 273.49 277.15 283.56 288.14 284.17 285.39 313.46 314.37 305.22 301.86 302.47 310.10 320.78 337.25 347.62 350.67 347.93 339.39 320.78 320.78 322.61 329.01 328.40 321.69 317.42 318.34 313.76 309.49 308.57 313.15 316.20 314.68 302.17 291.19 284.78 278.07 278.07 272.58 271.66 275.93 265.87 259.76 259.76 254.88 243.60 234.75 226.21 226.21 223.77 226.21 223.77 231.70 231.70 " y="229.11 239.76 247.68 258.94 267.77 272.64 271.42 265.03 257.72 256.81 262.29 263.81 258.94 257.72 251.64 225.45 229.11 238.54 247.98 259.86 267.16 273.86 273.86 263.81 253.77 245.85 233.37 227.58 227.58 221.50 212.06 206.27 204.14 204.14 207.80 212.06 212.06 217.54 222.41 218.15 222.71 223.02 226.67 236.11 225.15 225.15 216.93 209.01 202.01 199.58 199.58 199.58 197.44 198.97 202.62 206.58 206.58 210.54 216.93 219.06 218.76 219.06 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_000586</image>
+	<voc_id>2</voc_id>
+	<category>aeroplane</category>
+	<subcategory>FighterJet</subcategory>
+	<visible_bounds height="147.00" width="357.00" xmin="36.00" ymin="1.00"/>
+	<keypoints>
+		<keypoint name="Bot_Rudder" visible="1" x="104.77" y="23.38" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="47.01" y="4.42" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="385.29" y="142.93" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="306.08" y="76.97" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="297.83" y="128.91" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="197.17" y="74.50" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="148.49" y="25.86" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="37.94 101.47 102.29 377.86 383.64 339.09 317.63 292.06 231.00 152.62 138.59 98.17 103.12 52.79 47.84 81.66 75.06 38.76 " y="28.33 54.71 64.61 147.05 133.86 104.18 84.39 74.50 58.01 30.80 3.60 1.12 25.86 1.95 9.37 25.86 33.28 17.61 "/>
+	</polylinesegments>
+</annotation>

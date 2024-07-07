@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_001283</image>
+	<voc_id>1</voc_id>
+	<category>sofa</category>
+	<visible_bounds height="202.00" width="429.00" xmin="55.00" ymin="172.00"/>
+	<keypoints>
+		<keypoint name="Back_Top_Left" visible="1" x="398.39" y="171.41" z="0.00"/>
+		<keypoint name="Back_Top_Right" visible="1" x="73.85" y="184.13" z="0.00"/>
+		<keypoint name="Front_Base_Left" visible="1" x="442.02" y="337.42" z="0.00"/>
+		<keypoint name="Front_Base_Right" visible="1" x="88.06" y="371.12" z="0.00"/>
+		<keypoint name="Right_Junction" visible="1" x="111.86" y="269.04" z="0.00"/>
+		<keypoint name="Handle_Front_Left" visible="1" x="468.45" y="251.53" z="0.00"/>
+		<keypoint name="Handle_Front_Right" visible="1" x="87.73" y="285.55" z="0.00"/>
+		<keypoint name="Handle_Right_Junction" visible="1" x="80.13" y="244.75" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="63.27 56.33 60.30 62.28 61.29 59.31 62.28 66.25 76.16 88.06 127.72 160.44 185.23 196.13 201.09 212.99 223.89 238.76 239.76 290.32 307.18 328.00 332.95 337.91 366.66 399.38 405.33 412.27 435.07 440.03 483.66 482.67 475.73 481.67 433.09 365.67 356.75 302.22 220.92 70.22 " y="284.89 269.04 264.08 254.17 244.26 190.74 180.83 174.88 175.87 175.87 177.85 177.85 175.87 176.86 175.87 174.88 174.88 172.90 172.90 175.87 172.90 187.76 190.74 197.68 196.68 183.80 180.83 190.74 196.68 216.51 238.31 252.19 255.16 302.73 312.64 316.61 354.27 363.19 371.12 370.13 "/>
+	</polylinesegments>
+</annotation>

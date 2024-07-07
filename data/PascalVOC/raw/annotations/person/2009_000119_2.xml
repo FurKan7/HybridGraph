@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation id="2018">
+   <image>2009_000119</image>
+   <category>person</category>
+   <subcategory>Male</subcategory>
+   <visible_bounds height="100.00" width="56.00" xmin="380.00" ymin="173.00"/>
+   <keypoints>
+      <keypoint name="B_Head" visible="1" x="416.38" y="175.54" z="0.00" zorder="1"/>
+      <keypoint name="L_Ankle" visible="1" x="426.24" y="264.79" z="26.48" zorder="1"/>
+      <keypoint name="L_Elbow" visible="1" x="429.84" y="201.28" z="42.98" zorder="0"/>
+      <keypoint name="L_Eye" visible="1" x="411.55" y="181.82" z="0.00" zorder="1"/>
+      <keypoint name="L_Hip" visible="1" x="422.42" y="223.72" z="-11.40" zorder="2"/>
+      <keypoint name="L_Knee" visible="1" x="423.99" y="230.15" z="26.48" zorder="0"/>
+      <keypoint name="L_Shoulder" visible="1" x="423.65" y="192.03" z="19.90" zorder="0"/>
+      <keypoint name="L_Toes" visible="1" x="421.32" y="270.53" z="35.82" zorder="0"/>
+      <keypoint name="L_Wrist" visible="1" x="423.00" y="207.64" z="62.34" zorder="0"/>
+      <keypoint name="Nose" visible="1" x="410.18" y="185.73" z="0.00" zorder="1"/>
+      <keypoint name="R_Elbow" visible="1" x="389.64" y="201.38" z="22.47" zorder="0"/>
+      <keypoint name="R_Eye" visible="1" x="408.32" y="182.21" z="0.00" zorder="1"/>
+      <keypoint name="R_Hip" visible="1" x="406.78" y="224.33" z="-20.06" zorder="2"/>
+      <keypoint name="R_Shoulder" visible="1" x="398.55" y="192.86" z="0.00" zorder="0"/>
+      <keypoint name="R_Wrist" visible="1" x="384.75" y="208.52" z="42.15" zorder="0"/>
+   </keypoints>
+   <polylinesegments>
+      <segment name="foreground" x="410 416 422 422 430 435 436 431 433 431 434 428 417 419 417 408 408 402 396 395 390 381 380 384 393 403 404 " y="173 173 177 185 187 199 203 214 226 243 263 272 269 253 237 232 217 212 209 207 210 212 205 196 190 181 174 "/>
+   </polylinesegments>
+</annotation>

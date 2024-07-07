@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_004171</image>
+	<voc_id>1</voc_id>
+	<category>pottedplant</category>
+	<visible_bounds height="480.00" width="275.00" xmin="68.00" ymin="18.00"/>
+	<keypoints>
+		<keypoint name="Top_Left" visible="1" x="73.75" y="267.51" z="0.00"/>
+		<keypoint name="Top_Right" visible="1" x="334.83" y="262.28" z="0.00"/>
+		<keypoint name="Top_Front_Middle" visible="1" x="196.80" y="307.21" z="0.00"/>
+		<keypoint name="Top_Back_Middle" visible="1" x="200.01" y="214.14" z="0.00"/>
+		<keypoint name="Bottom_Left" visible="1" x="136.52" y="442.70" z="0.00"/>
+		<keypoint name="Bottom_Right" visible="1" x="280.61" y="450.55" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="293.45 330.55 344.81 337.68 321.99 303.44 323.41 307.72 280.61 249.23 156.49 106.56 80.88 86.59 96.57 89.44 69.47 68.04 66.61 79.45 68.04 73.75 95.15 70.89 82.31 95.15 115.12 119.40 137.95 166.48 186.45 180.75 209.28 223.55 216.41 259.21 274.91 280.61 302.01 " y="216.64 235.18 260.85 317.90 332.17 373.53 400.63 456.25 486.21 501.89 500.47 471.94 423.45 386.37 372.10 340.72 313.63 258.00 163.87 149.60 142.47 123.93 118.22 109.67 93.98 93.98 71.16 35.50 18.38 18.38 35.50 61.17 61.17 82.57 129.63 128.21 151.03 179.55 195.24 "/>
+	</polylinesegments>
+</annotation>

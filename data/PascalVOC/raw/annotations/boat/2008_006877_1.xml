@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_006877</image>
+	<voc_id>1</voc_id>
+	<category>boat</category>
+	<subcategory>Ship</subcategory>
+	<visible_bounds height="49.00" width="127.00" xmin="373.00" ymin="202.00"/>
+	<keypoints>
+		<keypoint name="Hull_Front_Top" visible="1" x="495.64" y="236.51" z="0.00"/>
+		<keypoint name="Hull_Front_Bot" visible="1" x="484.20" y="247.69" z="0.00"/>
+		<keypoint name="Hull_Back_Top" visible="1" x="378.78" y="217.97" z="0.00"/>
+		<keypoint name="Hull_Back_Bot" visible="1" x="378.83" y="228.56" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Top" visible="1" x="416.39" y="225.47" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Bot" visible="1" x="416.25" y="236.41" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="376.62 377.50 398.64 420.94 452.06 457.34 459.69 497.26 498.72 498.72 498.72 498.43 495.50 491.68 483.76 483.17 483.76 476.12 474.07 473.48 471.43 467.61 450.30 434.45 420.65 402.45 393.06 387.19 376.92 376.33 376.33 375.16 374.57 " y="225.62 229.44 232.39 238.57 245.63 245.33 249.45 248.87 243.57 236.51 230.91 220.61 216.49 213.85 212.08 211.20 209.73 208.25 209.14 210.02 210.31 210.61 207.67 205.90 203.55 203.55 203.84 205.31 204.43 207.08 212.08 217.67 220.03 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_005132</image>
+	<voc_id>3</voc_id>
+	<category>boat</category>
+	<subcategory>Motorboat</subcategory>
+	<visible_bounds height="24.00" width="48.00" xmin="209.00" ymin="203.00"/>
+	<keypoints>
+		<keypoint name="Hull_Front_Top" visible="1" x="211.34" y="218.79" z="0.00"/>
+		<keypoint name="Hull_Front_Bot" visible="1" x="214.95" y="225.31" z="0.00"/>
+		<keypoint name="Hull_Back_Top" visible="1" x="250.97" y="218.81" z="0.00"/>
+		<keypoint name="Hull_Back_Bot" visible="1" x="252.27" y="225.42" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Top" visible="1" x="233.67" y="219.37" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Bot" visible="1" x="234.00" y="225.53" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="224.13 226.23 225.46 228.78 233.67 238.32 240.99 240.32 238.10 240.32 241.21 242.21 245.87 249.09 251.64 253.30 254.85 256.19 256.19 252.52 213.81 214.47 211.37 210.37 211.48 213.92 " y="217.84 215.05 213.94 210.04 210.93 205.25 204.58 207.48 211.04 211.49 214.72 217.95 218.29 218.29 217.39 219.07 220.63 221.74 224.30 226.09 225.64 224.41 220.85 219.18 217.73 217.95 "/>
+	</polylinesegments>
+</annotation>

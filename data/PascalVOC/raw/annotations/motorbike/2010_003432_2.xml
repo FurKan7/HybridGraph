@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_003432</image>
+	<voc_id>2</voc_id>
+	<category>motorbike</category>
+	<visible_bounds height="184.00" width="222.00" xmin="56.00" ymin="23.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="79.26" y="89.03" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="128.73" y="47.39" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="93.97" y="56.28" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="172.79" y="84.49" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="83.91" y="123.38" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="223.12" y="172.41" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="66.60" y="120.10" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="273.33" y="177.06" z="0.00"/>
+		<keypoint name="TailLight" visible="1" x="261.21" y="86.20" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="164.27 194.33 204.17 267.59 266.49 276.33 277.43 270.32 275.79 274.15 257.75 241.35 221.12 192.15 151.69 117.80 105.23 88.83 74.07 65.32 63.13 68.05 58.76 56.03 65.87 72.43 81.17 101.95 125.45 106.87 111.79 130.37 148.41 " y="73.45 72.35 60.87 70.17 92.04 108.44 141.24 146.16 163.66 185.53 200.29 203.57 197.01 167.49 157.10 142.34 146.71 143.98 132.50 119.92 105.71 96.96 78.37 51.03 49.94 41.19 39.55 28.07 26.97 45.02 54.31 50.48 54.31 "/>
+	</polylinesegments>
+</annotation>

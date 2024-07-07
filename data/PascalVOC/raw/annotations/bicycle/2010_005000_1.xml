@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_005000</image>
+	<voc_id>1</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="482.00" width="294.00" xmin="1.00" ymin="18.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="91.24" y="29.84" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="258.34" y="163.04" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="182.86" y="136.31" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="88.02" y="274.75" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="201.61" y="383.25" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="209.85" y="273.32" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="275.07" y="372.86" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="25.67" y="470.25" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="-1.57 57.20 111.67 124.57 153.23 157.53 127.43 91.60 80.13 87.30 117.40 150.37 233.50 279.37 293.70 263.60 232.07 234.93 224.90 289.40 292.27 279.37 220.60 147.50 114.53 110.23 38.57 5.60 1.30 " y="236.08 250.41 251.84 220.33 171.63 131.53 82.84 42.73 26.98 15.52 34.14 52.76 115.78 134.40 167.34 178.80 173.07 200.28 247.54 280.48 354.96 396.49 458.08 486.72 479.56 496.75 502.48 502.48 337.77 "/>
+	</polylinesegments>
+</annotation>

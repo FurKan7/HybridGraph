@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_001746</image>
+	<voc_id>1</voc_id>
+	<category>sofa</category>
+	<visible_bounds height="175.00" width="483.00" xmin="17.00" ymin="200.00"/>
+	<keypoints>
+		<keypoint name="Back_Top_Left" visible="1" x="483.43" y="207.90" z="0.00"/>
+		<keypoint name="Back_Top_Right" visible="1" x="110.87" y="210.98" z="0.00"/>
+		<keypoint name="Front_Base_Left" visible="1" x="431.15" y="364.21" z="0.00"/>
+		<keypoint name="Front_Base_Right" visible="1" x="53.11" y="316.55" z="0.00"/>
+		<keypoint name="Left_Junction" visible="1" x="411.06" y="258.08" z="0.00"/>
+		<keypoint name="Right_Junction" visible="1" x="107.80" y="250.63" z="0.00"/>
+		<keypoint name="Handle_Front_Left" visible="1" x="454.13" y="275.49" z="0.00"/>
+		<keypoint name="Handle_Front_Right" visible="1" x="31.06" y="261.81" z="0.00"/>
+		<keypoint name="Handle_Left_Junction" visible="1" x="472.45" y="237.60" z="0.00"/>
+		<keypoint name="Handle_Right_Junction" visible="1" x="99.43" y="236.95" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="20.74 20.74 64.27 96.64 105.57 199.34 296.45 393.57 497.38 499.61 136.83 136.83 137.94 " y="310.96 245.05 232.76 234.99 209.30 205.95 203.71 203.71 199.25 374.64 374.64 331.07 315.43 "/>
+	</polylinesegments>
+</annotation>

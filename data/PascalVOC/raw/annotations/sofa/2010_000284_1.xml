@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_000284</image>
+	<voc_id>1</voc_id>
+	<category>sofa</category>
+	<visible_bounds height="144.00" width="251.00" xmin="247.00" ymin="207.00"/>
+	<keypoints>
+		<keypoint name="Back_Top_Left" visible="1" x="301.15" y="247.89" z="0.00"/>
+		<keypoint name="Back_Base_Left" visible="1" x="295.35" y="344.85" z="0.00"/>
+		<keypoint name="Front_Base_Left" visible="1" x="259.67" y="290.23" z="0.00"/>
+		<keypoint name="Handle_Front_Left" visible="1" x="261.85" y="224.83" z="0.00"/>
+		<keypoint name="Handle_Left_Junction" visible="1" x="294.48" y="260.07" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="287.81 258.22 248.94 256.48 297.09 450.81 496.64 494.90 " y="347.36 294.58 237.74 223.82 211.64 210.48 211.64 334.02 "/>
+	</polylinesegments>
+</annotation>

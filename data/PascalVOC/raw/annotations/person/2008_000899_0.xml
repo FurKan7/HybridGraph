@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation id="256">
+   <image>2008_000899</image>
+   <category>person</category>
+   <subcategory>Female</subcategory>
+   <visible_bounds height="499.00" width="348.00" xmin="3.00" ymin="1.00"/>
+   <keypoints>
+      <keypoint name="B_Head" visible="1" x="71.13" y="9.30" z="0.00" zorder="1"/>
+      <keypoint name="L_Eye" visible="1" x="287.33" y="106.83" z="0.00" zorder="1"/>
+      <keypoint name="L_Hip" visible="0" x="349.76" y="801.56" z="-110.74" zorder="1"/>
+      <keypoint name="L_Shoulder" visible="0" x="292.84" y="294.07" z="-125.78" zorder="2"/>
+      <keypoint name="Nose" visible="1" x="282.47" y="148.05" z="0.00" zorder="1"/>
+      <keypoint name="R_Ear" visible="0" x="154.30" y="99.12" z="0.00" zorder="1"/>
+      <keypoint name="R_Eye" visible="1" x="242.34" y="91.40" z="0.00" zorder="1"/>
+      <keypoint name="R_Hip" visible="0" x="161.62" y="866.38" z="-15.04" zorder="0"/>
+      <keypoint name="R_Shoulder" visible="0" x="-31.26" y="396.83" z="0.00" zorder="1"/>
+   </keypoints>
+   <polylinesegments>
+      <segment name="foreground" x="72 302 338 326 311 323 332 347 351 6 5 " y="0 -2 49 197 298 383 412 440 497 500 143 "/>
+   </polylinesegments>
+</annotation>

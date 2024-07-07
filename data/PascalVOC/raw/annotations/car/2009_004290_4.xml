@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_004290</image>
+	<voc_id>4</voc_id>
+	<category>car</category>
+	<visible_bounds height="32.00" width="25.00" xmin="475.00" ymin="190.00"/>
+	<keypoints>
+		<keypoint name="L_F_WheelCenter" visible="1" x="479.06" y="215.19" z="0.00"/>
+		<keypoint name="L_SideviewMirror" visible="1" x="488.84" y="200.29" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="475.94 484.82 488.07 498.30 499.16 498.97 486.35 485.88 482.63 481.67 475.75 " y="206.19 200.96 199.44 193.73 194.02 219.88 219.12 220.83 220.64 216.17 215.89 "/>
+	</polylinesegments>
+</annotation>

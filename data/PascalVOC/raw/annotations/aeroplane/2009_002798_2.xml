@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_002798</image>
+	<voc_id>2</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Propeller</subcategory>
+	<visible_bounds height="35.00" width="81.00" xmin="4.00" ymin="178.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="12.58" y="181.29" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="18.73" y="202.54" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="30.09" y="198.26" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="14.92 28.03 35.14 47.12 57.60 72.77 84.00 83.62 84.37 72.95 47.68 36.08 29.71 26.34 25.97 18.48 10.80 5.00 4.63 5.75 8.00 6.69 5.56 5.94 10.43 " y="179.41 195.25 195.43 192.98 192.42 190.15 189.21 194.49 212.41 211.65 212.03 209.39 209.58 208.63 205.99 206.75 208.07 208.45 202.03 194.87 196.19 191.10 186.38 182.99 180.35 "/>
+	</polylinesegments>
+</annotation>

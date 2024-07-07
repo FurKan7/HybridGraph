@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_000983</image>
+	<voc_id>1</voc_id>
+	<category>dog</category>
+	<visible_bounds height="89.00" width="53.00" xmin="207.00" ymin="156.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="257.30" y="191.24" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="248.13" y="192.57" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="253.86" y="199.44" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="257.92" y="183.93" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="245.93" y="183.93" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="243.64" y="202.44" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="237.73" y="183.05" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="224.07" y="177.84" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="251.22" y="214.78" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="231.78" y="210.68" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="218.25" y="196.80" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="250.07" y="239.29" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="238.61" y="230.12" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="228.34" y="221.79" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="227.42" y="232.94" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="250.69 249.63 253.86 257.04 258.09 260.47 260.21 257.04 256.24 253.60 252.28 249.37 246.46 243.81 241.43 226.89 213.40 213.40 208.11 208.11 217.37 214.46 216.31 221.86 224.24 227.68 230.33 226.89 228.74 228.74 234.56 238.52 240.64 243.02 240.11 239.32 239.32 244.87 244.34 243.81 243.02 244.08 245.40 248.57 " y="240.17 234.61 211.87 206.32 199.71 194.95 183.05 172.47 172.47 177.23 181.46 179.87 173.00 173.00 182.25 176.96 160.30 156.07 157.39 164.80 178.55 192.83 203.94 220.07 232.76 234.09 230.12 223.51 218.22 211.08 229.06 231.44 231.18 228.00 224.83 219.28 217.43 216.63 223.24 229.33 231.97 236.20 237.79 240.96 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_000559</image>
+	<voc_id>2</voc_id>
+	<category>cow</category>
+	<visible_bounds height="148.00" width="223.00" xmin="181.00" ymin="134.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="290.05" y="229.60" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="262.22" y="228.44" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="275.23" y="255.83" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="295.59" y="229.77" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="259.69" y="221.89" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="292.50" y="231.66" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="291.73" y="145.26" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="399.18" y="161.20" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="316.21" y="186.91" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="389.13" y="172.77" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="346.61" y="214.69" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="332.70" y="275.37" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="284.60" y="275.54" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="374.45" y="266.11" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="351.25" y="259.94" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="277.55 282.71 297.14 375.99 395.58 400.73 399.70 400.73 400.21 393.00 370.32 376.51 366.71 365.68 354.35 353.31 345.58 342.49 332.18 334.76 335.79 345.58 323.42 325.48 319.30 318.27 315.18 304.35 297.14 293.02 280.13 283.22 269.31 262.09 264.15 247.15 241.48 243.02 221.38 195.09 179.63 206.95 225.50 245.60 267.25 268.79 " y="154.00 142.69 139.60 134.46 143.71 154.51 190.51 227.54 261.49 269.20 266.11 231.66 223.94 212.11 221.89 241.43 242.46 233.20 216.74 244.51 259.94 280.00 280.51 260.97 246.57 231.66 223.94 236.29 237.31 280.00 281.03 267.14 267.66 256.86 242.97 233.71 224.97 215.20 200.29 182.80 163.26 170.46 175.60 186.91 195.14 172.00 "/>
+	</polylinesegments>
+</annotation>

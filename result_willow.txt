@@ -1,0 +1,89 @@
+standart yöntem
+face          motorbike     car           duck          winebottle   
+99.99 ± 0.03  98.57 ± 1.74  94.95 ± 2.78  93.85 ± 3.07  99.52 ± 0.56  97.38 ± 0.97 
+face          motorbike     car           duck          winebottle   
+100.00        100.00        85.50         93.67         100.00        95.83        
+average inference time: 71.52317504882812
+98.8
+
+HybridGraphModel Yontem 15-epoch L=10 num steps
+face          motorbike     car           duck          winebottle   
+100.00 ± 0.00 98.57 ± 1.74  96.25 ± 1.29  93.02 ± 3.26  99.53 ± 0.50  97.47 ± 0.73 
+face          motorbike     car           duck          winebottle   
+100.00        100.00        96.00         90.00         99.13         97.03        
+average inference time: 55.27492446899414
+98.53333333333333
+
+
+GraphSAGE Yontem 15-epoch L=10 num steps
+face          motorbike     car           duck          winebottle   
+99.99 ± 0.05  81.80 ± 5.65  91.90 ± 2.56  88.83 ± 3.76  94.67 ± 2.01  91.44 ± 1.74 
+face          motorbike     car           duck          winebottle   
+100.00        81.50         92.50         87.00         96.74         91.55        
+average inference time: 15.904332542419434
+94.83478260869565
+
+
+HybridGNN Yontem 15-epoch L=10 num steps
+face          motorbike     car           duck          winebottle   
+99.98 ± 0.06  86.45 ± 4.58  80.15 ± 4.70  72.32 ± 3.83  91.74 ± 3.09  86.13 ± 1.53 
+face          motorbike     car           duck          winebottle   
+99.89         84.00         82.00         68.67         90.43         85.00        
+average inference time: 59.575372314453126
+88.4927536231884
+
+
+EdgeGNN Yontem 15-epoch L=10 num steps
+face          motorbike     car           duck          winebottle   
+99.74 ± 0.22  75.93 ± 4.57  85.22 ± 4.49  82.47 ± 3.29  92.87 ± 2.18  87.24 ± 1.39
+face          motorbike     car           duck          winebottle   
+100.00        74.00         82.00         79.67         91.96         85.52        
+average inference time: 17.304850769042968
+89.90434782608695
+
+--------------------------------------------------------------------
+
+standart yöntem
+face          motorbike     car           duck          winebottle   
+100.00 ± 0.00 99.40 ± 0.88  95.85 ± 2.22  94.50 ± 2.27  99.08 ± 1.00  97.77 ± 0.71 
+average inference time: 100.65039367675782
+99.06666666666668
+
+HybridGraphModel Yontem 15-epoch L=20 num steps
+face          motorbike     car           duck          winebottle   
+100.00 ± 0.00 99.20 ± 1.21  97.80 ± 0.97  92.50 ± 2.78  99.45 ± 0.55  97.79 ± 0.64 
+
+98.90579710144928
+Run 20:
+face          motorbike     car           duck          winebottle   
+100.00        96.00         98.50         89.33         99.35         96.64        
+average inference time: 75.68376922607422
+
+
+GraphSAGE Yontem 15-epoch L=20 num steps
+face          motorbike     car           duck          winebottle   
+100.00 ± 0.00 81.12 ± 3.71  90.85 ± 3.36  85.73 ± 3.81  94.23 ± 1.59  90.39 ± 1.38 
+
+face          motorbike     car           duck          winebottle   
+100.00        85.50         90.50         89.00         93.91         91.78        
+average inference time: 29.988511657714845
+92.77681159420288
+
+
+HybridGNN Yontem 15-epoch L=20 num steps
+face          motorbike     car           duck          winebottle   
+99.90 ± 0.27  82.93 ± 7.35  75.03 ± 9.45  72.58 ± 4.88  92.68 ± 2.89  84.62 ± 3.01 
+face          motorbike     car           duck          winebottle   
+100.00        77.00         58.00         76.00         91.30         80.46        
+average inference time: 76.51171875
+90.4840579710145
+
+
+EdgeGNN Yontem 15-epoch L=20 num steps
+face          motorbike     car           duck          winebottle   
+99.93 ± 0.15  74.75 ± 4.08  84.93 ± 4.21  83.43 ± 3.34  94.04 ± 2.02  87.42 ± 1.70 
+
+99.55         71.00         87.00         80.00         95.22         86.55        
+average inference time: 36.129241180419925
+91.90144927536232
+

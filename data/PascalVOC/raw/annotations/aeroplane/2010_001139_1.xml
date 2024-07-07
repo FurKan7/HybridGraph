@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_001139</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Propeller</subcategory>
+	<visible_bounds height="285.00" width="497.00" xmin="3.00" ymin="30.00"/>
+	<keypoints>
+		<keypoint name="L_Stabilizer" visible="1" x="339.37" y="212.77" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="165.35" y="211.05" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="490.99" y="217.94" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="11.44" y="224.83" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="241.16" y="111.41" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="251.50" y="36.47" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="242.89" y="165.68" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="307.21" y="242.64" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="187.18" y="242.06" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="3.40 191.77 226.23 249.20 291.70 498.45 500.75 477.78 473.18 500.75 503.05 436.43 368.66 360.62 350.28 307.78 318.12 333.05 343.39 351.43 135.49 149.27 168.80 177.99 186.03 134.34 126.30 64.27 64.27 -1.20 " y="58.29 66.33 37.62 30.73 62.89 58.29 114.57 114.57 215.65 215.65 232.87 261.59 269.63 254.70 247.81 250.10 271.93 259.29 265.03 312.13 314.42 266.18 259.29 267.33 250.10 250.10 268.48 256.99 242.06 229.43 "/>
+	</polylinesegments>
+</annotation>

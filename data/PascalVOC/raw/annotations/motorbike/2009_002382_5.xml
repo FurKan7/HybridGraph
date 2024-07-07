@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_002382</image>
+	<voc_id>5</voc_id>
+	<category>motorbike</category>
+	<visible_bounds height="74.00" width="48.00" xmin="327.00" ymin="269.00"/>
+	<keypoints>
+		<keypoint name="B_WheelCenter" visible="1" x="367.01" y="333.38" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="347.83" y="328.94" z="0.00"/>
+		<keypoint name="ExhaustPipeEnd" visible="1" x="361.18" y="276.43" z="0.00"/>
+		<keypoint name="TailLight" visible="1" x="350.73" y="286.32" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="336.10 328.62 331.70 327.74 342.26 335.22 337.86 339.40 329.06 326.42 336.98 338.74 339.40 347.98 352.60 366.02 372.40 373.50 373.94 374.38 " y="340.74 338.98 331.29 327.55 307.32 304.68 291.49 286.43 289.29 282.69 281.37 275.66 269.28 267.96 269.94 269.72 273.24 276.10 311.06 340.30 "/>
+	</polylinesegments>
+</annotation>

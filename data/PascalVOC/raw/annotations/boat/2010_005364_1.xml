@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_005364</image>
+	<voc_id>1</voc_id>
+	<category>boat</category>
+	<subcategory>Ship</subcategory>
+	<visible_bounds height="115.00" width="203.00" xmin="56.00" ymin="166.00"/>
+	<keypoints>
+		<keypoint name="Hull_Front_Top" visible="1" x="255.08" y="260.08" z="0.00"/>
+		<keypoint name="Hull_Front_Bot" visible="1" x="256.96" y="272.73" z="0.00"/>
+		<keypoint name="Hull_Back_Top" visible="1" x="61.21" y="266.76" z="0.00"/>
+		<keypoint name="Hull_Back_Bot" visible="1" x="59.92" y="279.76" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Top" visible="1" x="150.93" y="265.94" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="257.43 199.72 58.51 58.04 66.01 134.98 137.80 167.35 168.29 180.96 200.66 201.13 211.45 223.18 249.45 " y="265.70 279.29 276.01 265.23 263.83 262.89 252.58 221.66 177.61 167.77 170.58 207.60 241.34 251.65 249.30 "/>
+	</polylinesegments>
+</annotation>

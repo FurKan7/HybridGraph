@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_006294</image>
+	<voc_id>1</voc_id>
+	<category>cat</category>
+	<visible_bounds height="82.00" width="61.00" xmin="32.00" ymin="50.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="60.96" y="68.66" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="49.15" y="67.45" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="54.28" y="73.54" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="68.38" y="58.92" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="45.03" y="58.11" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="53.71" y="95.87" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="72.53" y="98.07" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="37.70" y="106.59" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="48.33 38.07 35.38 34.40 36.60 38.56 39.04 41.00 42.71 41.49 43.44 42.96 42.96 48.33 61.04 69.36 70.58 72.04 70.58 71.31 74.24 83.78 91.84 92.82 91.11 88.42 " y="129.01 129.25 121.21 107.81 98.55 96.60 84.18 78.09 76.38 67.61 62.00 53.23 52.01 55.91 57.13 51.77 51.53 57.62 65.17 69.80 86.86 103.91 119.02 122.92 127.06 129.25 "/>
+	</polylinesegments>
+</annotation>

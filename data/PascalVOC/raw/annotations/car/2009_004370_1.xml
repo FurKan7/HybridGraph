@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_004370</image>
+	<voc_id>1</voc_id>
+	<category>car</category>
+	<visible_bounds height="156.00" width="499.00" xmin="1.00" ymin="48.00"/>
+	<keypoints>
+		<keypoint name="R_F_WheelCenter" visible="1" x="108.65" y="101.76" z="0.00"/>
+		<keypoint name="L_B_WheelCenter" visible="1" x="437.33" y="164.09" z="0.00"/>
+		<keypoint name="R_B_WheelCenter" visible="1" x="396.96" y="101.76" z="0.00"/>
+		<keypoint name="L_SideviewMirror" visible="1" x="192.84" y="98.30" z="0.00"/>
+		<keypoint name="R_SideviewMirror" visible="1" x="195.72" y="88.49" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="18.70 74.05 86.74 115.57 143.25 182.46 193.99 202.06 202.06 222.82 233.20 242.43 266.65 274.72 273.56 307.01 307.01 370.44 380.82 395.81 411.95 445.40 460.39 468.46 493.83 492.68 478.84 463.85 439.63 410.80 393.50 375.05 219.36 174.39 124.80 120.18 85.59 63.67 48.68 38.30 -3.21 -4.37 " y="100.61 100.61 72.90 69.44 87.91 89.06 74.06 75.21 87.91 87.91 71.75 70.59 79.83 71.75 46.35 46.35 56.74 72.90 64.82 63.67 52.13 54.43 60.21 92.53 95.99 121.38 150.24 189.49 201.03 197.57 173.33 169.86 206.80 175.63 172.17 195.26 204.49 203.34 190.64 179.10 171.02 142.16 "/>
+	</polylinesegments>
+</annotation>

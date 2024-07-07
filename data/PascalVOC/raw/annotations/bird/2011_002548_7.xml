@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_002548</image>
+	<voc_id>7</voc_id>
+	<category>bird</category>
+	<subcategory>Flying</subcategory>
+	<visible_bounds height="40.00" width="43.00" xmin="387.00" ymin="306.00"/>
+	<keypoints>
+		<keypoint name="Left_Wing_Base" visible="1" x="406.56" y="337.25" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="411.03" y="333.60" z="0.00"/>
+		<keypoint name="Left_Wing_Tip" visible="1" x="388.97" y="342.20" z="0.00"/>
+		<keypoint name="Right_Wing_Tip" visible="1" x="426.39" y="308.50" z="0.00"/>
+		<keypoint name="Tail_Tip" visible="1" x="407.21" y="339.60" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="406.41 410.19 416.75 421.32 425.79 427.28 427.48 420.82 413.17 414.16 414.46 409.39 405.92 405.52 398.86 395.68 390.41 388.33 389.82 400.75 405.72 406.51 " y="335.00 332.60 322.00 315.50 307.50 307.50 310.80 323.80 333.00 334.90 336.50 340.40 341.40 338.60 340.80 342.60 343.40 342.60 340.50 337.10 335.40 334.50 "/>
+	</polylinesegments>
+</annotation>

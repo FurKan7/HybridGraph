@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_001214</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="18.00" width="51.00" xmin="330.00" ymin="145.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="334.58" y="148.50" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="343.83" y="154.27" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="334.81" y="160.03" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="348.46" y="146.80" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="349.21" y="162.58" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="378.66" y="154.62" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="375.15" y="151.81" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="375.80" y="156.20" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="356.33" y="152.57" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="362.06" y="157.08" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="360.80" y="150.81" z="0.00"/>
+		<keypoint name="Left_Engine_Back" visible="1" x="355.62" y="151.45" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="365.43" y="160.09" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="360.21" y="160.47" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="343.83" y="154.44" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="334.64 341.12 349.61 351.37 348.55 348.90 351.73 355.50 359.63 361.51 365.75 366.70 364.10 372.24 379.31 379.43 376.60 369.76 365.28 360.92 361.16 358.45 354.44 349.72 346.66 346.90 350.55 352.91 345.95 343.71 340.77 336.41 334.17 332.52 331.93 332.63 334.52 335.82 333.46 " y="161.06 159.77 159.54 159.65 161.06 162.00 162.82 162.35 162.82 161.88 161.06 159.19 159.07 157.55 156.37 152.51 151.10 150.75 151.57 152.04 150.40 150.05 148.06 146.07 146.07 147.94 150.28 152.74 154.15 153.56 150.75 147.82 147.12 148.06 149.35 151.57 155.44 158.13 159.42 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_002811</image>
+	<voc_id>1</voc_id>
+	<category>cat</category>
+	<visible_bounds height="152.00" width="140.00" xmin="284.00" ymin="157.00"/>
+	<keypoints>
+		<keypoint name="L_EarBase" visible="1" x="297.21" y="172.03" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="406.53" y="208.76" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="334.20" y="178.50" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="383.37" y="231.65" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="289.00" y="186.84" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="375.88" y="300.84" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="398.80" y="300.66" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="284.58 285.93 282.77 283.68 293.15 317.96 336.46 352.70 367.13 363.07 368.94 375.25 375.70 371.19 366.68 368.94 376.15 386.98 389.69 396.45 405.48 414.50 424.87 417.20 380.21 339.16 304.43 " y="166.61 175.64 182.41 191.90 191.90 189.64 194.16 210.42 223.52 243.84 266.42 275.00 284.49 293.97 301.20 305.27 307.52 299.85 301.65 308.43 306.62 269.58 228.03 192.80 166.61 155.31 164.35 "/>
+	</polylinesegments>
+</annotation>

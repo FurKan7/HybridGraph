@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_004807</image>
+	<voc_id>2</voc_id>
+	<category>tvmonitor</category>
+	<visible_bounds height="126.00" width="163.00" xmin="172.00" ymin="272.00"/>
+	<keypoints>
+		<keypoint name="F_Top_Left" visible="1" x="271.21" y="281.82" z="0.00"/>
+		<keypoint name="F_Top_Right" visible="1" x="185.32" y="276.17" z="0.00"/>
+		<keypoint name="F_Bottom_Left" visible="1" x="288.91" y="393.08" z="0.00"/>
+		<keypoint name="F_Bottom_Right" visible="1" x="179.29" y="359.33" z="0.00"/>
+		<keypoint name="B_Top_Left" visible="1" x="324.89" y="295.97" z="0.00"/>
+		<keypoint name="B_Top_Right" visible="1" x="305.49" y="314.26" z="0.00"/>
+		<keypoint name="B_Bottom_Left" visible="1" x="332.99" y="362.15" z="0.00"/>
+		<keypoint name="B_Bottom_Right" visible="1" x="302.28" y="333.68" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="174.39 180.79 180.79 285.14 310.76 312.27 325.45 325.45 334.87 334.49 323.94 324.32 317.16 317.54 259.53 175.14 " y="364.42 365.93 380.63 397.98 391.95 386.29 379.50 371.21 364.42 341.79 339.90 295.78 292.01 278.43 272.77 273.53 "/>
+	</polylinesegments>
+</annotation>

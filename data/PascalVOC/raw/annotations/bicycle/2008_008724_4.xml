@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_008724</image>
+	<voc_id>4</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="226.00" width="186.00" xmin="314.00" ymin="1.00"/>
+	<keypoints>
+		<keypoint name="F_WheelCenter" visible="1" x="426.13" y="147.75" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="325.35" y="53.34" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="382.03" y="61.08" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="321.43" y="12.26" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="489.21" y="97.04" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="449.28 480.82 499.61 500.96 484.85 467.40 442.57 407.67 378.81 397.60 363.38 343.24 343.92 349.96 370.09 370.09 359.35 353.31 358.01 342.57 328.48 313.72 315.06 329.15 341.23 357.34 354.65 370.76 383.51 399.62 401.63 415.72 413.04 431.16 439.88 434.52 427.13 449.28 " y="59.61 78.41 99.90 206.67 219.43 223.46 223.46 209.36 180.48 165.04 146.23 126.76 105.27 80.42 57.59 45.50 9.24 7.90 67.66 101.24 74.38 50.20 1.18 11.93 50.20 68.34 4.54 3.87 40.80 42.82 47.52 46.17 39.46 39.46 38.12 44.16 47.52 54.90 "/>
+	</polylinesegments>
+</annotation>

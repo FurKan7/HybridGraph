@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_004990</image>
+	<voc_id>1</voc_id>
+	<category>cat</category>
+	<visible_bounds height="369.00" width="467.00" xmin="1.00" ymin="3.00"/>
+	<keypoints>
+		<keypoint name="L_EarBase" visible="1" x="401.39" y="127.56" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="448.96" y="148.30" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="332.00" y="145.83" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="88.24" y="194.08" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="314.48" y="271.93" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="180.82" y="288.01" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="292.84" y="334.43" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="226.10" y="357.45" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="53.73 59.21 96.46 157.81 210.40 276.13 316.67 367.06 391.16 404.31 415.27 418.55 437.18 466.76 470.04 452.52 433.89 391.16 319.95 304.62 305.71 281.61 276.13 284.90 229.02 211.49 242.17 244.36 219.16 199.44 175.34 165.48 123.85 93.17 69.07 71.26 28.54 3.34 -5.43 6.62 46.06 54.83 " y="41.67 71.28 157.90 134.87 122.81 125.00 130.48 141.45 129.39 107.46 107.46 131.58 141.45 131.58 142.55 161.19 191.89 214.91 300.44 323.46 341.00 348.68 327.85 290.57 290.57 332.23 348.68 365.13 372.80 368.42 354.16 336.62 303.72 282.89 251.09 226.97 137.06 101.98 53.73 1.10 5.49 26.32 "/>
+	</polylinesegments>
+</annotation>

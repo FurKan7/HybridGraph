@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_008263</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="40.00" width="86.00" xmin="305.00" ymin="85.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="377.88" y="102.00" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="374.77" y="112.20" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="387.50" y="110.45" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="369.76" y="122.15" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="375.58" y="87.50" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="326.58" y="121.35" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="307.65" y="88.68" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="311.33" y="87.30" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="310.17" y="93.20" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="348.40" y="100.60" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="335.94" y="109.00" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="338.06" y="95.00" z="0.00"/>
+		<keypoint name="Left_Engine_Back" visible="1" x="348.99" y="100.40" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="339.65" y="96.60" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="335.28" y="114.10" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="370.66" y="110.20" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="309.04 315.80 323.35 334.68 337.47 337.86 344.42 347.40 368.07 374.63 374.63 379.60 375.63 370.26 363.30 354.96 353.57 367.48 375.83 381.19 378.61 385.96 389.94 386.56 380.60 381.59 382.19 377.42 374.63 371.25 367.28 367.08 358.53 348.40 343.03 338.06 338.66 337.07 333.69 332.30 330.31 328.52 328.12 325.34 324.15 324.55 328.52 331.30 324.94 321.76 320.17 320.17 323.75 326.53 328.52 325.94 319.78 318.19 315.60 314.01 314.41 310.83 309.44 307.06 " y="87.80 86.00 87.80 94.40 96.00 93.40 94.60 96.20 87.60 85.40 85.40 87.20 90.20 93.40 98.00 101.40 103.20 109.40 101.80 103.40 111.40 109.80 109.80 112.40 115.20 118.20 119.80 120.00 120.00 124.20 124.40 118.80 117.80 113.40 112.00 112.60 115.20 116.80 117.20 118.80 119.80 120.40 123.00 122.60 120.00 116.00 114.20 114.60 111.80 111.80 109.60 105.60 105.40 107.80 105.00 102.60 99.00 101.20 101.80 99.80 96.80 95.20 92.60 90.60 "/>
+	</polylinesegments>
+</annotation>

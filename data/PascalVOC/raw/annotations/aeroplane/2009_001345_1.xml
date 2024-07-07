@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_001345</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Propeller</subcategory>
+	<visible_bounds height="340.00" width="425.00" xmin="75.00" ymin="35.00"/>
+	<keypoints>
+		<keypoint name="NoseTip" visible="1" x="76.94" y="154.23" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="106.01" y="134.28" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="259.19" y="252.48" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="309.74" y="171.66" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="70.11 90.33 168.19 270.31 295.59 336.03 353.22 411.87 426.02 385.58 502.87 501.86 482.64 488.71 478.60 405.80 399.73 404.79 412.88 333.00 326.93 316.82 312.78 274.36 281.43 268.29 246.04 219.76 220.77 230.88 112.58 70.11 " y="153.48 129.23 119.13 126.20 114.07 118.12 107.00 30.22 39.31 115.08 179.74 322.19 325.22 359.57 376.75 376.75 362.60 328.25 314.11 300.98 350.48 350.48 298.96 285.82 317.14 338.36 338.36 324.21 301.99 279.76 222.17 182.77 "/>
+	</polylinesegments>
+</annotation>

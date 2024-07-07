@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_001873</image>
+	<voc_id>2</voc_id>
+	<category>cow</category>
+	<visible_bounds height="276.00" width="172.00" xmin="52.00" ymin="120.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="114.54" y="205.51" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="123.97" y="160.61" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="161.07" y="274.81" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="213.76" y="339.19" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="222.78 225.24 213.76 213.76 179.32 160.46 142.42 130.12 124.38 125.20 123.56 117.00 118.64 108.80 116.18 112.90 108.80 " y="120.22 392.50 376.92 344.11 326.89 311.31 302.29 301.47 282.60 253.90 244.06 227.66 167.79 167.79 143.18 127.60 121.86 "/>
+	</polylinesegments>
+</annotation>

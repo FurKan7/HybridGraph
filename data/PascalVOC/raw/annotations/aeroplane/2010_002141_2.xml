@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_002141</image>
+	<voc_id>2</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="31.00" width="86.00" xmin="236.00" ymin="58.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="301.56" y="44.55" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="300.27" y="68.53" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="274.23" y="69.20" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="255.75" y="108.30" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="262.30" y="84.30" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="274.83" y="78.80" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="299.27" y="68.80" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="254.55 256.94 247.00 243.82 239.05 238.45 247.40 284.17 271.84 272.84 290.73 298.08 300.27 303.05 302.85 305.43 306.23 314.97 319.94 316.96 320.74 320.34 320.34 310.01 300.47 306.83 305.63 " y="87.80 86.60 85.40 87.20 85.80 82.20 74.40 72.40 69.40 68.20 71.60 69.80 59.00 58.60 68.80 70.00 70.80 59.20 63.00 70.00 70.40 74.20 74.20 79.20 83.20 87.60 88.60 "/>
+	</polylinesegments>
+</annotation>

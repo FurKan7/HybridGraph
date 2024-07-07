@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_002439</image>
+	<voc_id>1</voc_id>
+	<category>cat</category>
+	<visible_bounds height="280.00" width="246.00" xmin="254.00" ymin="95.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="380.95" y="199.02" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="320.28" y="202.34" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="335.86" y="232.92" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="442.66" y="152.63" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="313.00" y="155.41" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="379.49" y="295.74" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="298.88" y="296.57" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="455.40" y="356.75" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="361.00" y="365.42" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="329.63 359.55 375.34 397.78 421.88 449.31 469.25 479.23 480.89 487.54 487.54 500.84 500.00 449.31 421.05 401.93 262.31 260.64 259.81 267.29 272.28 267.29 275.60 263.14 264.80 268.96 280.59 288.07 293.89 299.71 294.72 327.96 " y="131.00 127.67 126.84 124.34 124.34 101.88 98.55 109.37 131.00 155.96 176.76 191.74 376.44 375.61 365.62 374.78 374.78 366.46 349.82 332.34 319.86 293.24 286.58 265.78 242.49 227.51 216.70 197.56 192.57 176.76 161.78 148.47 "/>
+	</polylinesegments>
+</annotation>

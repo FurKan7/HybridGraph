@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_002843</image>
+	<voc_id>2</voc_id>
+	<category>bottle</category>
+	<visible_bounds height="172.00" width="110.00" xmin="241.00" ymin="203.00"/>
+	<keypoints>
+		<keypoint name="L_Top" visible="1" x="247.61" y="220.68" z="0.00"/>
+		<keypoint name="R_Top" visible="1" x="269.04" y="211.70" z="0.00"/>
+		<keypoint name="L_Neck" visible="1" x="266.53" y="268.05" z="0.00"/>
+		<keypoint name="R_Neck" visible="1" x="293.70" y="262.42" z="0.00"/>
+		<keypoint name="L_Shoulder" visible="1" x="268.40" y="294.62" z="0.00"/>
+		<keypoint name="R_Shoulder" visible="1" x="307.59" y="279.80" z="0.00"/>
+		<keypoint name="R_Base" visible="1" x="352.22" y="368.22" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="269.93 286.80 301.62 314.91 331.27 350.18 350.69 298.04 270.44 265.33 266.36 265.84 246.93 251.02 260.73 " y="208.25 253.22 269.07 282.36 311.49 362.60 374.35 375.88 314.55 301.78 284.91 266.51 218.47 211.31 207.23 "/>
+	</polylinesegments>
+</annotation>

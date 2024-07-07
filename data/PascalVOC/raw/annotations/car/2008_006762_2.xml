@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_006762</image>
+	<voc_id>2</voc_id>
+	<category>car</category>
+	<visible_bounds height="15.00" width="32.00" xmin="364.00" ymin="129.00"/>
+	<keypoints>
+		<keypoint name="L_F_WheelCenter" visible="1" x="379.06" y="139.25" z="0.00"/>
+		<keypoint name="L_HeadLight" visible="1" x="368.34" y="136.55" z="0.00"/>
+		<keypoint name="L_SideviewMirror" visible="1" x="384.76" y="132.79" z="0.00"/>
+		<keypoint name="L_F_RoofTop" visible="1" x="384.22" y="130.76" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="366.24 377.63 380.89 384.44 391.46 394.64 394.57 382.51 380.37 376.60 375.41 372.60 370.83 367.80 367.21 366.10 365.36 365.06 " y="133.95 132.69 130.39 130.46 133.14 133.21 140.64 141.31 142.27 141.83 140.49 140.57 141.53 141.53 140.64 141.46 141.23 136.18 "/>
+	</polylinesegments>
+</annotation>

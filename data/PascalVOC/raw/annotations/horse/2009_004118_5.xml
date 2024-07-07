@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_004118</image>
+	<voc_id>5</voc_id>
+	<category>horse</category>
+	<visible_bounds height="225.00" width="59.00" xmin="1.00" ymin="66.00"/>
+	<keypoints>
+		<keypoint name="R_Eye" visible="1" x="25.37" y="100.05" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="52.57" y="131.03" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="11.55" y="80.89" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="8.87" y="151.53" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="92.04" y="214.27" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="74.31" y="276.45" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="19.80" y="285.47" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="1.07 11.10 1.74 16.45 29.16 49.23 49.90 62.61 57.26 44.55 43.88 20.47 11.77 23.81 12.44 32.51 27.82 35.18 31.17 2.41 3.74 12.44 17.79 7.09 1.74 " y="90.92 82.89 69.52 74.87 73.53 96.93 108.97 129.69 145.74 146.41 140.39 130.36 162.45 197.89 207.92 231.99 250.04 265.41 272.77 274.11 265.41 262.74 250.04 229.31 231.99 "/>
+	</polylinesegments>
+</annotation>

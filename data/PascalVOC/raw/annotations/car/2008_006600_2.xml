@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_006600</image>
+	<voc_id>2</voc_id>
+	<category>car</category>
+	<visible_bounds height="27.00" width="47.00" xmin="416.00" ymin="173.00"/>
+	<keypoints>
+		<keypoint name="L_F_WheelCenter" visible="1" x="443.14" y="194.79" z="0.00"/>
+		<keypoint name="L_B_WheelCenter" visible="1" x="454.87" y="195.36" z="0.00"/>
+		<keypoint name="L_HeadLight" visible="1" x="436.39" y="189.15" z="0.00"/>
+		<keypoint name="R_HeadLight" visible="1" x="420.75" y="189.24" z="0.00"/>
+		<keypoint name="L_SideviewMirror" visible="1" x="446.75" y="183.63" z="0.00"/>
+		<keypoint name="R_SideviewMirror" visible="1" x="424.78" y="183.09" z="0.00"/>
+		<keypoint name="L_F_RoofTop" visible="1" x="446.97" y="176.51" z="0.00"/>
+		<keypoint name="R_F_RoofTop" visible="1" x="434.05" y="176.32" z="0.00"/>
+		<keypoint name="L_B_RoofTop" visible="1" x="456.27" y="176.21" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="456.01 434.50 425.70 418.43 419.51 420.27 424.84 425.81 438.41 439.93 443.52 445.58 461.01 462.96 " y="175.93 175.38 183.85 188.74 193.84 197.64 197.75 196.12 196.01 198.40 198.51 195.25 194.27 183.74 "/>
+	</polylinesegments>
+</annotation>

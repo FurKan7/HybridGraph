@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_003904</image>
+	<voc_id>1</voc_id>
+	<category>cat</category>
+	<visible_bounds height="256.00" width="315.00" xmin="9.00" ymin="180.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="193.17" y="269.59" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="143.20" y="261.03" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="148.33" y="289.74" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="243.14" y="297.35" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="128.76" y="244.10" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="180.95" y="355.67" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="264.04" y="355.67" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="90.76" y="339.57" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="41.74" y="218.05" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="295.96" y="424.13" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="109.76" y="418.11" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="60.17" y="384.07" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="242.00 195.64 159.92 136.36 133.32 115.84 96.84 89.24 96.08 82.40 79.36 64.92 52.00 45.16 51.24 28.44 11.72 11.72 22.36 39.08 60.36 64.16 91.52 133.32 168.28 179.68 248.84 248.08 292.92 269.36 255.68 248.84 254.92 279.24 280.00 323.32 324.08 312.68 294.44 278.48 270.12 245.80 " y="385.59 402.33 398.52 389.39 424.38 428.95 425.15 421.34 397.76 375.70 390.15 396.24 393.20 375.70 365.05 344.51 292.79 247.15 197.70 183.25 195.42 206.83 187.81 179.44 198.46 182.49 181.73 264.64 312.56 298.87 311.04 311.04 327.78 365.05 385.59 417.54 428.95 432.75 432.75 429.71 421.34 384.83 "/>
+	</polylinesegments>
+</annotation>

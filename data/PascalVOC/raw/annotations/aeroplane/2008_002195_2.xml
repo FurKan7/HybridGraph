@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_002195</image>
+	<voc_id>2</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="30.00" width="61.00" xmin="277.00" ymin="10.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="290.58" y="11.15" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="290.86" y="25.92" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="280.86" y="27.32" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="298.34" y="26.41" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="338.09" y="32.08" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="319.62" y="31.94" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="299.75" y="25.55" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="276.91 285.93 290.30 290.16 289.74 291.15 294.25 295.66 298.48 300.87 308.20 312.01 319.77 326.25 332.03 335.98 335.70 336.82 337.81 337.81 336.12 333.44 332.59 332.17 332.59 331.89 331.47 328.51 324.42 316.52 312.15 307.50 305.95 305.95 305.24 302.28 295.66 292.13 291.01 290.44 288.47 282.69 278.60 277.47 276.20 276.20 " y="24.24 25.08 26.48 19.06 10.24 10.80 14.30 19.48 22.00 23.40 24.94 25.36 26.06 26.48 26.62 27.60 28.58 30.26 30.82 31.80 32.64 33.06 33.20 34.32 35.30 36.84 37.12 37.96 37.96 38.66 38.66 38.52 36.84 36.42 35.72 34.88 33.20 30.54 29.00 28.86 28.86 28.86 28.86 28.58 27.18 26.76 "/>
+	</polylinesegments>
+</annotation>

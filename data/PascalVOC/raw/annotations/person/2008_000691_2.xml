@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation id="204">
+   <image>2008_000691</image>
+   <category>person</category>
+   <subcategory>Child</subcategory>
+   <visible_bounds height="282.00" width="149.00" xmin="226.00" ymin="218.00"/>
+   <keypoints>
+      <keypoint name="L_Ear" visible="1" x="315.56" y="293.01" z="0.00" zorder="1"/>
+      <keypoint name="L_Eye" visible="1" x="278.62" y="254.98" z="0.00" zorder="1"/>
+      <keypoint name="L_Hip" visible="1" x="283.33" y="485.79" z="88.44" zorder="0"/>
+      <keypoint name="L_Shoulder" visible="1" x="349.15" y="348.41" z="0.00" zorder="0"/>
+      <keypoint name="Nose" visible="1" x="254.72" y="251.18" z="0.00" zorder="1"/>
+      <keypoint name="R_Eye" visible="1" x="246.30" y="251.72" z="0.00" zorder="1"/>
+      <keypoint name="R_Hip" visible="0" x="202.62" y="474.91" z="88.44" zorder="2"/>
+      <keypoint name="R_Shoulder" visible="0" x="209.49" y="336.39" z="0.00" zorder="2"/>
+   </keypoints>
+   <polylinesegments>
+      <segment name="foreground" x="230 234 224 235 269 314 319 346 347 334 375 373 340 263 259 266 252 " y="311 301 283 240 218 221 231 264 304 321 341 478 495 499 427 379 343 "/>
+   </polylinesegments>
+</annotation>

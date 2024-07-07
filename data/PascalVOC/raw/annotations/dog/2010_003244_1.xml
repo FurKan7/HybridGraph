@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_003244</image>
+	<voc_id>1</voc_id>
+	<category>dog</category>
+	<visible_bounds height="192.00" width="204.00" xmin="111.00" ymin="74.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="296.88" y="142.04" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="291.36" y="155.17" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="312.59" y="157.45" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="256.90" y="100.25" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="228.35" y="134.91" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="246.62" y="196.24" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="202.08" y="116.66" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="135.83" y="104.96" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="189.89" y="185.21" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="131.69" y="151.03" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="250.62" y="260.14" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="225.21" y="255.72" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="175.38" y="203.66" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="118.98" y="237.18" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="143.82 133.54 127.83 130.69 123.84 112.41 107.27 111.27 111.84 114.13 112.41 123.26 120.98 124.41 139.83 150.68 169.52 198.08 203.22 207.79 220.92 229.49 242.63 231.78 231.78 244.34 259.76 269.47 294.03 306.59 311.16 318.58 311.16 292.88 280.32 266.04 256.33 248.34 256.33 253.48 238.06 231.20 215.78 204.36 184.37 169.52 164.38 164.38 149.54 " y="166.58 189.40 215.07 236.18 245.31 243.60 229.90 205.37 173.42 160.30 135.77 115.23 104.96 95.26 96.40 97.54 95.83 110.67 111.24 97.54 100.97 110.10 102.11 79.29 70.16 73.58 84.42 99.83 112.95 130.63 143.76 152.31 184.83 192.82 192.82 197.38 199.10 229.90 252.72 266.42 262.99 262.99 264.71 244.17 211.65 208.22 192.82 180.27 162.01 "/>
+	</polylinesegments>
+</annotation>

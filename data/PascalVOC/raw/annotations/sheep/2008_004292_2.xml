@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_004292</image>
+	<voc_id>2</voc_id>
+	<category>sheep</category>
+	<visible_bounds height="26.00" width="23.00" xmin="476.00" ymin="238.00"/>
+	<keypoints>
+		<keypoint name="TailBase" visible="1" x="486.64" y="244.66" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="488.51" y="253.63" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="483.53" y="254.09" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="484.00" y="261.28" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="488.36" y="260.66" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="484.86" y="261.12" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="489.21" y="261.58" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="484.00 488.28 491.78 493.64 495.82 496.91 496.29 493.33 491.70 489.44 488.90 488.28 485.56 483.77 483.46 480.58 477.93 477.00 478.48 " y="239.80 239.26 240.18 242.19 246.36 250.77 253.47 254.24 255.87 257.18 261.43 262.51 262.05 261.74 257.64 254.79 251.85 247.21 242.89 "/>
+	</polylinesegments>
+</annotation>

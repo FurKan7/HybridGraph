@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_003644</image>
+	<voc_id>1</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="374.00" width="472.00" xmin="28.00" ymin="1.00"/>
+	<keypoints>
+		<keypoint name="SeatBase" visible="1" x="416.22" y="10.93" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="236.22" y="309.13" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="353.63" y="150.59" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="50.11" y="291.91" z="0.00"/>
+		<keypoint name="CranksetCenter" visible="1" x="474.74" y="345.44" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="491.78 511.78 507.33 487.33 441.78 399.56 380.67 92.89 26.22 25.11 37.33 74.00 180.67 170.67 129.56 130.67 108.44 111.78 362.89 369.56 410.67 406.22 430.67 438.44 " y="44.64 368.03 365.81 375.81 376.92 368.03 375.81 378.03 295.80 269.13 272.46 161.33 106.87 69.09 65.76 94.65 94.65 31.30 80.20 105.76 44.64 -5.37 -4.26 33.53 "/>
+	</polylinesegments>
+</annotation>

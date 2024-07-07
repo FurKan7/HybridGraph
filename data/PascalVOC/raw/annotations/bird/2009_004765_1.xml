@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_004765</image>
+	<voc_id>1</voc_id>
+	<category>bird</category>
+	<subcategory>Flying</subcategory>
+	<visible_bounds height="328.00" width="179.00" xmin="82.00" ymin="37.00"/>
+	<keypoints>
+		<keypoint name="Left_Eye" visible="1" x="234.67" y="271.42" z="0.00"/>
+		<keypoint name="Right_Eye" visible="1" x="213.69" y="270.69" z="0.00"/>
+		<keypoint name="Beak_Base" visible="1" x="227.59" y="280.19" z="0.00"/>
+		<keypoint name="Beak_Tip" visible="1" x="226.62" y="290.67" z="0.00"/>
+		<keypoint name="Lower_Neck_Base" visible="1" x="205.64" y="292.13" z="0.00"/>
+		<keypoint name="Upper_Neck_Base" visible="1" x="212.15" y="259.48" z="0.00"/>
+		<keypoint name="Leg_Center" visible="1" x="185.16" y="304.31" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="219.30" y="167.86" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="168.57" y="262.40" z="0.00"/>
+		<keypoint name="Left_Wing_Tip" visible="1" x="248.89" y="53.83" z="0.00"/>
+		<keypoint name="Right_Wing_Tip" visible="1" x="97.36" y="49.28" z="0.00"/>
+		<keypoint name="Tail_Tip" visible="1" x="135.73" y="324.78" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="94.43 84.68 81.75 83.70 81.75 86.63 93.46 102.24 108.09 115.89 121.75 130.53 130.53 123.70 132.48 136.38 139.31 147.11 131.50 118.82 134.43 151.99 163.70 170.52 165.65 182.23 177.35 191.99 197.84 201.74 200.77 222.23 202.72 203.69 214.42 220.28 227.11 233.94 235.89 228.08 217.35 217.35 217.35 216.38 231.98 242.72 244.67 248.57 250.52 248.57 246.62 257.35 257.35 243.69 230.03 208.57 194.91 195.89 190.04 189.06 131.50 107.11 " y="41.16 57.73 76.25 93.79 107.44 125.95 145.45 162.99 186.38 211.72 226.34 238.04 249.73 269.22 274.10 270.20 279.94 288.72 308.21 321.85 332.57 336.47 333.55 332.57 364.74 366.69 319.90 312.11 337.45 356.94 362.79 362.79 320.88 305.29 299.44 287.74 290.67 278.97 264.35 252.66 243.88 232.19 220.49 213.67 200.03 182.48 159.09 128.88 103.54 86.97 72.35 47.01 43.11 43.11 85.99 160.07 212.70 242.91 242.91 182.48 97.69 56.75 "/>
+	</polylinesegments>
+</annotation>

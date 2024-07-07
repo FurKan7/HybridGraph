@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_008613</image>
+	<voc_id>3</voc_id>
+	<category>sheep</category>
+	<visible_bounds height="67.00" width="36.00" xmin="186.00" ymin="186.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="210.80" y="198.10" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="198.80" y="200.99" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="206.93" y="209.21" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="214.93" y="195.15" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="195.20" y="195.11" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="204.40" y="224.08" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="210.20" y="230.25" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="197.40" y="230.25" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="196.20" y="228.86" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="200.00" y="249.36" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="202.40" y="249.36" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="201.40" y="248.96" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="207.40" y="249.16" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="187.00 191.60 193.80 198.60 203.60 210.40 212.80 216.20 219.20 219.00 216.20 220.00 221.40 221.00 216.00 212.20 212.20 211.00 210.80 212.00 207.40 205.40 206.80 207.20 206.60 206.00 204.80 203.40 203.40 197.20 197.80 196.80 195.00 193.40 194.00 192.00 188.60 " y="200.39 196.61 193.22 189.44 187.05 188.44 192.42 194.02 195.01 197.80 198.40 203.37 206.36 224.08 231.45 232.24 236.62 240.40 246.18 250.96 250.76 250.76 243.59 237.22 232.64 238.81 245.38 248.57 251.95 251.55 241.60 234.43 229.45 225.87 217.31 211.93 206.56 "/>
+	</polylinesegments>
+</annotation>

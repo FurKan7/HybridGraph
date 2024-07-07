@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_005147</image>
+	<voc_id>1</voc_id>
+	<category>car</category>
+	<visible_bounds height="214.00" width="499.00" xmin="1.00" ymin="119.00"/>
+	<keypoints>
+		<keypoint name="L_HeadLight" visible="1" x="464.23" y="229.46" z="0.00"/>
+		<keypoint name="R_HeadLight" visible="1" x="45.22" y="234.85" z="0.00"/>
+		<keypoint name="L_SideviewMirror" visible="1" x="350.83" y="156.74" z="0.00"/>
+		<keypoint name="R_SideviewMirror" visible="1" x="165.16" y="146.35" z="0.00"/>
+		<keypoint name="L_F_RoofTop" visible="1" x="315.08" y="127.89" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="168.62 193.99 309.32 349.68 485.76 500.75 501.91 8.32 1.40 22.16 11.78 42.92 94.81 " y="147.51 126.73 119.81 149.82 165.98 186.75 328.73 327.58 217.92 207.53 197.14 170.59 161.36 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_000688</image>
+	<voc_id>1</voc_id>
+	<category>train</category>
+	<visible_bounds height="315.00" width="485.00" xmin="12.00" ymin="59.00"/>
+	<keypoints>
+		<keypoint name="Base_Front_Left" visible="1" x="451.78" y="348.16" z="0.00"/>
+		<keypoint name="Base_Front_Right" visible="1" x="267.95" y="341.44" z="0.00"/>
+		<keypoint name="Roof_Front_Middle" visible="1" x="401.34" y="55.84" z="0.00"/>
+		<keypoint name="Base_Back_Right" visible="1" x="17.99" y="221.60" z="0.00"/>
+		<keypoint name="Roof_Back_Right" visible="1" x="21.36" y="190.24" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="258.98 307.18 372.19 436.08 480.92 489.89 494.37 484.28 485.40 487.64 471.95 439.45 378.92 337.45 276.92 200.70 94.21 40.41 20.23 19.11 43.77 69.55 89.73 99.82 141.29 190.61 188.37 183.88 221.99 " y="366.08 364.96 371.68 371.68 366.08 351.52 321.28 293.28 199.20 128.64 92.80 65.92 60.32 63.68 86.08 114.08 154.40 174.56 186.88 218.24 240.64 249.60 266.40 256.32 274.24 289.92 303.36 322.40 351.52 "/>
+	</polylinesegments>
+</annotation>

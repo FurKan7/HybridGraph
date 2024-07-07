@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_004972</image>
+	<voc_id>1</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="297.00" width="417.00" xmin="54.00" ymin="39.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="170.62" y="109.51" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="158.74" y="120.10" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="197.45" y="70.51" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="346.99" y="97.31" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="119.87" y="278.49" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="422.24" y="270.31" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="141.39" y="227.62" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="370.44" y="256.50" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="57.22" y="277.05" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="464.88" y="265.49" z="0.00"/>
+		<keypoint name="CranksetCenter" visible="1" x="294.06" y="247.44" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="133.36 143.00 169.02 179.62 191.18 178.66 145.89 168.05 171.91 156.49 123.72 121.79 109.27 100.59 116.01 108.30 92.88 114.09 131.43 139.14 179.62 200.82 197.93 169.98 221.06 301.05 333.82 305.87 305.87 381.04 356.95 314.54 371.40 392.60 435.97 461.99 463.92 470.67 449.46 407.06 369.47 362.73 293.34 292.38 300.09 290.45 275.99 267.32 276.96 260.57 259.61 162.27 153.60 170.95 181.55 169.02 132.40 84.21 60.12 51.44 65.90 105.41 " y="210.61 186.54 134.54 98.92 74.85 73.88 83.51 97.95 108.55 122.03 101.81 82.55 97.95 89.29 67.14 56.55 73.88 42.11 41.15 45.00 56.55 66.18 98.92 174.98 192.31 188.46 86.40 76.77 66.18 70.99 89.29 217.35 239.49 213.50 211.57 231.79 251.05 281.86 314.60 324.23 304.97 291.49 273.19 286.67 300.15 310.75 310.75 298.23 277.05 264.53 233.72 198.09 222.16 243.35 272.23 312.67 336.74 330.00 309.78 276.08 232.75 214.46 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_004760</image>
+	<voc_id>1</voc_id>
+	<category>dog</category>
+	<visible_bounds height="272.00" width="99.00" xmin="275.00" ymin="26.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="329.04" y="98.15" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="305.59" y="107.85" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="304.78" y="136.14" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="366.25" y="294.55" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="361.40 306.40 286.17 299.12 307.20 292.64 315.29 354.12 368.68 316.91 319.34 373.53 374.34 " y="31.07 49.66 73.90 106.23 107.04 140.99 157.15 183.01 187.86 292.12 295.36 292.93 27.03 "/>
+	</polylinesegments>
+</annotation>

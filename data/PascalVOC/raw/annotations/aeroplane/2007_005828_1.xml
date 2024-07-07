@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2007_005828</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>FighterJet</subcategory>
+	<visible_bounds height="148.00" width="357.00" xmin="86.00" ymin="62.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="150.23" y="75.02" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="159.72" y="142.11" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="106.91" y="174.31" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="102.79" y="177.61" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="127.54" y="147.06" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="435.29" y="115.02" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="393.49" y="102.47" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="400.64" y="124.77" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="263.40" y="141.00" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="343.29" y="144.58" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="220.77" y="128.07" z="0.00"/>
+	</keypoints>
+</annotation>

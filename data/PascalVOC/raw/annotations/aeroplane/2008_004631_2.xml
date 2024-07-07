@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_004631</image>
+	<voc_id>2</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="79.00" width="198.00" xmin="1.00" ymin="120.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="65.22" y="81.60" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="66.14" y="133.94" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="75.75" y="140.95" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="41.43" y="161.83" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="106.41 128.83 157.20 202.50 202.04 196.55 173.22 152.17 149.88 146.68 146.68 138.90 132.49 121.51 114.64 114.64 58.36 0.70 0.70 30.44 42.80 84.90 47.83 46.92 65.22 59.27 122.88 " y="101.49 124.80 138.06 137.60 191.09 190.63 194.29 194.29 190.63 192.00 197.94 198.86 199.77 199.77 196.57 192.46 185.14 167.31 121.14 150.86 156.34 156.80 144.46 137.60 134.86 121.14 119.77 "/>
+	</polylinesegments>
+</annotation>

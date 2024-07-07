@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_007745</image>
+	<voc_id>3</voc_id>
+	<category>dog</category>
+	<visible_bounds height="26.00" width="40.00" xmin="130.00" ymin="223.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="141.50" y="227.50" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="139.55" y="228.64" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="143.84" y="231.18" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="141.08" y="225.90" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="136.46" y="226.63" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="137.29" y="234.13" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="159.24" y="237.87" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="138.60" y="239.41" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="133.91" y="238.47" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="155.30" y="240.51" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="150.97" y="241.07" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="138.17" y="247.20" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="134.05" y="245.97" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="133.36 132.16 131.33 131.42 133.73 136.41 139.00 141.59 141.68 143.34 147.69 150.37 153.61 157.67 161.00 161.56 165.53 168.21 165.90 160.17 157.21 157.95 157.95 156.75 155.27 153.24 153.61 153.79 152.77 150.83 149.63 148.15 143.16 141.03 139.55 139.09 138.91 138.63 136.23 136.32 136.50 135.49 134.93 135.12 134.56 134.10 " y="244.50 238.65 235.54 229.87 225.39 223.57 224.94 223.57 226.77 229.78 230.88 231.25 231.98 233.07 236.27 238.93 240.39 241.58 242.03 240.02 242.31 245.97 247.25 247.89 247.79 244.50 246.33 247.70 247.70 244.05 242.13 241.03 241.21 241.85 243.22 245.78 246.79 247.25 247.52 244.87 243.13 242.22 244.87 246.61 246.42 244.78 "/>
+	</polylinesegments>
+</annotation>

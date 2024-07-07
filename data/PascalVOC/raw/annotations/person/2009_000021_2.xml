@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation id="1999">
+   <image>2009_000021</image>
+   <category>person</category>
+   <subcategory>Male</subcategory>
+   <visible_bounds height="144.00" width="21.00" xmin="297.00" ymin="165.00"/>
+   <keypoints>
+      <keypoint name="L_Ankle" visible="1" x="312.72" y="299.80" z="-14.75" zorder="1"/>
+      <keypoint name="L_Hip" visible="0" x="320.00" y="212.27" z="-18.72" zorder="1"/>
+      <keypoint name="L_Knee" visible="1" x="316.10" y="258.18" z="-14.75" zorder="1"/>
+      <keypoint name="L_Shoulder" visible="0" x="319.88" y="162.49" z="-24.04" zorder="2"/>
+      <keypoint name="L_Toes" visible="1" x="301.95" y="304.04" z="-6.10" zorder="0"/>
+      <keypoint name="R_Hip" visible="0" x="336.84" y="212.52" z="-5.32" zorder="0"/>
+      <keypoint name="R_Shoulder" visible="0" x="349.91" y="164.86" z="0.00" zorder="1"/>
+   </keypoints>
+   <polylinesegments>
+      <segment name="foreground" x="300 304 311 308 303 311 311 311 311 312 318 317 302 300 " y="300 291 221 218 214 200 189 181 176 168 167 304 305 303 "/>
+   </polylinesegments>
+</annotation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_003532</image>
+	<voc_id>2</voc_id>
+	<category>horse</category>
+	<visible_bounds height="192.00" width="137.00" xmin="10.00" ymin="19.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="146.18" y="147.38" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="88.78" y="144.10" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="161.74" y="92.46" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="100.39" y="86.66" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="192.15" y="197.15" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="196.15" y="75.35" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="144.18 145.32 91.64 83.07 92.21 61.37 66.51 103.06 " y="71.07 207.99 208.56 136.68 108.72 76.21 60.80 73.92 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_005075</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>FighterJet</subcategory>
+	<visible_bounds height="310.00" width="497.00" xmin="3.00" ymin="23.00"/>
+	<keypoints>
+		<keypoint name="Nose_Top" visible="1" x="30.39" y="187.19" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="413.46" y="268.74" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="504.20 382.44 241.16 166.50 33.26 32.11 145.83 206.70 1.10 -1.20 504.20 " y="24.09 41.32 112.53 28.69 26.39 45.91 49.36 118.27 182.59 331.91 331.91 "/>
+	</polylinesegments>
+</annotation>

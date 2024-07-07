@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_006748</image>
+	<voc_id>1</voc_id>
+	<category>bus</category>
+	<visible_bounds height="120.00" width="313.00" xmin="144.00" ymin="106.00"/>
+	<keypoints>
+		<keypoint name="L_F_RoofTop" visible="1" x="217.31" y="127.83" z="0.00"/>
+		<keypoint name="R_F_RoofTop" visible="1" x="150.76" y="125.84" z="0.00"/>
+		<keypoint name="L_B_RoofTop" visible="1" x="453.13" y="117.59" z="0.00"/>
+		<keypoint name="R_B_RoofTop" visible="1" x="398.16" y="110.84" z="0.00"/>
+		<keypoint name="L_F_Base" visible="1" x="220.45" y="213.00" z="0.00"/>
+		<keypoint name="R_F_Base" visible="1" x="149.86" y="210.96" z="0.00"/>
+		<keypoint name="L_B_Base" visible="1" x="456.57" y="182.94" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="147.87 166.68 423.47 449.52 456.75 457.47 401.77 396.71 375.73 373.56 285.31 276.63 257.82 246.25 217.31 149.31 " y="122.41 114.45 107.23 111.56 120.24 188.91 195.41 212.04 212.04 199.75 206.98 225.05 225.05 212.76 217.82 216.38 "/>
+	</polylinesegments>
+</annotation>

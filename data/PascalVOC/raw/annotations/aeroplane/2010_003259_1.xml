@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_003259</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="18.00" width="41.00" xmin="151.00" ymin="134.00"/>
+	<keypoints>
+		<keypoint name="L_Stabilizer" visible="1" x="162.88" y="150.19" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="177.66" y="149.91" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="192.82" y="145.43" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="150.80" y="145.06" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="173.02" y="136.90" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="173.16" y="136.85" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="173.54" y="138.69" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="176.95" y="145.48" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="170.20" y="143.57" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="180.12" y="143.97" z="0.00"/>
+		<keypoint name="Left_Engine_Back" visible="1" x="164.96" y="146.05" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="164.68" y="144.16" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="175.38 178.80 178.04 180.60 188.08 190.07 190.74 190.55 181.64 181.17 179.46 178.61 175.95 175.57 174.15 172.64 171.03 169.79 169.04 166.57 165.72 162.97 162.88 152.64 151.98 153.59 155.39 159.18 163.64 166.10 165.25 165.63 168.75 169.89 172.35 173.30 " y="150.19 150.38 148.69 147.84 147.46 146.80 146.42 144.82 144.16 142.84 142.46 143.97 143.50 138.97 136.15 135.67 136.90 140.86 143.22 144.07 142.56 143.03 144.07 143.69 145.20 146.42 147.27 146.89 147.18 147.74 149.25 150.48 150.76 150.48 150.57 149.63 "/>
+	</polylinesegments>
+</annotation>

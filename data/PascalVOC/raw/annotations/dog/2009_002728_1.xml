@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_002728</image>
+	<voc_id>1</voc_id>
+	<category>dog</category>
+	<visible_bounds height="187.00" width="164.00" xmin="145.00" ymin="228.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="205.89" y="275.52" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="179.78" y="289.27" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="194.36" y="292.74" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="203.48" y="250.93" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="160.33" y="270.01" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="208.81" y="311.36" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="259.22" y="308.16" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="240.61" y="339.84" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="192.83" y="346.50" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="262.00" y="355.95" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="252.74" y="407.63" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="179.59" y="408.55" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="263.11" y="392.44" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="208.67" y="393.92" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="171.44 172.00 180.89 185.89 184.22 177.56 181.44 178.11 174.78 168.11 165.33 157.56 144.78 146.44 157.56 172.00 177.00 181.44 193.67 211.44 231.44 238.11 240.89 247.56 248.67 257.00 255.33 267.00 273.67 273.11 288.11 307.56 305.33 291.44 273.11 263.67 270.33 269.22 254.78 264.78 252.00 239.78 232.56 226.44 217.00 208.67 205.33 203.67 193.11 176.44 " y="413.18 402.07 399.85 389.29 377.07 353.73 342.61 332.06 309.28 299.83 293.72 293.16 284.27 267.05 254.27 248.15 248.15 237.04 229.82 228.71 230.37 239.82 252.04 260.38 284.27 309.83 331.50 338.73 352.06 363.17 358.17 365.40 374.29 381.51 377.07 378.73 390.40 399.29 395.96 407.63 414.85 409.85 397.07 392.07 393.18 400.40 397.63 407.07 413.18 414.85 "/>
+	</polylinesegments>
+</annotation>

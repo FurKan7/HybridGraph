@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_002778</image>
+	<voc_id>1</voc_id>
+	<category>cat</category>
+	<visible_bounds height="393.00" width="198.00" xmin="107.00" ymin="68.00"/>
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="174.00" y="155.90" z="0.00"/>
+		<keypoint name="R_Eye" visible="1" x="132.29" y="153.85" z="0.00"/>
+		<keypoint name="Nose" visible="1" x="142.50" y="187.66" z="0.00"/>
+		<keypoint name="L_EarBase" visible="1" x="204.33" y="112.30" z="0.00"/>
+		<keypoint name="R_EarBase" visible="1" x="134.33" y="110.94" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="188.00" y="217.21" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="253.92" y="189.18" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="244.78" y="309.65" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="175.94" y="317.44" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="277.25" y="342.74" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="143.08" y="326.39" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="231.17" y="438.79" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="188.58" y="445.21" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="251.58" y="409.89" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="152.42" y="405.22" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="174.00 175.17 165.83 174.00 192.67 206.67 223.00 244.00 251.00 249.83 244.00 256.83 266.17 269.67 268.50 281.33 284.83 304.67 303.50 300.00 280.17 276.67 275.50 274.33 269.67 258.00 246.33 226.50 225.33 214.83 203.17 185.67 178.67 160.00 127.33 108.67 111.00 126.17 126.17 118.00 122.67 125.00 129.67 136.67 158.83 153.00 147.17 142.50 128.50 121.50 135.50 147.17 136.67 136.67 150.67 165.83 " y="406.97 427.99 449.01 460.69 459.52 446.67 453.68 454.85 446.67 432.66 411.64 422.15 420.98 404.63 389.45 366.10 343.91 335.73 312.38 307.71 317.05 304.20 266.84 232.97 204.94 172.25 147.72 119.70 88.17 69.48 68.31 81.16 102.18 98.68 79.99 75.32 91.67 116.19 132.54 151.23 153.56 172.25 186.26 202.61 214.29 239.98 262.16 287.86 317.05 343.91 374.27 388.28 396.46 413.97 420.98 413.97 "/>
+	</polylinesegments>
+</annotation>

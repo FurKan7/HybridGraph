@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_002465</image>
+	<voc_id>4</voc_id>
+	<category>bird</category>
+	<subcategory>Flying</subcategory>
+	<visible_bounds height="24.00" width="19.00" xmin="29.00" ymin="43.00"/>
+	<keypoints>
+		<keypoint name="Beak_Tip" visible="1" x="44.33" y="52.15" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="34.02" y="49.51" z="0.00"/>
+		<keypoint name="Left_Wing_Tip" visible="1" x="37.86" y="64.77" z="0.00"/>
+		<keypoint name="Tail_Tip" visible="1" x="43.69" y="52.08" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="31.96 30.68 29.76 29.61 31.18 33.60 37.51 38.08 36.23 37.08 40.42 43.76 43.62 36.08 35.52 37.72 39.14 37.22 34.59 " y="57.64 51.15 50.08 48.51 47.80 46.58 46.37 47.23 48.44 50.15 49.94 51.08 52.86 52.65 55.64 59.92 65.20 64.98 61.92 "/>
+	</polylinesegments>
+</annotation>

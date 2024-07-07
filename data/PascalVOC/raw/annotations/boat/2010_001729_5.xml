@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_001729</image>
+	<voc_id>5</voc_id>
+	<category>boat</category>
+	<subcategory>Motorboat</subcategory>
+	<visible_bounds height="24.00" width="25.00" xmin="377.00" ymin="209.00"/>
+	<keypoints>
+		<keypoint name="Hull_Front_Top" visible="1" x="379.55" y="211.76" z="0.00"/>
+		<keypoint name="Hull_Front_Bot" visible="1" x="380.76" y="222.28" z="0.00"/>
+		<keypoint name="Hull_Back_Top" visible="1" x="379.97" y="211.75" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Top" visible="1" x="383.46" y="219.86" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Top" visible="1" x="393.95" y="216.69" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Bot" visible="1" x="384.55" y="224.42" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="378.55 385.24 390.43 396.19 400.81 400.45 387.87 384.45 378.05 " y="221.21 228.99 232.34 232.34 227.77 219.00 213.23 210.45 210.94 "/>
+	</polylinesegments>
+</annotation>

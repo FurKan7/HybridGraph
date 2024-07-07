@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_004061</image>
+	<voc_id>3</voc_id>
+	<category>sheep</category>
+	<visible_bounds height="130.00" width="88.00" xmin="275.00" ymin="135.00"/>
+	<keypoints>
+		<keypoint name="Withers" visible="1" x="338.53" y="147.27" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="299.86" y="171.41" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="304.11" y="256.59" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="311.07" y="260.65" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="282.65 296.96 317.45 330.21 362.69 363.47 325.19 317.84 317.84 303.53 288.07 278.79 " y="163.69 147.47 141.67 142.44 162.53 211.59 214.29 237.86 262.58 262.58 216.61 194.59 "/>
+	</polylinesegments>
+</annotation>

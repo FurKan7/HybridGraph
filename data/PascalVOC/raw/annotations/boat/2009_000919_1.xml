@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_000919</image>
+	<voc_id>1</voc_id>
+	<category>boat</category>
+	<subcategory>Rowboat</subcategory>
+	<visible_bounds height="32.00" width="118.00" xmin="105.00" ymin="189.00"/>
+	<keypoints>
+		<keypoint name="Hull_Front_Top" visible="1" x="218.00" y="198.17" z="0.00"/>
+		<keypoint name="Hull_Front_Bot" visible="1" x="213.36" y="212.96" z="0.00"/>
+		<keypoint name="Hull_Back_Top" visible="1" x="112.59" y="195.59" z="0.00"/>
+		<keypoint name="Hull_Back_Bot" visible="1" x="115.18" y="215.00" z="0.00"/>
+		<keypoint name="Hull_Mid_Left_Top" visible="1" x="168.64" y="198.04" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Top" visible="1" x="168.09" y="204.14" z="0.00"/>
+		<keypoint name="Hull_Mid_Right_Bot" visible="1" x="169.59" y="215.00" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="115.73 126.64 138.64 148.18 168.64 193.45 201.91 209.82 215.27 217.72 218.27 222.36 223.72 221.27 221.27 219.91 218.54 214.72 214.45 191.82 177.91 161.00 147.09 124.18 109.19 105.64 106.19 108.09 112.73 " y="218.26 217.44 217.44 216.90 217.71 218.26 214.46 215.00 213.64 208.76 205.50 210.39 205.50 201.97 198.99 198.71 195.73 195.19 196.81 196.81 196.81 196.00 194.91 193.29 190.30 191.11 197.09 208.76 214.19 "/>
+	</polylinesegments>
+</annotation>

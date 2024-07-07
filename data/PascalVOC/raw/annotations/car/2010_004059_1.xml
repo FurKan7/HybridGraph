@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_004059</image>
+	<voc_id>1</voc_id>
+	<category>car</category>
+	<visible_bounds height="197.00" width="371.00" xmin="64.00" ymin="127.00"/>
+	<keypoints>
+		<keypoint name="R_F_WheelCenter" visible="1" x="226.14" y="284.29" z="0.00"/>
+		<keypoint name="R_B_WheelCenter" visible="1" x="81.87" y="257.29" z="0.00"/>
+		<keypoint name="L_HeadLight" visible="1" x="415.41" y="221.07" z="0.00"/>
+		<keypoint name="R_HeadLight" visible="1" x="288.94" y="233.29" z="0.00"/>
+		<keypoint name="L_SideviewMirror" visible="1" x="356.11" y="174.86" z="0.00"/>
+		<keypoint name="R_SideviewMirror" visible="1" x="167.40" y="185.93" z="0.00"/>
+		<keypoint name="L_F_RoofTop" visible="1" x="278.65" y="131.07" z="0.00"/>
+		<keypoint name="R_F_RoofTop" visible="1" x="181.76" y="136.86" z="0.00"/>
+		<keypoint name="R_B_RoofTop" visible="1" x="102.67" y="145.43" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="66.01 68.58 69.44 75.44 97.74 142.32 211.77 270.08 291.51 314.66 347.25 354.11 364.39 358.39 356.68 402.12 419.27 434.70 433.85 427.84 422.70 412.41 405.55 398.69 389.26 377.26 366.97 299.23 256.36 251.21 245.21 219.49 207.49 204.91 127.75 107.17 104.60 98.59 87.45 78.02 73.73 72.01 " y="246.57 226.00 203.71 188.29 144.57 133.43 129.14 130.86 133.43 148.86 176.29 169.43 172.00 180.57 182.29 196.00 213.14 243.14 263.71 281.71 288.57 292.00 298.86 304.00 304.00 304.00 300.57 307.43 304.86 314.29 321.14 320.29 298.86 290.29 269.71 265.43 275.71 286.00 287.71 286.00 277.43 268.86 "/>
+	</polylinesegments>
+</annotation>

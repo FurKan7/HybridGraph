@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_001880</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>FighterJet</subcategory>
+	<visible_bounds height="168.00" width="176.00" xmin="324.00" ymin="1.00"/>
+	<keypoints>
+		<keypoint name="L_WingTip" visible="1" x="421.97" y="2.76" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="326.99" y="166.24" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="347.73" y="142.25" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="357.77" y="156.21" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="417.69 405.90 401.83 400.61 352.21 326.17 325.77 332.28 339.60 402.24 416.07 499.45 499.45 485.62 486.44 499.86 499.05 477.49 465.28 455.12 " y="3.17 38.55 79.62 103.61 137.77 162.58 167.05 169.49 167.87 137.77 127.20 148.75 90.19 84.50 78.81 67.42 40.58 54.81 60.91 3.17 "/>
+	</polylinesegments>
+</annotation>

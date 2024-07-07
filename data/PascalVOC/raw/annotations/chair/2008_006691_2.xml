@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_006691</image>
+	<category>chair</category>
+	<visible_bounds height="64.00" width="43.00" xmin="324.00" ymin="300.00"/>
+	<keypoints>
+		<keypoint name="Seat_Left_Front" visible="1" x="352.26" y="332.48" z="0.00"/>
+		<keypoint name="Seat_Left_Back" visible="1" x="362.82" y="330.38" z="0.00"/>
+		<keypoint name="Seat_Right_Front" visible="1" x="329.37" y="331.19" z="0.00"/>
+		<keypoint name="Seat_Right_Back" visible="1" x="337.16" y="327.34" z="0.00"/>
+		<keypoint name="Leg_Left_Front" visible="1" x="349.38" y="360.40" z="0.00"/>
+		<keypoint name="Leg_Left_Back" visible="1" x="363.90" y="358.24" z="0.00"/>
+		<keypoint name="Leg_Right_Front" visible="1" x="325.55" y="358.62" z="0.00"/>
+		<keypoint name="Leg_Right_Back" visible="1" x="340.52" y="352.16" z="0.00"/>
+		<keypoint name="BackRest_Top_Left" visible="1" x="364.49" y="302.90" z="0.00"/>
+		<keypoint name="BackRest_Top_Right" visible="1" x="341.60" y="302.24" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="329.18 336.64 338.16 340.08 359.95 365.88 364.35 359.76 364.73 364.16 362.63 357.85 354.41 355.56 353.07 351.92 341.41 341.22 338.55 338.93 332.05 325.93 324.02 329.37 328.99 328.61 " y="328.58 328.58 314.69 301.76 301.19 302.14 333.71 337.13 361.67 362.81 363.38 336.56 335.80 360.34 360.91 336.56 338.85 360.15 360.34 336.18 335.42 362.05 361.67 335.23 334.09 331.43 "/>
+	</polylinesegments>
+</annotation>

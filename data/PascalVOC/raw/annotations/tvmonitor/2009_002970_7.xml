@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_002970</image>
+	<voc_id>7</voc_id>
+	<category>tvmonitor</category>
+	<visible_bounds height="40.00" width="111.00" xmin="301.00" ymin="293.00"/>
+	<keypoints>
+		<keypoint name="F_Top_Left" visible="1" x="356.33" y="319.94" z="0.00"/>
+		<keypoint name="F_Top_Right" visible="1" x="303.40" y="320.46" z="0.00"/>
+		<keypoint name="B_Top_Left" visible="1" x="394.98" y="294.10" z="0.00"/>
+		<keypoint name="B_Top_Right" visible="1" x="352.57" y="295.60" z="0.00"/>
+		<keypoint name="B_Bottom_Left" visible="1" x="409.22" y="325.73" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="305.19 301.35 305.19 309.04 325.20 331.62 353.68 365.74 394.98 401.39 410.37 409.09 410.37 409.60 306.48 " y="332.03 320.20 313.77 311.46 310.17 307.60 294.49 294.49 293.20 302.46 326.11 328.94 331.26 332.54 332.54 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation id="1943">
+   <image>2008_008487</image>
+   <category>person</category>
+   <subcategory>Child</subcategory>
+   <visible_bounds height="92.00" width="38.00" xmin="309.00" ymin="125.00"/>
+   <keypoints>
+      <keypoint name="B_Head" visible="1" x="341.45" y="131.52" z="0.00" zorder="2"/>
+      <keypoint name="L_Ear" visible="1" x="332.09" y="138.93" z="0.00" zorder="1"/>
+      <keypoint name="L_Eye" visible="1" x="321.50" y="141.63" z="0.00" zorder="1"/>
+      <keypoint name="L_Hip" visible="0" x="337.27" y="180.87" z="-1.89" zorder="1"/>
+      <keypoint name="L_Shoulder" visible="1" x="337.77" y="152.79" z="-3.47" zorder="2"/>
+      <keypoint name="Nose" visible="1" x="318.70" y="144.53" z="0.00" zorder="1"/>
+      <keypoint name="R_Elbow" visible="1" x="313.55" y="171.88" z="0.42" zorder="0"/>
+      <keypoint name="R_Hip" visible="0" x="325.31" y="181.35" z="-1.59" zorder="0"/>
+      <keypoint name="R_Shoulder" visible="1" x="317.68" y="155.24" z="0.00" zorder="1"/>
+      <keypoint name="R_Wrist" visible="1" x="311.41" y="182.17" z="10.23" zorder="0"/>
+   </keypoints>
+   <polylinesegments>
+      <segment name="foreground" x="321 333 338 339 347 334 328 322 318 319 320 318 314 309 310 315 315 309 314 320 309 317 323 318 322 318 319 " y="126 126 140 148 150 169 181 184 182 196 207 214 216 214 207 201 197 185 177 170 162 150 150 145 141 135 128 "/>
+   </polylinesegments>
+</annotation>

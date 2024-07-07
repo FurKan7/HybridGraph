@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_003519</image>
+	<voc_id>1</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="309.00" width="348.00" xmin="74.00" ymin="66.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="271.44" y="82.41" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="350.37" y="96.55" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="332.94" y="87.37" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="231.67" y="140.01" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="382.50" y="221.05" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="175.77" y="275.36" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="358.94" y="171.84" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="222.50" y="192.04" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="421.73" y="200.76" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="93.62" y="309.79" z="0.00"/>
+		<keypoint name="CranksetCenter" visible="1" x="284.52" y="259.06" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="74.12 97.07 129.19 136.53 121.85 206.28 224.64 209.04 193.43 197.10 231.06 256.76 264.10 267.77 263.18 247.58 234.73 251.25 268.69 309.07 329.26 332.94 325.59 301.73 276.95 264.10 260.43 293.47 333.85 352.21 371.48 368.73 362.30 340.28 357.72 381.58 407.28 421.96 420.12 401.77 363.22 336.61 325.59 318.25 320.09 309.99 299.90 303.57 293.47 318.25 311.83 300.81 287.96 241.16 207.20 177.83 180.58 170.49 158.56 134.70 96.15 84.22 82.38 76.88 " y="259.98 224.17 188.36 182.85 170.92 164.49 156.23 145.21 134.19 115.83 112.16 109.40 105.73 118.58 124.09 136.95 143.37 182.85 219.58 189.28 153.47 116.75 88.28 85.53 92.87 91.96 80.94 68.08 78.18 80.02 85.53 102.97 114.91 104.81 153.47 144.29 153.47 174.59 228.76 268.24 286.61 280.18 271.00 249.88 219.58 219.58 232.44 259.98 270.08 291.20 301.30 302.22 282.02 290.28 339.86 348.13 372.92 374.75 351.80 352.72 332.52 294.87 282.02 280.18 "/>
+	</polylinesegments>
+</annotation>

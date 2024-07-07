@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_004797</image>
+	<voc_id>1</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="354.00" width="423.00" xmin="50.00" ymin="15.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="373.62" y="41.23" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="282.26" y="74.45" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="344.19" y="59.81" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="148.51" y="43.16" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="359.25" y="276.41" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="97.18" y="193.75" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="321.41" y="166.75" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="131.86" y="117.32" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="462.79" y="291.93" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="52.68" y="167.11" z="0.00"/>
+		<keypoint name="CranksetCenter" visible="1" x="188.97" y="232.67" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="70.20 53.38 48.12 58.64 85.96 126.96 144.83 163.75 173.21 187.92 205.79 215.25 216.30 235.22 252.04 268.86 260.45 274.11 303.54 357.15 414.96 454.90 471.72 469.62 451.75 411.81 380.28 390.79 412.86 377.12 372.92 375.02 382.38 371.87 368.71 386.58 373.97 355.05 326.67 308.80 278.32 268.86 274.11 295.14 300.39 174.26 161.64 184.77 192.13 171.10 159.54 144.83 132.21 117.50 111.19 116.45 134.32 152.18 146.93 134.32 115.40 103.83 83.86 67.04 " y="101.54 123.63 172.01 210.93 253.01 274.05 269.84 254.06 249.85 265.63 260.37 245.65 227.76 226.71 225.66 221.45 242.49 295.08 339.26 369.77 367.66 340.32 308.76 253.01 217.25 189.90 176.22 163.60 138.35 121.52 87.86 78.40 74.19 67.88 57.36 44.74 26.85 43.68 54.20 55.25 64.72 72.09 83.66 84.71 114.16 87.86 45.79 48.94 43.68 26.85 25.80 14.23 11.08 16.34 21.59 38.42 47.89 51.05 85.76 97.33 86.81 80.50 79.45 88.92 "/>
+	</polylinesegments>
+</annotation>

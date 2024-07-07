@@ -1,0 +1,49 @@
+pascal
+-----Anisotopric----
+Epoch: 25, Loss: 1.0267, Time: 77.93
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+47.6  67.7  57.5  69.6  87.0  86.4  85.1  75.1  50.2  67.4  89.4  71.9  80.1  64.3  58.4  95.9  65.5  95.6  93.6  88.8  74.9 
+average inference time: 142.42722798211236
+
+-----Isotopric----
+Epoch: 29, Loss: 1.0698, Time: 34.25
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+44.6  64.9  57.2  61.7  79.2  83.5  79.7  72.0  34.4  57.4  79.0  60.4  71.3  59.9  51.8  74.8  62.6  86.6  73.1  80.7  66.7 
+average inference time: 45.93876817567008
+
+---willow---
+Anisotopric
+97.84927536231883
+Run 20:
+face          motorbike     car           duck          winebottle   
+100.00        100.00        97.00         93.33         98.91         97.85        
+average inference time: 60.69178161621094
+----------------------------------------------------------------------
+face          motorbike     car           duck          winebottle   
+99.96 ± 0.09  98.05 ± 1.46  96.88 ± 1.43  91.02 ± 3.03  99.24 ± 0.56  97.03 ± 0.57 
+
+----------------------------------------------------------------------
+
+
+Isotopric
+98.32318840579711
+Run 06:
+face          motorbike     car           duck          winebottle   
+100.00        95.00         96.00         95.00         100.00        97.20        
+average inference time: 73.10995330810547
+
+
+
+----pascal-pf-----
+Epoch: 02, Loss: 2.7145, Acc: 0.44,  Time: 49.45
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+71.4  90.5  85.9  98.8  99.0  98.4  96.2  93.6  97.1  91.9  99.0  94.1  81.4  86.2  76.9  99.5  91.2  97.7  99.3  97.8  92.3 
+average inference time: 14.617178399225693
+Epoch: 03, Loss: 2.0490, Acc: 0.61,  Time: 48.83
+
+
+Epoch: 30, Loss: 0.8969, Acc: 0.81,  Time: 19.82
+aerop bicyc bird  boat  bottl bus   car   cat   chair cow   dinin dog   horse motor perso potte sheep sofa  train tvmon mean
+81.0  91.7  88.4  99.4  99.3  96.7  98.2  97.9  99.2  92.6  99.5  98.0  85.3  86.6  84.9  99.0  97.1  99.6  100.0 97.1  94.6 
+average inference time: 9.312571507982405
+

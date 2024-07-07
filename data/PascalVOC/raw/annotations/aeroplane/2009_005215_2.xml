@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_005215</image>
+	<voc_id>2</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="141.00" width="429.00" xmin="35.00" ymin="78.00"/>
+	<keypoints>
+		<keypoint name="Top_Rudder" visible="1" x="185.05" y="82.47" z="0.00"/>
+		<keypoint name="Bot_Rudder" visible="1" x="189.02" y="151.47" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="116.31" y="166.35" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="458.04" y="164.03" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="45.26" y="163.87" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="381.17" y="182.41" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="361.54" y="149.82" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="357.07" y="195.59" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="414.08" y="175.76" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="276.27" y="185.18" z="0.00"/>
+		<keypoint name="Left_Engine_Front" visible="1" x="377.73" y="200.05" z="0.00"/>
+		<keypoint name="Left_Engine_Back" visible="1" x="369.47" y="198.57" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="239.34" y="196.83" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="209.84" y="194.11" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="219.51" y="148.50" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="34.35 47.24 181.09 190.01 216.78 225.70 255.45 255.45 305.02 298.08 316.92 330.80 328.82 343.69 345.67 363.52 382.36 394.25 404.17 463.66 463.66 458.70 455.73 393.26 372.44 294.12 222.73 205.88 190.01 177.12 183.07 189.02 182.08 107.72 105.74 58.15 37.33 " y="153.46 176.26 190.14 190.14 211.95 221.87 221.87 203.03 203.03 217.90 222.86 218.89 198.07 195.10 218.89 222.86 214.93 196.09 184.19 174.28 138.59 137.59 164.36 170.31 146.52 145.53 144.53 114.79 75.13 78.11 116.77 160.40 166.35 161.39 169.32 168.33 142.55 "/>
+	</polylinesegments>
+</annotation>

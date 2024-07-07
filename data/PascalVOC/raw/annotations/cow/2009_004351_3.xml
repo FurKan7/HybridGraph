@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_004351</image>
+	<voc_id>3</voc_id>
+	<category>cow</category>
+	<visible_bounds height="30.00" width="52.00" xmin="78.00" ymin="185.00"/>
+	<keypoints>
+		<keypoint name="R_EarBase" visible="1" x="80.08" y="202.16" z="0.00"/>
+		<keypoint name="Throat" visible="1" x="91.14" y="200.84" z="0.00"/>
+		<keypoint name="Withers" visible="1" x="95.35" y="188.60" z="0.00"/>
+		<keypoint name="TailBase" visible="1" x="127.68" y="188.12" z="0.00"/>
+		<keypoint name="L_F_Elbow" visible="1" x="97.47" y="205.44" z="0.00"/>
+		<keypoint name="R_F_Elbow" visible="1" x="99.55" y="203.12" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="110.61 101.48 102.92 95.47 94.39 83.21 78.88 78.40 93.78 127.68 129.48 122.99 118.66 " y="207.44 206.72 214.64 214.04 211.52 208.40 208.16 199.52 187.64 186.20 192.68 196.04 199.88 "/>
+	</polylinesegments>
+</annotation>

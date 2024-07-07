@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_005567</image>
+	<voc_id>1</voc_id>
+	<category>sheep</category>
+	<visible_bounds height="85.00" width="42.00" xmin="374.00" ymin="107.00"/>
+	<keypoints>
+		<keypoint name="TailBase" visible="1" x="386.30" y="126.43" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="380.73" y="141.59" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="396.77" y="147.73" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="388.33" y="185.45" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="385.37 382.08 379.04 375.49 376.00 382.84 397.03 408.68 415.01 415.01 405.13 405.13 403.87 403.11 398.04 399.05 395.76 391.45 384.87 " y="173.24 161.62 148.99 134.85 122.73 114.39 108.33 110.10 121.97 134.85 150.51 154.05 159.10 175.51 176.27 158.34 162.38 185.87 189.15 "/>
+	</polylinesegments>
+</annotation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_005154</image>
+	<voc_id>1</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="318.00" width="404.00" xmin="29.00" ymin="4.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="206.94" y="40.63" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="143.35" y="13.07" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="140.64" y="92.13" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="299.31" y="123.31" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="89.64" y="229.14" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="354.28" y="226.69" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="121.19" y="176.98" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="312.72" y="186.31" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="36.94" y="216.39" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="421.02" y="225.36" z="0.00"/>
+		<keypoint name="CranksetCenter" visible="1" x="238.68" y="238.59" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="147.44 145.56 138.00 140.83 153.11 174.83 197.50 219.22 217.33 200.33 191.83 172.94 160.67 155.94 155.00 192.78 230.56 274.94 289.11 266.44 266.44 277.78 309.89 330.67 332.56 315.56 299.50 294.78 342.94 382.61 421.33 433.61 423.22 379.78 325.00 288.17 283.44 285.33 296.67 272.11 274.00 234.33 220.17 215.44 194.67 203.17 223.00 186.17 161.61 144.61 139.89 164.44 147.44 102.11 54.89 32.22 32.22 53.00 93.61 111.56 121.94 113.44 115.33 122.89 119.11 136.11 " y="1.42 31.66 60.95 80.79 61.89 21.26 22.21 40.16 50.56 48.67 37.33 48.67 85.52 97.80 116.70 116.70 131.82 151.66 128.04 116.70 102.53 94.02 100.64 101.58 118.59 134.65 128.04 163.00 148.83 150.72 176.23 214.97 271.67 301.90 296.23 266.00 262.22 312.30 322.69 318.91 261.27 260.33 270.72 289.62 279.22 264.11 245.21 221.58 179.06 162.06 175.28 226.31 283.00 300.96 283.95 243.32 203.63 163.94 154.50 153.55 128.98 108.19 95.91 90.24 51.50 9.92 "/>
+	</polylinesegments>
+</annotation>

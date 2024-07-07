@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_002435</image>
+	<voc_id>6</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="38.00" width="35.00" xmin="211.00" ymin="39.00"/>
+	<keypoints>
+		<keypoint name="F_WheelCenter" visible="1" x="228.10" y="58.85" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="228.27" y="60.48" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="217.28" y="48.12" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="217.05" y="47.39" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="243.91" y="58.90" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="211.73 211.50 216.71 228.39 238.13 244.03 244.82 241.87 235.64 225.55 217.62 212.97 211.61 " y="51.11 41.18 44.45 41.85 45.35 52.02 60.71 69.18 73.92 74.82 71.44 65.79 59.92 "/>
+	</polylinesegments>
+</annotation>

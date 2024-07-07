@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_003580</image>
+	<voc_id>3</voc_id>
+	<category>bird</category>
+	<subcategory>NonFlying</subcategory>
+	<visible_bounds height="157.00" width="159.00" xmin="32.00" ymin="199.00"/>
+	<keypoints>
+		<keypoint name="Left_Eye" visible="1" x="163.33" y="211.60" z="0.00"/>
+		<keypoint name="Beak_Base" visible="1" x="155.71" y="215.45" z="0.00"/>
+		<keypoint name="Beak_Tip" visible="1" x="144.51" y="222.45" z="0.00"/>
+		<keypoint name="Lower_Neck_Base" visible="1" x="160.53" y="234.00" z="0.00"/>
+		<keypoint name="Upper_Neck_Base" visible="1" x="179.90" y="229.22" z="0.00"/>
+		<keypoint name="Right_Wing_Tip" visible="1" x="89.37" y="287.76" z="0.00"/>
+		<keypoint name="Tail_Tip" visible="1" x="84.93" y="288.46" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="89.13 76.07 59.27 42.47 34.53 37.33 65.80 78.87 95.20 113.87 147.93 157.73 159.13 154.47 145.60 138.13 153.53 155.87 166.13 176.87 183.40 183.40 185.73 189.93 191.33 185.27 179.67 181.53 187.60 180.60 158.20 151.20 151.67 154.93 161.00 146.07 143.27 140.00 130.67 117.60 " y="306.89 303.16 301.76 299.89 298.03 288.70 283.10 283.10 272.37 272.37 254.64 240.65 227.12 221.52 222.92 220.59 212.65 204.72 201.46 201.46 211.72 220.12 231.78 235.98 242.51 259.31 274.70 286.83 296.63 305.96 315.75 317.62 329.75 347.01 354.01 354.01 340.01 322.75 322.75 321.35 "/>
+	</polylinesegments>
+</annotation>

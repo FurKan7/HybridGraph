@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_002435</image>
+	<voc_id>4</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="45.00" width="80.00" xmin="237.00" ymin="26.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="258.26" y="28.75" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="257.59" y="30.67" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="262.12" y="32.62" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="289.76" y="35.41" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="252.84" y="55.74" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="300.91" y="55.19" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="259.71" y="39.96" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="290.81" y="43.11" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="238.73" y="54.81" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="314.53" y="54.44" z="0.00"/>
+		<keypoint name="CranksetCenter" visible="1" x="280.82" y="56.67" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="256.29 249.82 245.01 241.32 239.28 237.99 238.17 240.39 245.94 251.67 257.59 261.47 265.72 267.94 267.76 267.02 264.06 260.73 261.10 264.61 268.13 270.71 274.04 276.63 278.85 281.81 284.58 286.61 288.83 293.09 296.78 302.51 306.21 310.65 314.53 315.46 315.46 313.79 309.36 303.07 295.67 292.16 291.05 286.43 287.72 292.35 294.93 295.12 295.12 280.14 277.74 283.47 285.69 284.95 278.29 264.06 264.24 263.50 263.50 257.59 260.36 261.47 259.81 258.33 258.33 257.40 " y="40.70 40.14 41.63 45.16 48.69 53.70 59.46 64.66 69.67 70.60 70.23 68.19 63.54 58.71 53.33 50.36 45.53 42.56 41.26 44.79 49.24 52.96 53.89 55.37 59.09 60.20 60.39 60.20 64.29 68.00 69.30 70.41 69.86 66.33 61.87 56.67 50.54 46.09 41.44 39.03 39.21 42.00 42.56 39.03 34.20 33.46 31.79 29.37 27.89 26.59 26.96 31.97 33.83 37.17 36.24 34.39 31.04 28.44 26.40 26.96 29.93 31.97 38.84 38.66 41.07 40.70 "/>
+	</polylinesegments>
+</annotation>

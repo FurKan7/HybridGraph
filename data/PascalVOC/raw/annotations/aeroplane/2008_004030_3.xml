@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_004030</image>
+	<voc_id>3</voc_id>
+	<category>aeroplane</category>
+	<subcategory>FighterJet</subcategory>
+	<visible_bounds height="53.00" width="73.00" xmin="297.00" ymin="196.00"/>
+	<keypoints>
+		<keypoint name="Bot_Rudder" visible="1" x="298.49" y="219.97" z="0.00"/>
+		<keypoint name="L_Stabilizer" visible="1" x="299.21" y="210.62" z="0.00"/>
+		<keypoint name="R_Stabilizer" visible="1" x="297.79" y="229.30" z="0.00"/>
+		<keypoint name="L_WingTip" visible="1" x="314.18" y="198.82" z="0.00"/>
+		<keypoint name="R_WingTip" visible="1" x="309.80" y="245.59" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="367.75" y="228.69" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="362.63" y="226.32" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="358.13" y="229.58" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="334.51" y="220.48" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="344.55" y="232.19" z="0.00"/>
+		<keypoint name="Bot_Rudder_Front" visible="1" x="309.96" y="217.95" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="311.40 318.65 344.30 348.85 350.37 357.46 357.63 366.06 367.07 369.60 366.57 364.37 356.44 355.94 347.33 314.44 308.53 307.52 321.86 308.02 297.56 297.56 301.78 297.90 297.90 309.37 317.98 310.89 311.40 " y="197.21 196.71 218.79 217.27 220.31 220.48 222.84 225.03 226.88 228.06 230.25 232.11 230.93 232.95 232.28 247.11 247.11 235.82 226.38 225.20 230.93 217.61 217.95 214.58 208.51 215.59 216.09 208.68 198.06 "/>
+	</polylinesegments>
+</annotation>

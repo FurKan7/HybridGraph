@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2010_004537</image>
+	<voc_id>1</voc_id>
+	<category>bicycle</category>
+	<visible_bounds height="268.00" width="461.00" xmin="27.00" ymin="73.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="296.92" y="108.92" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="325.69" y="84.94" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="337.41" y="110.52" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="169.71" y="98.58" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="413.05" y="262.49" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="114.31" y="257.80" z="0.00"/>
+		<keypoint name="F_WheelIntersection" visible="1" x="365.64" y="183.26" z="0.00"/>
+		<keypoint name="B_WheelIntersection" visible="1" x="164.10" y="180.86" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="484.01" y="253.54" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="36.53" y="255.03" z="0.00"/>
+		<keypoint name="CranksetCenter" visible="1" x="241.52" y="274.21" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="177.59 169.07 161.61 138.17 138.17 138.17 201.03 219.14 219.14 205.29 194.64 203.16 266.02 312.90 333.14 304.38 287.33 318.23 324.62 339.54 368.30 382.15 391.74 397.07 366.17 384.29 423.71 463.13 474.85 483.37 485.50 481.24 467.39 436.49 390.68 358.72 334.21 321.43 320.36 340.60 310.77 292.66 272.42 273.48 272.42 269.22 246.85 244.71 217.01 202.10 178.66 148.83 98.75 61.46 45.48 33.76 34.83 33.76 55.07 78.51 104.08 126.45 154.15 166.94 " y="153.15 133.97 114.78 116.91 95.60 73.22 74.29 75.35 84.94 111.59 130.77 140.36 138.23 124.37 120.11 117.98 100.93 86.01 77.48 73.22 71.09 80.68 94.53 130.77 141.43 157.41 159.54 178.73 197.91 228.81 262.92 302.35 325.79 341.78 341.78 338.58 314.07 268.25 237.34 198.97 229.88 257.59 271.44 300.22 327.93 342.85 340.71 315.14 303.41 302.35 326.86 337.52 346.04 332.19 303.41 270.38 229.88 200.04 180.86 167.00 153.15 149.95 160.61 155.28 "/>
+	</polylinesegments>
+</annotation>

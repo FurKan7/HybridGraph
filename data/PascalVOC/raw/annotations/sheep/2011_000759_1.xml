@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_000759</image>
+	<voc_id>1</voc_id>
+	<category>sheep</category>
+	<visible_bounds height="69.00" width="58.00" xmin="301.00" ymin="1.00"/>
+	<keypoints>
+		<keypoint name="TailBase" visible="1" x="321.04" y="6.00" z="0.00"/>
+		<keypoint name="L_B_Elbow" visible="1" x="310.64" y="27.37" z="0.00"/>
+		<keypoint name="R_B_Elbow" visible="1" x="341.36" y="29.12" z="0.00"/>
+		<keypoint name="L_F_Paw" visible="1" x="320.40" y="65.96" z="0.00"/>
+		<keypoint name="R_F_Paw" visible="1" x="345.20" y="65.32" z="0.00"/>
+		<keypoint name="L_B_Paw" visible="1" x="318.64" y="69.63" z="0.00"/>
+		<keypoint name="R_B_Paw" visible="1" x="338.32" y="69.79" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="302.32 357.04 356.56 353.84 348.24 349.84 346.96 347.76 341.20 337.04 332.08 331.12 334.00 333.36 331.12 325.84 321.68 320.88 322.16 322.48 321.36 312.40 311.92 308.40 304.56 302.64 " y="2.01 2.33 12.54 21.31 33.27 50.17 63.25 67.23 68.35 68.83 67.07 63.09 53.84 39.97 34.54 34.22 35.34 43.95 58.78 65.48 68.03 66.91 59.10 47.62 29.60 19.87 "/>
+	</polylinesegments>
+</annotation>

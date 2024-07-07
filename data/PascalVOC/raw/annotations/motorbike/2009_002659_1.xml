@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_002659</image>
+	<voc_id>1</voc_id>
+	<category>motorbike</category>
+	<visible_bounds height="240.00" width="229.00" xmin="108.00" ymin="82.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="231.77" y="90.75" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="121.21" y="172.76" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="193.25" y="139.60" z="0.00"/>
+		<keypoint name="F_WheelCenter" visible="1" x="278.85" y="279.73" z="0.00"/>
+		<keypoint name="B_WheelCenter" visible="1" x="139.75" y="197.72" z="0.00"/>
+		<keypoint name="F_WheelEnd" visible="1" x="319.87" y="298.63" z="0.00"/>
+		<keypoint name="B_WheelEnd" visible="1" x="110.51" y="177.75" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="109.79 144.75 183.98 216.08 226.07 262.45 320.23 339.49 322.37 293.83 309.53 283.13 242.47 221.07 238.91 233.91 217.51 202.53 169.71 " y="181.32 228.39 263.33 247.64 232.67 282.59 321.81 306.12 266.18 245.50 234.09 198.43 178.47 129.26 96.45 85.04 95.03 127.83 110.00 "/>
+	</polylinesegments>
+</annotation>

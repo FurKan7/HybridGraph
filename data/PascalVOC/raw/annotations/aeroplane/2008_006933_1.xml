@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2008_006933</image>
+	<voc_id>1</voc_id>
+	<category>aeroplane</category>
+	<subcategory>Passenger</subcategory>
+	<visible_bounds height="327.00" width="482.00" xmin="18.00" ymin="29.00"/>
+	<keypoints>
+		<keypoint name="R_WingTip" visible="1" x="29.90" y="236.57" z="0.00"/>
+		<keypoint name="NoseTip" visible="1" x="295.39" y="122.91" z="0.00"/>
+		<keypoint name="Nose_Top" visible="1" x="338.09" y="28.20" z="0.00"/>
+		<keypoint name="Nose_Bottom" visible="1" x="302.44" y="158.57" z="0.00"/>
+		<keypoint name="Left_Wing_Base" visible="1" x="479.56" y="242.14" z="0.00"/>
+		<keypoint name="Right_Wing_Base" visible="1" x="334.75" y="251.06" z="0.00"/>
+		<keypoint name="Right_Engine_Front" visible="1" x="211.10" y="277.80" z="0.00"/>
+		<keypoint name="Right_Engine_Back" visible="1" x="264.57" y="282.26" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="19.50 309.13 245.63 232.27 291.30 380.42 435.00 459.51 480.68 500.73 500.73 482.91 441.69 370.40 371.51 388.22 382.65 329.18 326.95 320.27 300.22 284.62 261.23 266.80 234.49 189.93 172.11 175.45 145.38 124.21 21.73 " y="226.54 233.23 184.20 114.00 31.54 30.43 77.23 149.66 222.09 224.31 284.49 267.77 293.40 275.57 311.23 330.17 354.69 354.69 313.46 258.86 256.63 271.11 249.94 293.40 319.03 310.11 268.89 248.83 256.63 242.14 242.14 "/>
+	</polylinesegments>
+</annotation>

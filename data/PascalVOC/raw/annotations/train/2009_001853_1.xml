@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2009_001853</image>
+	<voc_id>1</voc_id>
+	<category>train</category>
+	<visible_bounds height="105.00" width="166.00" xmin="242.00" ymin="127.00"/>
+	<keypoints>
+		<keypoint name="Base_Front_Left" visible="1" x="309.40" y="223.52" z="0.00"/>
+		<keypoint name="Base_Front_Right" visible="1" x="242.39" y="221.35" z="0.00"/>
+		<keypoint name="Roof_Front_Middle" visible="1" x="273.85" y="130.74" z="0.00"/>
+		<keypoint name="Base_Back_Left" visible="1" x="410.55" y="201.25" z="0.00"/>
+		<keypoint name="Roof_Back_Left" visible="1" x="413.05" y="180.57" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="243.28 259.78 267.84 280.88 300.45 304.28 328.45 407.87 408.25 304.67 248.27 243.28 241.75 243.28 " y="132.91 128.70 127.93 129.85 132.91 133.29 140.95 181.15 202.59 228.24 232.07 225.56 224.03 129.85 "/>
+	</polylinesegments>
+</annotation>

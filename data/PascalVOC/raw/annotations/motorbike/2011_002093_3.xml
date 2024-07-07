@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<image>2011_002093</image>
+	<voc_id>3</voc_id>
+	<category>motorbike</category>
+	<visible_bounds height="135.00" width="320.00" xmin="1.00" ymin="52.00"/>
+	<keypoints>
+		<keypoint name="L_HandleTip" visible="1" x="230.52" y="52.90" z="0.00"/>
+		<keypoint name="R_HandleTip" visible="1" x="274.52" y="94.71" z="0.00"/>
+		<keypoint name="HandleCenter" visible="1" x="237.91" y="72.88" z="0.00"/>
+		<keypoint name="SeatBase" visible="1" x="81.87" y="128.38" z="0.00"/>
+	</keypoints>
+	<polylinesegments>
+		<segment name="foreground" x="33.80 319.26 320.00 314.09 288.20 266.76 243.09 197.24 55.24 16.79 2.74 1.26 2.74 " y="183.88 183.14 109.88 104.70 60.30 55.86 56.60 52.16 55.86 63.26 72.88 86.94 183.14 "/>
+	</polylinesegments>
+</annotation>
