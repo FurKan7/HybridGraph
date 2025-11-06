@@ -3,6 +3,9 @@
 
 PyTorch implementation of Image Keypoint Matching for Graph Neural Networks. Code based on [DGMC](https://github.com/rusty1s/deep-graph-matching-consensus). To run the aglorithm presented in the paper use: 
 
+
+-- Paper https://ieeexplore.ieee.org/document/11112406
+
 ```
 $ cd examples/
 $ python pascal.py
